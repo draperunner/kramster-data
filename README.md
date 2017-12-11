@@ -20,14 +20,14 @@ translating the exam to the structured file format explained below, and then ins
 The file structure of this repo is as follows:
 
 * New exams (PDFs) that have not been processed are put in the `todo` folder.
-* Exams that are being processed, that is, being written on the specified file format, are put in the root folder.
+* Exams that are being processed, that is, being written on the specified file format, are put in the `doing` folder.
 * When an exam is done, the PDF and the produced .txt file are put in the `done` folder.
 
 It doesn't get much simpler than that, huh?
 
 If you want to just add an exam to this repo, make a pull request with your exam in the `todo` folder. You don't have to do the whole procedure. :)
 
-If you want to process an exam that is in `todo`, move it to the root folder and create a .txt file with the same name, and start writing. If you are a hero and finishes the exam, please don't put in `done`, but create a pull request. I will put in the `done` folder after it has been published to kramster.it.
+If you want to process an exam that is in `todo`, move it to `doing` and create a .txt file with the same name, and start writing. If you are a hero and finishes the exam, please don't put in `done`, but create a pull request. I will put in the `done` folder after it has been published to kramster.it.
 
 ## The File Format
 In this section, the format of the exam file format is explained. Some examples are provided. For complete examples, check the `done/txts` folder. It's full of examples!
@@ -125,8 +125,8 @@ optional arguments:
 
 When you have written a .txt file on the format described above, you can add it to your database using this script. The default database name is `kramster`, running on your local MongoDB instance.
 
-Example usage: `python3 inserter.py tdt4100-2014h.txt`
+Example usage: `python3 inserter.py doing/tdt4100-2014h.txt`
 
 If everything goes well, you'll see the exam in your browser. If the program crashes, you likely have an error in your txt file.
 
-After testing your freshly produced exam, you might have found a typo or some other error. You will then fix this in your txt file. To reinsert the exam into your database, you can use the `--reinsert` or `-r` option of the script. Like this: `python3 inserter.py tdt4100-2014h.txt -r`. Then go test your changes!
+After testing your freshly produced exam, you might have found a typo or some other error. You will then fix this in your txt file. To reinsert the exam into your database, you can use the `--reinsert` or `-r` option of the script. Like this: `python3 inserter.py doing/tdt4100-2014h.txt -r`. Then go test your changes!
