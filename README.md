@@ -87,8 +87,10 @@ O
 3
 O
 4
+O
+It's an unsolved problem.
 ```
-Note that 4 is the correct answer to this question, and that 4's _index_ is 3, so the 3 comes on line two.
+Note that 4 is the correct answer to this question, and that the _index_ of 4 is 3, so the 3 comes on line two.
 
 ### Images and Math Equations and Stuff
 Questions and alternatives accept safe HTML. This includes the `<img>` tag. We'll use that to add images.
@@ -99,3 +101,32 @@ Kramster uses Katex (https://github.com/Khan/KaTeX) for rendering math equations
 Example of inline equation: `The function \(f(x) = x \) is continuous`.
 
 Example of block style equation: `The following equation will be on its own line $$ F = ma $$`.
+
+## Using the Inserter
+The Python 3 CLI script `inserter.py` has the following usage:
+```
+python3 inserter.py --help
+```
+```
+usage: inserter.py [-h] [-d] [-r] [-e] [--db DB] file [file ...]
+
+Kramster inserter
+
+positional arguments:
+  file               files to insert or remove
+
+optional arguments:
+  -h, --help         show this help message and exit
+  -d, --delete       delete exam
+  -r, --reinsert     delete and insert exam
+  -e, --explanation  add explanation to existing questions
+  --db DB            database to use (default: kramster)
+```
+
+When you have written a .txt file on the format described above, you can add it to your database using this script. The default database name is `kramster`, running on your local MongoDB instance.
+
+Example usage: `python3 inserter.py tdt4100-2014h.txt`
+
+If everything goes well, you'll see the exam in your browser. If the program crashes, you likely have an error in your txt file.
+
+After testing your freshly produced exam, you might have found a typo or some other error. You will then fix this in your txt file. To reinsert the exam into your database, you can use the `--reinsert` or `-r` option of the script. Like this: `python3 inserter.py tdt4100-2014h.txt -r`. Then go test your changes!
