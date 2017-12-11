@@ -1,0 +1,426 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2015 Kont
+MC
+
+Q
+3
+Det er mange gode grunner til å lage en forretningsplan. Hvilken av de fire nedenfor er IKKE korrekt?
+O
+En forretningsplan tvinger entreprenøren til å tenke systematisk igjennom alle viktige sider ved sin oppstart
+O
+Forretningsplanen hjelper firmaets øvrige ansatte til å forstå hva gründerne har tenkt på med oppstarten
+O
+Forretningsplanen er en hjelp til å argumentere overfor potensielle investorer
+O
+Forretningsplanen kreves for offentlig registrering når du oppretter selskapet
+
+Q
+2
+Hvilken av følgende påstander om teknologibaserte bedrifter som ønsker å vokse er korrekt?
+O
+Alle teknologibedrifter som lykkes godt kommersielt har en unik ide som kan beskyttes med
+patenter eller andre formelle beskyttelsesmekanismer.
+O
+Alle entreprenør-bedrifter som skal lykkes bør ha tidlig finansiering av banker, slik at tilgangen på
+kapital sikres.
+O
+En oppstart som gjøres av et tverrfaglig team lykkes som regel best kommersielt
+O
+En teknologibedrift som skal lykkes kommersielt bør som hovedregel ha med en "business angel"
+som investor.
+
+Q
+0
+Hvilken av ressursene under regnes normalt IKKE som en fysisk ressurs?
+O
+Egenkapital
+O
+Maskiner
+O
+Bygninger
+O
+Produksjonsanlegg
+
+Q
+2
+Hvilke tre "investment risks" omtales ofte i forbindelse med investeringeri potensielle
+vekstbedrifter?
+O
+Konkurranserisiko, økonomisk risiko og kompetanserisiko
+O
+Teknologirisiko, konkursrisiko, og markedsrisiko
+O
+Teknologisk risiko, markedsrisiko og agentrisiko
+O
+Bransjerisiko, markedsrisiko og kapitalrisiko
+
+Q
+3
+Hvilken av følgende finansieringskilder vil normalt regnes som «hard funding»?
+O
+Etablererstipend
+O
+Venner og bekjente
+O
+Såkornfond
+O
+Venture-selskaper
+
+Q
+0
+Hvilket av de følgende utsagnene beskriver ikke en del av motivasjonsligningen?
+O
+Utfall som følelsen av å tilhøre en gruppe, deling av normer og verdier
+O
+Ytelse, slik som mengde og kvalitet på utført arbeid, samt nivået på kundeservice
+O
+lnnsatsfaktorer som utdannelse, ferdigheter og kunnskap
+O
+lnnsatsfaktorer som innsats, tid og erfaring
+
+
+Q
+2
+Hva er forskjellen mellom indre (intrinsic) og ytre (extrinsic) motivasjon?
+O
+Indre motivasjon er styrt av individuelle preferanser men ytre motivasjon er styrt av eksterne krav
+O
+Hovedforskjellen er at indre motivasjon er biologisk betinget, men ytre motivasjon er betinget av
+situasjonen
+O
+Indre motivasjon er motivasjon basert på å uføre en handling for handlingens egen verdi, mens ytre
+motivasjon er basert på oppnåelse av belønning eller unngåelse av straff
+O
+Indre motivasjon er motivasjon basert på individuelle preferanser og personlighet, mens ytre moti-
+vasjon er basert på gruppens normer og forventninger
+
+
+Q
+3
+Hvilke av de følgende problemene er assosiert med funksjonelle strukturer?
+O
+Delegasjonsproblemer forårsaket av komplekse interne gjensidige avhengigheter mellom ulike
+typer ekspertise
+O
+Utfordringer for beslutningstaking som er forårsaket av ulike prioriteringer mellom forskjellige
+produkter og prosesser og deres overordnede funksjon for bedriften
+O
+Begrensede muligheter til å lære av hverandre, og utfordringer med å etablere spesialisering og høy
+produktivitet
+O
+Økt spesialisering kan føre til suboptimalisering som kan forårsake kommunikasjonsproblemer
+
+
+Q
+1
+Hva kjennetegner en sentralisert organisasjon?
+O
+En sentralisert organisasjon har minimalt antall hierarkiske nivåer, og dette sikrer at alle beslutninger alltid blir tatt nært den enhet/avdeling som blir påvirket av beslutningen
+O
+En organisatorisk oppbygning hvor autoriteten til å gjøre viktige beslutninger er plassert hos ledere
+på toppen av hierarkiet
+O
+En organisasjon som er basert på en geografisk struktur med ledelse som opererer fra et felles hovedkvarter
+O
+En organisasjonell struktur som tillater hyppig kommunikasjon med sentrale beslutningstakere
+
+
+Q
+0
+Hvilket utsagn om eksplisitt kunnskap er ikke korrekt?
+O
+Eksplisitt kunnskap er den viktigste kunnskapstypen for radikal innovasjon
+O
+Eksplisitt kunnskap er enkel å kommunisere
+O
+Eksplisitt kunnskap er viktigst for inkrementell innovasjon
+O
+Eksplisitt kunnskap er vanligvis mulig å formulere, lagre og bekrefte
+
+Q
+2
+En bedrift har marginalkostnader som kan skrives som \(MC(Q) = aQ + b\), der \(Q\) er mengden og \(a\) og
+\(b\) er konstanter. Hva blir da de variable kostnadene?
+O
+\(aQ\)
+O
+\(a + bQ\)
+O
+\(\frac{1}{2}aQ^2+bQ\)
+O
+\(2aQ^2+bQ\)
+
+Q
+2
+En bedrift har totalkostnadene TC, marginalkostnadene MC, variable kostnader VC, gjennomsnittskostnader AC og faste kostnader FC. Den produserer mengden Q. Hvilken sammenheng er generelt
+korrekt?
+O
+\(AC = FC/Q\)
+O
+\(TC = AC \cdot Q + FC\)
+O
+\(VC = TC - FC\)
+O
+\(TC = MC \cdot Q + FC\)
+
+Q
+0
+Etterspørselen til en bedrift er gitt ved funksjonen P(Q) der P er prisen og Q er mengden. Etterspørselen har den normale helningen slik at dP/dQ < 0. Marginalinntekten kan skrives som
+\(MR = Q \frac{dP}{dQ} + P\). Hva blir den mest presise og korrekte beskrivelsen av de to leddene i marginalinntekten?
+O
+P er inntektsøkningen ved å selge én enhet mer mens \(Q \frac{dP}{dQ}\) er inntektsreduksjonen som følge
+av prisreduksjonen som er nødvendig for å selge én enhet mer.
+O
+P er inntekten for den siste enheten som selges og \(Q \frac{dP}{dQ}\) er gjennomsnittsinntekten for alle
+enhetene.
+O
+P er inntektsøkningen ved å selge én enhet mer mens \(Q \frac{dP}{dQ}\) er inntektsøkningen for alle de
+andre enhetene.
+O
+P er gjennomsnittsinntekten for alle enhetene som selges mens \(Q \frac{dP}{dQ}\) er endringen i pris som
+er nødvendig for å selge én enhet mer.
+
+Q
+1
+Dersom etterspørselselastisiteten er definert slik at den er et positivt tall for normal etterspørsel og er
+nøyaktig 1, hva kan vi si om marginalinntekten, MR?
+O
+MR = 1
+O
+MR = 0
+O
+MR > 0
+O
+MR < 0
+
+Q
+2
+Hva er en korrekt tolkning når en økonom sier at etterspørselen er mer elastisk i marked A enn i
+marked B?
+O
+En prisøkning på én enhet fører til reduksjon i etterspurt mengde med flere enheter i marked A enn
+i marked B.
+O
+En prisøkning på én enhet fører til reduksjon i etterspurt mengde med færre enheter i marked A
+enn i marked B.
+O
+En prisøkning på én prosent fører til relativt større reduksjon i etterspurt mengde i marked A enn i
+marked B.
+O
+En prisøkning på én prosent fører til relativt mindre reduksjon i etterspurt mengde i marked A enn
+i marked B.
+
+Q
+3
+En bedrift i et frikonkurransemarked har marginalkostnader gitt ved MC = 0,1Q + 1000 der Q er
+mengden. Dersom prisen i markedet øker fra 2000 til 2050, hvor mange flere enheter vil bedriften
+produsere?
+O
+200
+O
+300
+O
+400
+O
+500
+
+Q
+1
+Et monopol har marginalkostnader gitt ved MC = 0,2Q + 100 der Q er mengden. De faste
+kostnadene er på 100 000. Etterspørselen kan skrives som P = 1100 - 0,9Q der Q er mengden og P
+er prisen. Hva blir profitten til monopolet per periode?
+O
+50 000
+O
+150 000
+O
+200 000
+O
+250 000
+
+Q
+0
+Etterspørselen i et duopolmarked der bedriftene opptrer i tråd med Cournot-modellen er gitt ved
+P = 200 - 2Q der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader på 20. Hva
+blir prisen i markedet ved likevekt?
+O
+80
+O
+90
+O
+100
+O
+110
+
+Q
+2
+En bedrift har egenkapital på 100 og egenkapitalrentabilitet på 10 % før skatt. En annen bedrift er helt
+lik, bortsett fra at den har egenkapital på 50 og gjeld på 50 som den betaler 5 % rente på. Hva blir
+denne bedriftens egenkapitalrentabilitet før skatt?
+O
+5 %
+O
+10 %
+O
+15 %
+O
+20 %
+
+Q
+3
+En bedrift har ikke varelager. Omløpsmidlene består kun av kontanter. Og kortsiktig gjeld er bare
+leverandørgjeld. Hva kan vi da si om relasjonen mellom likviditetsgrad 1 (current ratio) og
+likviditetsgrad 2 (acid test ratio)?
+O
+Ingenting. Vi må ha mer informasjon for å kunne si noe.
+O
+Likviditetsgrad 1 er større enn likviditetsgrad 2.
+O
+Likviditetsgrad 1 er mindre enn likviditetsgrad 2.
+O
+Likviditetsgrad 1 er lik likviditetsgrad 2.
+
+Q
+1
+Et investeringsprosjekt innebærer en investering nå på 200 000 000. Om ett år er forventet positiv
+kontantstrøm 0, om to år er forventet positiv kontantstrøm på 150 000 000 og, til slutt, om tre år
+forventes en positiv kontantstrøm på 100 000 000. Dersom avkastningskravet er 8 %, hva blir
+forventet nettonåverdi for prosjektet?
+O
+0
+O
+7 984 047
+O
+24 622 771
+O
+50 000 000
+
+Q
+0
+I forbindelse med et investeringsprosjekt der det er stor usikkerhet om framtidige kontantstrømmer,
+regner en bedrift med at to år etter investeringstidspunktet vil det være en tredjedel sannsynlighet for
+hver av følgende: En negativ kontantstrøm på 1 million, en positiv kontantstrøm på 1 million og en
+positiv kontantstrøm på 2 millioner. Hva er forventet nåverdi av kontantstrømmen den nevnte
+perioden når avkastningskravet er 10 % per år?
+O
+550 964
+O
+606 060
+O
+666 667
+O
+2 000 000
+
+Q
+3
+Hva skal diskonteringsrenten som brukes ved nettonåverdiberegninger knyttet til mulige
+investeringsprosjekter i bedrifter prinsipielt sett reflektere?
+O
+Den forventede avkastningen i aksjemarkedet.
+O
+Renten på statsobligasjoner.
+O
+Den forventede avkastningen eierne har på sine investeringsporteføljer.
+O
+Eiernes alternativkostnad til kapital.
+
+Q
+1
+En risikoavers investor vurderer å kjøpe andeler i ett av tre mulige aksjefond som vi kaller A, B og C.
+Det er ikke aktuelt å investere i mer enn ett av fondene, men investoren har mulighet til å også ha
+bankinnskudd eller låne penger til samme, risikofrie rente på 1 %. Aksjefond A har forventet
+avkastning på 5 % og standardavvik på 12 %. Aksjefond B har forventet avkastning på 7 % og
+standardavvik på 15 %. Aksjefond C har forventet avkastning på 9 % og standardavvik på 24 %.
+Hvilket fond vil investoren velge?
+O
+Aksjefond A.
+O
+Aksjefond B.
+O
+Aksjefond C.
+O
+Vi kan ikke si noe om valget mellom fondene uten å vite noe om graden av risikoaversjon.
+
+Q
+3
+I forbindelse med diversifisering er det vanlig å skille mellom to former for risiko. Hvilken
+kombinasjon av begreper fanger opp begge?
+O
+Systematisk risiko og markedsrisiko.
+O
+Diversifiserbar risiko og unik risiko.
+O
+Ikke-diversifiserbar risiko og systematisk risiko.
+O
+Diversifiserbar risiko og systematisk risiko.
+
+Q
+2
+Beta til aksjen til et selskap er 1,5. Forventet avkastning i markedet er 9 % og risikofri rente er 3 %.
+Anta at Capital Asset Pricing Model, dvs. kapitalverdimodellen, er korrekt. Hva er da forventet
+avkastning til aksjen?
+O
+6 %
+O
+9 %
+O
+12 %
+O
+15 %
+
+Q
+1
+Beta for aktiva for et selskap er 1,00. Beta for selskapets gjeld er 0,25. Gjeldsandelen er 40 %. Hva
+blir da beta til selskapets egenkapital?
+O
+1,00
+O
+1,50
+O
+1,75
+O
+2,00
+
+Q
+2
+Avkastningen til et selskaps egenkapital er 8 %. Avkastningen til selskapets gjeld er 4 %.
+Gjeldsandelen er 40 %. Selskapsskattesatsen er 25 %. Hva blir avkastningskravet til totalkapitalen
+etter skatt, dvs. WACC?
+O
+4,0 %
+O
+5,5 %
+O
+6,0 %
+O
+8,0 %
+
+Q
+2
+Et verdipapir gir en positiv kontantstrøm på 100 om ett år og så hvert år i all framtid. Dersom
+avkastningskravet er 5 % per år, hva blir verdien av verdipapiret nå?
+O
+500
+O
+1 000
+O
+2 000
+O
+5 000
+
+Q
+0
+Du har følgende estimater knyttet til et mulig investeringsprosjekt en bestemt periode i framtida:
+Kontantstrøm fra drift av prosjektet er 8 000 000, rentekostnader på investeringsbeløpet er 600 000
+og selskapsskattesatsen er 27 %. Det er ingen avskrivninger eller nedskrivninger. Du skal bruke
+avkastningskravet til totalkapitalen etter skatt, dvs. WACC som diskonteringsrente. Hvilken
+kontantstrøm skal du da diskontere den aktuelle perioden?
+O
+5 840 000
+O
+6 002 000
+O
+7 400 000
+O
+8 000 000

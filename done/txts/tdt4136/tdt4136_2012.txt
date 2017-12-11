@@ -1,0 +1,13 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4136 Introduction to Artificial Intelligence
+2012 Fall
+Simple reflex agents often use situation-actions rules for their reasoning. §§ 0 §§ True §§ False
+Simple reflex agents have an internal model of the current state of the world. §§ 1 §§ True §§ False
+An agent's utility function is essentially internalization of the performance measure. §§ 0 §§ True §§ False
+In order to be rational an agent should have a utility function. §§ 1 §§ True §§ False
+In a learning agent the learning element is responsible for selecting the external action to be executed next. §§ 1 §§ True §§ False
+Taxi driving happens in a stochastic, sequential, partially observable, and continuous environment. §§ 0 §§ True §§ False
+Agents need an internal model to cope with partially observable environments. §§ 0 §§ True §§ False
+An agent system has an agent function that selects the next action and a state transition function which computes what the next state of the environment would be when an action is executed. §§ 0 §§ True §§ False
+The action selection in model based agents uses as input the currently sensed data as well as the internal representation of the environment. §§ 0 §§ True §§ False
+In goal-based agents, rationality of the agents is measured based on the utility function. §§ 1 §§ True §§ False

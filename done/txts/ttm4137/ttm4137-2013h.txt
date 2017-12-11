@@ -1,0 +1,308 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2013 Fall
+
+
+Q
+1
+Which one of the following security goals were present for the WEP design:
+O
+To be equivalent to the Kerberos access policy.
+O
+To be equivalent to wired access point security.
+O
+To be equivalent to wide ethernet protocol.
+O
+To be equivalent to wireless entity policy.
+
+Q
+3
+Which key distribution protocol is specified in WEP?
+O
+Diffie-Hellman key distribution.
+O
+RC4 key distribution.
+O
+RSA key distribution.
+O
+There is no specified key distribution protocol in WEP.
+
+Q
+2
+What is the major weakness in WEP, exploited by the PTW attack used in the lab?
+O
+RC4 is broken even with 104 bit keys
+O
+The initialization vector is too short
+O
+No protection against message replay
+O
+The integrity check value is too short
+
+Q
+1
+WPA and WPA2 share the following security component:
+O
+CCMP
+O
+TKIP
+O
+AES
+O
+RC4
+
+Q
+0
+How many message integrity failures have to be logged in order the Temporal Key Integrity Protocol to start the Denial Of Service mechanism:
+O
+Two failures within 60 seconds
+O
+Two failures within 30 seconds
+O
+Two failures within 10 seconds
+O
+Two failures within 1 second
+
+Q
+3
+In RSN, the encryption and message authentication are realized via
+O
+AES-GCM
+O
+AES-CBC
+O
+AES-HMAC
+O
+AES-CCMP
+
+Q
+2
+How big is the message integrity code in RSN
+O
+32 bits
+O
+48 bits
+O
+64 bits
+O
+128 bits
+2
+
+Q
+0
+What is Extensible Authentication Protocol (EAP)?
+O
+EAP is a set of encapsulation messages for upper-layer authentication methods
+O
+EAP is a set of encapsulation messages for physical layer authentication methods
+O
+EAP is a set of encapsulation messages for PKI authentication methods
+O
+EAP is a set of encapsulation messages for RADIUS server authentication methods
+
+Q
+0
+In GSM, what is the role of the Visitor Location Register:
+O
+When mobile equipment register to the network, to retrieve the information for that equipment from HLR.
+O
+To protect the anonymity of the owner of the mobile equipment.
+O
+To obtain a session key from HLR.
+O
+To communicate the user’s Authentication Center (AuC).
+
+Q
+3
+Which security mechanism is NOT present in GSM:
+O
+Authentication
+O
+Confidentiality
+O
+Anonymity
+O
+Authorization
+
+Q
+1
+In GSM, what is the role of A8 algorithm:
+O
+For production of random numbers
+O
+For encryption key generation
+O
+For user authentication
+O
+For Data encryption
+
+Q
+0
+The function f6( ) in the MAPsec protocol of UMTS is:
+O
+AES in counter mode
+O
+AES in CBC mode
+O
+KASUMI in counter mode
+O
+KASUMI in CBC mode
+
+Q
+2
+How many modes of protection offers MAPsec?
+O
+1
+O
+2
+O
+3
+O
+4
+
+Q
+2
+What is the crucial protocol in IP Multimedia Subsystem
+O
+Internet Key Exchange (IKE)
+O
+MAPsec
+O
+Session Initiation Protocol (SIP)
+O
+IPsec
+3
+
+Q
+1
+A simple description of MILENAGE functions can be done as:
+O
+\(f_{i,K}(x) = E_K(E_K(x \oplus c_i ) );\) where \(i = 1,2,3,4,5\), and \(c_i\) are distinct constants
+O
+\(f_{i,K}(x) = E_K(E_K(x) \oplus c_i );\) where \(i = 1,2,3,4,5\), and \(c_i\) are distinct constants
+O
+\(f_{i,K}(x) = E_K(E_K(c_i ) \oplus x);\) where \(i = 1,2,3,4,5\), and \(c_i\) are distinct constants
+O
+\(f_{i,K}(x) = E_K(E_K(x) ) \oplus c_i ;\) where \(i = 1,2,3,4,5\), and \(c_i\) are distinct constants
+
+Q
+3
+Which two ciphers are used in UEA1 and UEA2
+O
+AES and KASUMI
+O
+AES and RC4
+O
+AES and SNOW 3G
+O
+KASUMI and SNOW 3G
+
+Q
+1
+In UMTS, the function f9( ) is used for:
+O
+Integrity key generation
+O
+Integrity protection
+O
+Encryption key generation
+O
+Encryption
+
+Q
+1
+Where is encryption located in the UMTS stack of protocols?
+O
+In Physical Layer and Media Access Control Layer
+O
+In Media Access Control Layer and Radio Link Control Layer
+O
+In Radio Link Control Layer and Radio Resource Control Protocol
+O
+In Radio Resource Control Protocol and Higher Layers
+
+Q
+1
+In UMTS, the security mechanisms employed between the Mobile Station and the Radio
+Network Controller are responsible for:
+O
+Sequence Number Management
+O
+Encryption and Integrity Protection
+O
+User Authentication
+O
+Network Authentication
+
+Q
+3
+In LTE, the Home Subscriber Server has the following information:
+O
+policy control and decision-making rules,
+O
+IP address allocation for the UE,
+O
+buffer of downlink data while the MME paging,
+O
+information about the PDNs.
+
+Q
+0
+In LTE, E-UTRAN is the part of the whole system infrastructure responsible for the:
+O
+radio access network
+O
+circuit switch core network
+O
+packet switch core network
+O
+evolved packet core network
+4
+
+Q
+0
+How many security levels has LTE?
+O
+5
+O
+4
+O
+3
+O
+2
+
+Q
+3
+The following component IS NOT a part of the RFID technology
+O
+Transceiver – Tag Reader
+O
+Transponder – RFID tag
+O
+Antenna
+O
+Infra Red Analog/Digital Converter
+
+Q
+2
+The EPCGen2 tag is
+O
+A passive tag that allows just low-speed reading and sortation
+O
+An Active tag that allows high-speed reading and sortation
+O
+A passive tag that allows high-speed reading and sortation
+O
+An Active tag that allows just low-speed reading and sortation
+
+Q
+3
+In RFID, the usual budget for implementation of the cryptographic primitives is:
+O
+100 – 200 gates
+O
+200 – 500 gates
+O
+500 – 1000 gates
+O
+200 – 2000 gates

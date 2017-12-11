@@ -1,0 +1,303 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2008 Fall
+
+Q
+2
+Which stream cipher is used for WEP encryption?
+O
+AES
+O
+DES
+O
+RC4
+O
+RC5
+
+Q
+0
+What is the length of the WEP initialization vector (IV)?
+O
+24 bits
+O
+32 bits
+O
+48 bits
+O
+64 bits
+
+Q
+2
+How many messages are exchanged in the WEP shared key authentication protocol?
+O
+2
+O
+3
+O
+4
+O
+5
+
+Q
+0
+Is the same key used for both authentication and encryption in WEP?
+O
+Yes
+O
+No
+O
+Yes, if 802.1x authentication is not used
+O
+The same key is never used twice
+
+Q
+1
+What is an RC4 weak key value?
+O
+A key value where many bits of the first bytes of the plaintext are leaked when an IV collision occurs
+O
+A key value where a few bits in the key determine many bits in the first few bytes of the key stream
+O
+A key value where a few bits in the key determine many bits in the cipher text
+O
+A key value where the bits in the key determine the bits in the first few bytes of the key stream
+
+Q
+0
+Which cryptographic algorithm is used in counter mode with cipher block chaining message authentication code protocol (CCMP)?
+O
+AES
+O
+Michael
+O
+RC4
+O
+TILS
+
+Q
+3
+Which three roles participate in the 802.1X access control protocol?
+O
+Station, authenticator and autentication center
+O
+Client, server and RADIUS server
+O
+Supplicant, access point and RADIUS server
+O
+Supplicant, authenticator and authentication server
+
+Q
+2
+How many EAP-TLS messages are exchanged in an EAP-TLS handshake?
+O
+2
+O
+4
+O
+9
+O
+It varies with the TLS parameters exchanged
+
+Q
+3
+What encapsulates EAP messages in RSN?
+O
+They are encapsulated in TCP/IP
+O
+They are encapsulated in EAPOL messages
+O
+They are encapsulated in RADIUS messages
+O
+They are encapsulated in EAPOL and RADIUS messages
+
+Q
+2
+Does EAP-SIM provide mutual authentication?
+O
+No, it uses the regular GSM authentication
+O
+Yes, by the regular GSM authentication and the authentication token from the AuC
+O
+Yes, by the regular GSM authentication and a nonce in the encrypted AP response
+O
+Yes, it uses the regular UMTS authentication
+
+Q
+2
+What is the purpose of the EAPOL 4-way handshake?
+O
+To compute a fresh pairwise temporal key (PTK) from the pairwise master key (PMK)
+O
+To compute a fresh pairwise master key (PMK) from the pairwise transient key (PTK)
+O
+To compute a fresh pairwise transient key (PTK) from the pairwise master key (PMK) after both parties have verified the PMK
+O
+To compute a fresh pairwise message key (PMK) from the pairwise trusted key (PTK) generated in the 4-way key agreement
+
+Q
+1
+How long is the IV used in TKIP?
+O
+24 bits
+O
+48 bits
+O
+64 bits
+O
+128 bits
+
+Q
+0
+What is the key size of AES as used in RSN?
+O
+128 bits
+O
+192 bits
+O
+256 bits
+O
+512 bits
+
+Q
+1
+What is the block size of AES as used in RSN?
+O
+64 bits
+O
+128 bits
+O
+256 bits
+O
+512 bits
+
+Q
+3
+Is the complete MAC PDU encrypted by the CCMP?
+O
+Yes, the CCMP uses a shared key
+O
+No, the MAC header is not encrypted
+O
+No, the CCMP header is not encrypted
+O
+No, the MAC header and the CCMP header are not encrypted
+
+Q
+2
+Which GSM entities store the secret user keys K?
+O
+MS and HLR.
+O
+VLR, and AuC
+O
+SIM and AuC
+O
+SIM, BS and VLR
+
+Q
+2
+What is the output of the GSM authentication function A3?
+O
+MAC (32-bit message authentication code)
+O
+MAC (64-bit message authentication code)
+O
+SRES (32-bit signed response)
+O
+SRES (64-bit signed response)
+
+Q
+3
+Which authentication data does the GSM VLR have to request?
+O
+The authentication quintet (RAND, AUTN, XRES, CK, IK)
+O
+The authentication quintet (RAND, AUTN, XRES, \(K_i\), \(K_c\))
+O
+The authentication triplet (RAND, XRES, \(K_i\))
+O
+The authentication triplet (RAND, XRES, \(K_c\))
+
+Q
+1
+What are the variables of the authentication token (AUTN) used in UMTS networks?
+O
+SQN \(\oplus\) AK, XRES, MAC
+O
+SQN \(\oplus\) AK, AMF, MAC
+O
+SQN, AMF, MAC, RAND
+O
+SQN \(\oplus\) AK, AMF, MAC, RAND
+
+Q
+2
+Which UTRAN layer provides integrity protection?
+O
+MAC layer
+O
+RLC layer
+O
+RRC layer
+O
+Physical layer
+
+Q
+1
+What happens if the result of the UTRAN algorithm negotiation is that the user equipment (UE) and network have no integrity protection algorithms in common?
+O
+The network may establish the connection without integrity protection
+O
+The connection is shut down immediately by the network
+O
+The network may establish the connection with the default integrity protection algorithm
+O
+UTRAN does not use integrity algorithm negotiation
+
+Q
+2
+How is the traffic between the terminal equipment and Proxy CSCF (P-CSCF) protected in IMS?
+O
+Using the UMTS f3 encryption algorithm with the cipher key CK
+O
+Using IPsec Authentication Header (AH)
+O
+Using IPsec Encapsulated Security Payload (ESP)
+O
+It is not protected at all, but the UTRAN radio link is protected by the UMTS security mechanisms
+
+Q
+3
+Which authentication method is used by IMS?
+O
+Internet Key Exchange (IKE)
+O
+IPsec Authentication Header (AH)
+O
+IPsec Encapsulated Security Payload (ESP)
+O
+UMTS Authentication and Key Agreement (AKA)
+
+Q
+2
+What is the length of the cipher key CK used in UMTS?
+O
+56 bits
+O
+64 bits
+O
+128 bits
+O
+256 bits
+
+Q
+2
+Which UMTS entities implement the functions fl-f5, f1* and fS*?
+O
+USIM, UE and BS
+O
+SGSN and AuC
+O
+USIM and AuC
+O
+USIM, BSC and AuC

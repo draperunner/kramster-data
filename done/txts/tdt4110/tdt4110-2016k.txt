@@ -1,0 +1,282 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2016 Kont
+MC
+
+Q
+1
+En byte inneholder hvor mange bits?
+O
+1
+O
+8
+O
+16
+O
+32
+
+Q
+2
+Hva kalles en test der man bare ser på inputs og outputs av en funksjon?
+O
+Hvitbokstest (white box test).
+O
+IO-test (Input Output test).
+O
+Svartbokstest (black box test).
+O
+Integrasjonstest.
+
+Q
+2
+Omtrent hvor mange enheter er koblet til Internett i dag?
+O
+Halvparten så mange som det finnes mennesker på jorden.
+O
+Like mange som det finnes mennesker på jorden.
+O
+Over tre ganger så mange som det finnes mennesker på jorden.
+O
+Det er det umulig å svare på.
+
+Q
+2
+Hva er en transistor?
+O
+Enheten som omformer 220V vekselstrøm til likestrøm som kan brukes til de ulike enhetene (CPU, lydkort, grafikkort, harddisk, RAM osv.) i datamaskinen.
+O
+Et kretskort der man kobler samme de ulike delene i en datamaskin, som CPU, minne, lydkort, grafikkort, RAM osv.
+O
+En bryter som det kan enten gå strøm igjennom eller ikke, som man kan endre ved hjelp av strøm.
+O
+Algoritmen fra å gjøre om fysiske lydsignaler til digital representasjon av 0er og 1ere.
+
+Q
+3
+Hvordan representeres desimaltallet 321 som et binært tall?
+O
+1100101
+O
+11001001
+O
+100101101
+O
+101000001
+
+Q
+1
+Hva er hensikten med en DAC?
+O
+Konvertere fra analogt til digitalt signal.
+O
+Konvertere fra digitalt til analogt signal.
+O
+Komprimere et digitalt signal.
+O
+Øke samplingsraten.
+
+Q
+0
+Hva får vi med like mengder av rødt, grønt og blått i et punkt på en skjerm?
+O
+Sort, hvitt eller gråtoner.
+O
+Cyan, magenta og gult.
+O
+Brunt.
+O
+Fiolett.
+
+Q
+0
+Hva menes med 'sampling rate' under digitalisering av lyd?
+O
+Hvor hyppig man måler lyden.
+O
+Frekvensen på lyden som skal digitaliseres.
+O
+Nøyaktigheten/antall bits i måleverdien.
+O
+Den maksimale lydstyrken/volumet som kan digitaliseres.
+
+Q
+2
+Hva er RGB?
+O
+Random GB - hukommelsen i en datamaskin.
+O
+En fargemodell for reflektert lys som viser hvordan alle farger dannes fra primærfargene.
+O
+En fargemodell for utstrålt lys som viser hvordan alle farger dannes fra primærfargene.
+O
+Rødt, Gult og Blått - primærfargene i reflektert lys.
+
+Q
+0
+Hva er «booting» av en datamaskin?
+O
+Prosessen som starter opp datamaskinen.
+O
+Endre systeminnstillinger på en datamaskin.
+O
+Sjekke om datamaskinen er smittet av et virus (en boot).
+O
+Sparke til en datamaskin når den ikke gjør det man ønsker.
+
+Q
+2
+Hva ligger i begrepet ”system engineering” i følge læreboka?
+O
+”System engineering” fokuserer på underliggende teorier og metoder som utgjør datasystemer.
+O
+”System engineering” fokuserer på praktiske problemer med å produsere programvare.
+O
+”System engineering” inkluderer alle aspekter av utvikling og evolusjon av komplekse systemer hvor programvare spiller en viktig rolle.
+O
+”System engineering” og ”Software engineering” er det samme.
+
+Q
+0
+Hvilke av disse enhetene er vanligvis involvert i ”Fetch/Execute Cycle”?
+O
+ALU, CU (Control Unit), RAM.
+O
+ROM, ALU, RAM.
+O
+CU, RAM, ROM.
+O
+OS, ALU, CU.
+
+Q
+3
+Hva går aktiviteten arkitekturdesign (architectural design) ut på?
+O
+Definere grensesnitt mellom systemkomponenter.
+O
+Designe hvordan hver systemkomponent skal fungere.
+O
+Designe datastrukturene for hele systemet.
+O
+Identifisere den overordnete strukturen av system, de overordnete komponentene, og
+hvordan de er strukturert og knyttet til hverandre.
+
+Q
+3
+Når det gjelder henholdsvis lagring og overføring av data så måles de vanligvis i …
+O
+Bits (lagring) og Bits pr. sekund (overføring).
+O
+Bits (lagring) og Byte pr. sekund (overføring).
+O
+Byte (lagring) og Byte pr. sekund (overføring).
+O
+Byte (lagring) og Bits pr. sekund (overføring).
+
+Q
+3
+En ulempe med inkrementell utvikling kan være:
+O
+Må ha alle krav på plass før man kan starte på design og implementering av system.
+O
+Gjør det vanskeligere å teste systemet for feil.
+O
+Egner seg kun for store prosjekter.
+O
+Arkitekturen (strukturen) til systemet har en tendens til å forringes for hvert inkrement.
+
+Q
+3
+Man kan sende stadig mer informasjon gjennom luften ved å …
+O
+Bruke eldre stabile omkodere (Encoders).
+O
+Bytte til lavere frekvenser.
+O
+Utnytte interferensen som oppstår når to mottakere står i nærheten.
+O
+Øke båndbredden.
+
+Q
+1
+Når det gjelder adresse-feltene i gammel (versjon 4) og ny IP-versjon (versjon 6), så er det
+slik at
+O
+De bruker like mange bit.
+O
+Den gamle versjonen har ikke nok bit til å adressere alle maskinene på Internett.
+O
+Ny versjon bruker dobbelt så mange bit.
+O
+Ny versjon klarer seg med halvparten så mange bit.
+
+Q
+0
+Hva er programvareevolusjon?
+O
+Programvare som må endres pga. av endringer i utføringsmiljøet.
+O
+Kjøre programvare på raskere datamaskiner.
+O
+Programvare som blir stadig større og raskere.
+O
+Programvare som blir mer og mer intelligent og fleksibel.
+
+Q
+2
+Anta at vi har en todimensjonal liste (liste av lister) med navn. For eksempel <code>lister = [['Anh, Ine', 'By, Ken', …], ['By, Ken', 'Cox, Jo', …], …]</code>. Her er hver indre liste alfabetisk sortert etter etternavn og uten duplikater, men samme navn kan forekomme i flere av de indre listene. Anta også at antall elementer i hver av de indre listene er omtrent det
+samme som antall lister i den ytre lista. Vi ønsker en funksjon <code>antall_n(lister, navn)</code> som returnerer hvor mange av listene det gitte navnet finnes i. Her er pseudokode for en slik løsning, bestående av to funksjoner, hvor den ene – <code>antall_n()</code> – kaller den andre som heter <code>antall()</code>.
+<pre>
+function antall_n(lister, navn):
+    ant ← 0
+    la liste_n gå fra og med første til og med siste element lister:
+        ant ← ant + antall(liste_n, navn) # funksjonen fra psaudokoden
+        # for antall() under, vil gi 0 eller 1
+    returner ant
+
+function antall(liste, navn):
+    antall ← 0
+    la n gå fra og med første til og med siste element i liste:
+        hvis n == navn:
+            antall ← antall + 1
+    returner antall
+</pre>
+Kompleksiteten til denne løsningen vil være:
+O
+Θ(n)
+O
+Θ(n log n)
+O
+Θ(n2)
+O
+Θ(n3)
+
+Q
+1
+I stedet for å bruke funksjonen <code>antall()</code> inni funksjonen <code>antall_n</code>, kan vi bruke binærsøk,
+dvs. vi bytter ut <code>ant ← ant + antall(liste_n, navn)</code> i pseudokoen med <code>ant ← ant +
+bin_search(liste_n, navn)</code> hvor det kan antas at <code>bin_search</code> i dette tilfellet returnerer 1
+hvis navn fins i <code>liste_n</code> og 0 hvis det ikke fins.
+<pre>
+function antall_n(lister, navn):
+    ant ← 0
+    la liste_n gå fra og med første til og med siste element lister:
+        ant ← ant + antall(liste_n, navn) # funksjonen fra psaudokoden
+        # for antall() under, vil gi 0 eller 1
+    returner ant
+
+function antall(liste, navn):
+    antall ← 0
+    la n gå fra og med første til og med siste element i liste:
+        hvis n == navn:
+            antall ← antall + 1
+    returner antall
+</pre>
+Kompleksiteten til <code>antall_n</code> vil da bli:
+O
+Θ(n)
+O
+Θ(n log n)
+O
+Θ(n2)
+O
+Θ(n3)

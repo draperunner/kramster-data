@@ -1,0 +1,190 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4160 Datamaskiner grunnkurs
+Eksamen 2005 Kont
+MC
+
+Q
+1
+Hvor mange assemblerinstruksjoner er det i en mikroinstruksjon?
+O
+Dette er avhengig av instruksjonssettarkitekturen (ISA)
+O
+Spørsmålet gir ikke mening fordi en assemblerinstruksjon består av flere mikroinstruksjoner
+O
+Tre, en for hver fase (load, execute, store)
+O
+Dette er avhengig av størrelse på hurtiglager (eng. cache)
+
+Q
+2
+Enkelte maskiner har noe som heter segmentregister, hva brukes det til?
+O
+Peker på register som skal leses i en registerfil
+O
+Brukes av hurtiglager for å vite hvor data skal ligge i hovedlager
+O
+Holder øverste bit i en adresse for å få større adresserom
+O
+Holder nederste bit i en adresse for å vite relasjon til hurtiglager
+
+Q
+2
+Hva er riktig om samlebånd (eng. pipelines)?
+O
+Samlebånd øker hastigheten for hver enkelt instruksjon isolert sett
+O
+Samlebånd i prosessorer benyttes ikke lengre, dette er gammel teknologi
+O
+Målet med et samlebånd er å utføre instruksjoner i parallell
+O
+Samlebånd gjør at prosessoren gjør ferdig flere instruksjoner per klokkesykel
+
+Q
+0
+Hva er FEIL om samlebånd?
+O
+Klokkefrekvensen til en prosessor med samlebånd er begrenset av summen av tiden samlebåndet bruker i de ulike trinnene
+O
+Klokkefrekvensen til en prosessor med samlebånd er begrenset av det tregeste trinnet
+O
+Ved å innføre samlebånd kan frekvensen skrus opp fordi hvert enkelt trinn blir enklere
+O
+En prosessor har samme klokkefrekvens for de ulike trinnene
+
+Q
+3
+Dersom du har et vanlig (in-order execution) samlebånd, hvilke dataavhengigheter vil
+skape problemer i følgende program (Dark-syntaks)?<pre>
+ADD $1, $2, $3
+ADD $4, $2, $3</pre>
+O
+Avhengigheten på grunn av register 2
+O
+Avhengigheten på grunn av register 3
+O
+Avhengigheten på grunn av register 1
+O
+Det finnes ingen avhengighet
+
+Q
+3
+Hva skiller indirekte adresseringsmodus fra direkte adresseringsmodus (velg det alternativet som er mest riktig)?
+O
+Indirekte er enklere enn direkte adressering fordi indirekte adressering krever et ekstra oppslag
+O
+Indirekte adressering adresserer relativt til stakkregisteret, mens direkte adressering adresserer relativt til instruksjonsregisteret
+O
+Direkte adressering gir lengre kildekode, og moderne prosessorer benytter kun indirekte adressering
+O
+Ved indirekte adressering beregnes adressen som skal aksesseres ved kjøretid,
+mens ved direkte adressering er adressen gitt av assemblerkoden
+
+Q
+1
+Hvorfor snakker man om 1ers komplement og 2ers komplement?
+O
+De to måtene å kode tall på benyttes i forskjellige regneoperasjoner
+O
+Det er lettere for en datamaskin å addere to tall som er på 2ers komplement enn
+1ers komplement
+O
+1ers komplement har større tallområde enn 2ers komplement
+O
+1ers komplement er tenkt til 1-tallssystemet, mens 2ers komplement er tenkt til 2-tallssystemet
+
+Q
+2
+Hvilken prosessortype har som oftest kortest instruksjonsord?
+O
+Akkumulatormaskin
+O
+Load/store-maskin
+O
+Stakkmaskin
+
+Q
+0
+Hva er et instruksjonsregister?
+O
+Mikroprosessoren leser instruksjonen som skal utføres til dette registret
+O
+Instruksjonen benytter dette registret til å lagre heltall
+O
+Instruksjonen benytter dette registret til å lagre både heltall og flyttall
+O
+Instruksjonsregisteret angir adressen til neste instruksjon som skal utføres.
+
+Q
+2
+Hvordan lagres data i hurtigminnet (SRAM) på en PC?
+O
+Hver bit ligger lagret som strøm i en transistor
+O
+Hver bit ligger lagret som ladning i en kondensator
+O
+Hver bit ligger lagret i to invertere som er koblet mot hverandre for å låse data
+O
+Data ligger lagret som strøm i magnetspoler
+1
+
+Q
+0
+Hvis man har to ulike datamaskiner som utfører like mange instruksjoner per sekund, hva
+kan man si om de to maskinene?
+O
+Antall MIPS (millions of instructions per second) for de to maskinene er like
+O
+Ytelsen er lik
+O
+Maskinene er like
+O
+Den maskinen som er nyest er sannsynligvis raskest
+1
+
+Q
+0
+Hvordan programmerer man en mikroprosessor med samlebånd?
+O
+Man må passe seg for ”farer” (eng. hazards) i enkelte arkitekturer
+O
+Man må spesifisere rekkefølgen på de ulike trinnene for hver instruksjon
+O
+Til dette benyttes mikrokode
+O
+Det skjer alltid i et høynivå språk som Java eller C (++).
+
+Q
+1
+Hvilket av følgende utsagn er mest FEIL om harddisker?
+O
+Harddisker er mekaniske og tåler dårlig støt
+O
+Harddisker er basert på optiske plater som roterer relativt raskt (ca 7200 RPM).
+O
+Harddisker inneholder tosidige plater der data lagres
+O
+Harddisker har roterende plater, og man må vente til den har rotert til riktig plass før data kan leses
+
+Q
+2
+Hvordan henter en datamaskin vanligvis informasjon fra omgivelsene?
+O
+Dette skjer ved at DRAM brikken er koblet til eksterne linjer
+O
+Dette skjer ved at ALU enheten er koblet til eksterne linjer
+O
+Dette skjer ved at porter er koblet på adresse og data bussen
+O
+Statusregisteret blir oppdatert med eksterne verdier
+
+Q
+1
+Hva er ulempen til USB?
+O
+Man kan ikke ta utstyr fra en maskin og forvente at det fungerer på en annen maskin
+O
+Protokollen er ikke laget for overføring av store datamengder, her er firewire raskere
+O
+Det er lite datautstyr som støtter denne protokollen
+O
+USB kablene blir dyre fordi det er mange ledere i selve kabelen

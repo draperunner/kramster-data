@@ -1,0 +1,604 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2011 Vår
+MC
+
+Q
+2
+I innledningen av Tidd & Bessant nevnes 4P-modellen, som forklarer ulike typer av innovasjoner. Hvilken av typene under er IKKE nevnt i 4P-modellen?
+O
+Product – som betegner innovasjoner i de produkter og tjenester vi tilbyr
+O
+Paradigm – som betegner innovasjoner i hvordan vi oppfatter hva vi tilbyr (også kalt framing)
+O
+Patent – som betegner innovasjoner (produkter og tjenester) vi kan selge til andre
+O
+Position – som betegner innovasjoner i hvor vi tilbyr våre produkter og tjenester
+
+Q
+0
+I emnet benytter vi en modell for innovasjonsprosessen som deler prosessen inn i fire faser. Ett av utsagnene under er feil om fase 2 (select-fasen). Hvilket?
+O
+I Select-fasen siler vi ut de ideene vi skal selge til andre
+O
+En viktig del av Select-fasen er å se på ideene vi har generert i forhold til bedriftens strategi
+O
+Signaler om teknologiske muligheter fremover er en viktig input til Select-fasen
+O
+De valg vi gjør i Select-fasen har stor betydning for den risiko-profil vi har i vår innovasjonsprosess
+
+Q
+0
+Discontinuities er en betegnelse på hendelser som fører til økte muligheter for å komme med en suksessfull innovasjon. Hvilken av de fire hendelsene under vil normalt ikke regnes som en discontinuity, selv om den kan ha virkninger for oss som ligner de vi får av en discontinuity?
+O
+En konkurrent går konkurs
+O
+En korrupsjonsskandale rammer et av våre største markeder, og fører til innføring av nye lover som skal hindre korrupsjon
+O
+En naturkatastrofe fordyrer tilgangen på et av våre viktigste råstoffer for de neste tre årene
+O
+Nye sosio-økonomiske trender blant ungdom fører til sterkt endrede innkjøpsvaner
+
+Q
+0
+Nedenfor er fire eksempler på innovasjoner. Hvilken av disse fire vil normalt bli betraktet som den mest radikale innovasjonen hvis den ble lansert i Norge i 2011?
+O
+En flyvende bil
+O
+En ny type cola
+O
+En kjent kirurgisk operasjon gjennomført via internett av en lege i en annen by
+O
+En forbedret utgave av en laserskriver
+
+Q
+1
+Det er en åpen debatt om hvorvidt innovasjonsprosessen kan styres eller ikke, og i hvor stor grad, og hvordan, den eventuelt kan styres. Kapittel 2 bruker mye plass på dette spørsmålet. Pensumlitteraturen vil tendere til å være enig med tre av utsagnene nedenfor, men ikke det fjerde. Hvilket?
+O
+Innovasjonsprosesser er usikre, risikofylte og utsatt for tilfeldige påvirkninger, men det gjør dem ikke umulig å styre
+O
+Produktinnovasjoner er lettere å styre enn de tre andre hovedtypene av innovasjoner
+O
+Å styre innovasjonsprosesser betyr først og fremst å bidra med rammebetingelser og systemer som gjør det lettere for organisasjonen å håndtere komplekse prosesser
+O
+En typisk fallgruve når man forsøker å styre innovasjonsprosesser er å ha et for snevert syn på hva innovasjon er (jfr. tabell 2.5)
+
+Q
+2
+Hvilket utsagn er korrekt om teknologibaserte bedrifter som ønsker å vokse.
+O
+Alle teknologibedrifter som lykkes har en unik ide som kan beskyttes med patenter.
+O
+Det beste er å være alene som gründer i startfasen, da har man kontroll på alt og kan rekruttere de menneskene man trenger.
+O
+En oppstart som gjøres av et team lykkes som regel best kommersielt.
+O
+En teknologibedrift som skal lykkes kommersielt bør alltid ha med en business angel som investor
+
+Q
+0
+Hvilken av påstandene stemmer godt med en åpen innovasjontilnærming?
+O
+Det er ofte bedre å utvikle en robust forretningsmodell enn å komme ut i markedet først.
+O
+Det viktigste er alltid å ligge i forkant av utviklingen, å være en first mover.
+O
+Med åpen innovasjon mener man at de ulike avdelingene internt i en bedrift samarbeider godt om å utvikle innovative løsninger.
+O
+En bedrift må kontrollere alle intellektuelle rettigheter selv for å oppnå konkurransekraft i en bransje hvor en åpen innovasjonstankegang gjør seg gjeldende.
+
+Q
+1
+Teece og Pisano (1994) bruker begrepet dynamiske kapabiliteter. Hvilke kriterier mener de må ligge til grunn for at kapabilitetene kan omtales som strategiske?
+O
+De må være dynamiske, de må være verdifulle for bedriften og de må være skalerbare.
+O
+De må være knyttet til kundenytte, unike og vanskelige å imitere.
+O
+De må være unike, dynamiske og vanskelig å kopiere.
+O
+De må være sjeldne, de må kunne brukes i ett internasjonalt marked, og de må være kunnskapsbaserte.
+
+Q
+3
+Hamel og Prahalad (1990) sine ideer om kjernekompetanse kan oppsummeres slik:
+O
+Én kjernekompetanse – ett produkt
+O
+Kjernekompetansen må være 1. Verdifull, 2. Sjelden, 3. Vanskelig å imitere, og 4. Innbakt i bedriftens organisasjon.
+O
+Kjernekompetanse finner man i bedriftens ledergruppe.
+O
+1. Varig konkurransekraft ligger i bedriftens kjernekompetanse. 2. Kjernekompetansen brukes i flere produkter. 3. Organisatorisk kompetanse er vesentlig. 4. Kjernekompetanse krever fokus. 5. Bedrifter kan ses på som en samling av kompetanse.
+
+Q
+2
+Hvilket av følgende utsagn er korrekt om innovasjon:
+O
+Vi må unngå at andre profiterer på våre oppfinnelser og må kontrollere alle intellektuelle rettigheter selv.
+O
+Bedrifter som har en egen forskning og utviklingsavdeling er som regel best på innovasjon.
+O
+En bedrift må utvikle mekanismer slik at den kan kommersialisere eksterne og interne innovasjonsideer.
+O
+Den som kommer først til markedet med en innovasjon oppnår som regel varige konkurransefortrinn.
+
+Q
+3
+Hvilket av følgende påstander om innovative løsninger er korrekt:
+O
+I store selskaper er et godt samarbeid mellom forskningsavdelingen og produksjonsavdelingen den viktigste kilden til nye og innovative løsninger.
+O
+Alle nye løsninger tar utgangspunkt i at en markedsundersøkelse har vist at det er et behov.
+O
+Interne og eksterne idekonkurranser er den viktigste kilden til nye innovative løsninger.
+O
+Eksisterende brukere/kunder er for mange bedrifter den viktigste kilden til innovasjon.
+
+Q
+3
+Innenfor strategilitteraturen har det lenge pågått en diskusjon mellom tilhengere av rasjonalisme og inkrementalisme. Hvilket av alternativene under knyttes til rasjonalisme?
+O
+Prøving og feiling
+O
+Anerkjennelsen av kompleksiteten til omgivelsene
+O
+Evnen til raskt å reagere på eksterne og interne forandringer.
+O
+Å bestemme seg for handlinger basert på en grundig analyse.
+
+Q
+3
+Ulike typer tilbydere av egenkapital kommer gjerne inn på ulike tidspunkt. I hvilken rekkefølge kommer normalt aktørene inn?
+O
+Såkornfond, venturekapital fond, Business Angels, gründer, familie og venner
+O
+Venturekapital fond, såkornfond, Business Angels, gründer, familie og venner
+O
+Gründer, familie og venner, såkornfond, venturekapital fond, Business Angels
+O
+Gründer, familie og venner, Business Angels, såkornfond, venturekapital fond
+
+Q
+3
+Prahalad (2006) bruker begrepet bottom of the pyramid (BoP Markets). Hva mener han med det?
+O
+Ødelagte produkter som dumpes til lave priser.
+O
+Markeder som adopterer innovasjon sist.
+O
+De største og viktigste markedene finner man som regel på bunnen av pyramiden og det er dette markedet som avgjør om man blir markedsleder.
+O
+Marked bestående av populasjonen som lever under fattigdomsgrensen.
+
+Q
+3
+I boken til Tidd og Bessant (2009) brukes begrepene exploitation og exploration. Hva mener de med dem?
+O
+Exploitation handler om å bruke sjeldne ressurser, mens exploration handler om å kombinere sjeldne ressurser.
+O
+Exploitation handler om å utnytte andres ressurser, mens exploration handler om å utvikle egne ressurser.
+O
+Exploitation handler om å bruke og videreutvikle de ressursene de har, mens exploration handler om å bruke den kunnskapen de har.
+O
+Exploitation handler om å bruke og videreutvikle de ressursene man har, mens exploration handler om å ta i bruk ressurser som ligger utenfor deres domene.
+
+Q
+3
+Tidd og Bessant (2009) deler ledelse av risiko inn i tre kategorier. Hvilke?
+O
+1. Risiko knyttet til markedsadopsjon, 2. Risiko knyttet til produksjon og 3. Risko knyttet til logistikk.
+O
+1. Teknisk risiko, 2. Markedsmessig risiko, 3. Total porteføljerisiko.
+O
+1. Risiko knyttet til entreprenøren, 2. Risiko knyttet til forretningsmuligheten, 3. Risiko relatert til gjennomføringsevne.
+O
+1. Estimering av teknisk og kommersiell suksess, 2. Psykologisk og sosiologisk persepsjon av risiko og 3. Politisk influering
+
+Q
+3
+Hvilken av følgende utsagn er korrekt om finansiering av teknologibedrifter.
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.
+O
+Venturekapital fond gjør mange investeringer og er den mest vanlige typen investor i nye teknologibedrifter.
+O
+Bankene kan være viktige rådgivere men vil normalt sett ikke engasjere seg finansielt i de tidlige fasene ved utviklingen av en teknologibedrift.
+
+Q
+2
+En mulighetsanalyse bør inneholde:
+O
+Fullstendige budsjetter for de neste fem år.
+O
+En fullstendig forretningsstrategi.
+O
+En innledende vurdering av tekniske, markedsmessige, organisatoriske og økonomiske forhold knyttet til ideen.
+O
+Visjon, forretningside, målsetninger, strategi, handlingsplan og økonomi.
+
+Q
+3
+Venturekapital tilbyr mange andre fordeler enn bare penger. Hvilken av fordelene under blir ikke tilbudt av venturekapitalister?
+O
+Tilgang til større nettverk
+O
+Økt legitimitet
+O
+Aktiv hjelp fra erfaren investor (value added).
+O
+En forsikring mot konkurs.
+
+Q
+0
+I følge Brush et al. (2001) og deres ressurspyramide må følgende fire elementer ligge til grunn før man kan oppnå unike konkurransefordeler.
+O
+Generiske ressurser, kapabiliteter, kjernekompetanser og strategiske aktiva (generic resources, capabilities, core competences and strategic assets).
+O
+Generiske ressurser, spesifikke ressurser, kapabiliteter og nettverkskapabiliteter (generic resources, specific resources, capabilities and network capabilities).
+O
+Generiske ressurser, økonomiske ressurser, patenter og dynamiske kapabiliteter (generic resources, economic resources, patents and dynamic capabilities.)
+O
+Generiske ressurser, nettverkskapabiliteter, spesifikke ressurser og patenter (generic resources, network capabilities, specific resources and patents).
+
+Q
+2
+Hvilken av de følgende inngår ikke i Tidd og Bessants (2009) liste over komponenter i en innovativ organisasjon?
+O
+Eksternt fokus.
+O
+Passende organisasjonsstruktur.
+O
+Standardiserte arbeidsprosesser.
+O
+Kreativt klima.
+
+Q
+1
+Hvilke av disse elementene inngår i Watsons (2008, K1) definisjon av arbeidsorganisasjon?
+O
+At organisasjonens medlemmer jobber mot det samme målet.
+O
+At relasjonene mellom organisasjonens medlemmer er formalisert og regulert av kontrakter.
+O
+At organisasjonens struktur reflekterer organisasjonskulturen.
+O
+At organisasjonen eies av kapitalister eller andre private bedrifter.
+
+Q
+3
+Forskningsinstitusjoner som NTNU og SINTEF er typiske eksempler på hvilken av Mintzbergs organisasjonsformer?
+O
+Oppdragsorienterte organisasjoner.
+O
+Maskinbyråkrati.
+O
+Divisjonalisert struktur.
+O
+Fagbyråkrati.
+
+Q
+2
+Hvilken av disse er en typisk begrensning (svakhet) ved byråkratier?
+O
+Avgjørelser bygger på personlige skjønnvurderinger.
+O
+Byråkratier åpner for korrupsjon og favorisering.
+O
+Målforskyvning, dvs. at underenheter setter egne mål som virker mot organisasjonens overordnede mål.
+O
+At snevre kontrollspenn skaper en stor gruppe mellomledere som ikke bidrar direkte til verdiskapningen.
+
+Q
+0
+Hva menes med at organisasjoner er instrumentelt rasjonelle?
+O
+At organisasjoner identifiserer og velger de handlingsalternativer som best bidrar til oppnåelse av organisasjonens mål.
+O
+At organisasjoner forsøker å skape mest mulig profitt.
+O
+At organisasjoner forsøker å balansere hensyn til eiere, medarbeidere og lokalsamfunn.
+O
+At organisasjoner har gode kontrollrutiner som sikrer at arbeid blir korrekt utført.
+
+Q
+0
+Hva innebærer det å ha et system-kontroll perspektiv på motivasjon?
+O
+At menneskelig handling forstås som et resultat av enkeltpersoners motivasjon til å oppfylle behov og mangler.
+O
+At mennesker motiveres når de får muligheten til å realisere sine prosjekter og påvirke sitt eget liv.
+O
+At menneskelig motivasjon oppstår når bedriften implementerer formelle kontrollsystemer.
+O
+Menneskelige behov er ordnet hierarkisk. Individer blir motivert når de har mulighet til å klatre et steg høyere opp i behovshierarkiet.
+
+Q
+0
+I forbindelse med arbeidsdesign er selvstyrte arbeidsgrupper (selvstyrte team) et eksempel på:
+O
+Indirekte kontroll.
+O
+Scientific management (taylorisme).
+O
+Kontinuerlig overvåkning av arbeidsprosessene.
+O
+Hierarkisk kontroll.
+
+Q
+3
+På hvilken måte kan teamarbeid være negativt for innovasjoner?
+O
+Enkeltpersoner har ulik bakgrunn og ulike erfaring.
+O
+Økt involvering vanskeliggjør implementering av endringer.
+O
+Team må ofte gjennomgå mange faser før de er modne nok til å jobbe med konkrete forbedringer og innovasjoner.
+O
+I team kan det oppstå høyt konformitetspress og gruppetenkning.
+
+Q
+2
+Ifølge Watson (2006, K3), hva er sammenhengen mellom kortsiktig- og langsiktig fleksibilitet?
+O
+Tilrettelegger man for god kortsiktig fleksibilitet, oppnår man også langsiktig fleksibilitet.
+O
+Langsiktig fleksibilitet dreier seg om radikal innovasjon, mens kortsiktig fleksibilitet dreier seg om kontinuerlig forbedring. Organisasjonen trenger begge deler.
+O
+Kortsiktig fleksibilitet understøttes av direkte kontroll, mens langsiktig fleksibilitet understøttes av indirekte kontroll. Derfor kan man ikke oppnå det ene uten at det går utover den andre.
+O
+Organisasjoner må velge om de vil satse på langsiktig fleksibilitet eller kortsiktig fleksibilitet. Forsøk på å oppnå begge deler er dømt til å mislykkes.
+
+Q
+1
+Ifølge Tidd og Bessant (2009), hvilken påstand om sammenhengen mellom konflikt og innovasjon er riktig?
+O
+Konflikter er negativt for innovasjon. De bør elimineres gjennom restrukturering og tillitsbyggende innovasjoner.
+O
+For lite konflikter kan skape apatiske og uinteresserte individer, som igjen svekker kreativiteten og innovasjonsevnen.
+O
+Konflikter innad i team skaper energi og får ansatte til å bidra med sin kunnskap, som igjen fører til økt kreativitet og innovasjonsevne.
+O
+Konflikter er sunt for innovasjon, så lenge det utelukkende dreier seg om saklige konflikter mellom individer fra ulike avdelinger i organisasjonen.
+
+Q
+3
+Gruppekreativitet kan bidra til innovasjonsprosesser, men bør ikke brukes ukritisk. Hvilket av de fire utsagnene nedenfor om gruppekreativitet er ikke i overensstemmelse med pensum?
+O
+En viktig ingrediens for at gruppekreativitet skal være vellykket er at deltagerne er ulike i bakgrunn, kompetanse og personlighet, men samtidig ikke FOR ulike.
+O
+Utvikling av både personlige og interpersonlige ferdigheter hos deltagerne er en nødvendig, men ikke tilstrekkelig betingelse for suksessfylte gruppeprosesser
+O
+En av årsakene til at gruppekreativitet er nyttig for innovasjonsprosesser er at grupper normalt kommer opp med flere ideer enn samme antall enkeltindivider.
+O
+Gruppekreativitet krever fysisk nærhet fra medlemmene i gruppen
+
+Q
+2
+Det finnes mange typer nettverk som i boken til Tidd & Bessant kalles innovasjonsnettverk. En av de fire typene under nevnes imidlertid IKKE i boken. Hvilket?
+O
+Entreprenørielt nettverk
+O
+Sektornettverk
+O
+Personlig nettverk
+O
+Interne prosjekt-team
+
+Q
+3
+Embeddedness er et sentralt begrep i artikkel K4 om Technology and Business Networks. Hvilken av påstandene nedenfor er feil om embeddedness?
+O
+Embeddedness refererer til de mange koblingene som finnes mellom et enkelt teknologisk produkt og omliggende teknologier og produkter
+O
+Å si at utviklingen av elbiler er embedded blant annet i utviklingen av batteriteknologi er korrekt bruk av begrepet
+O
+Embeddedness betyr at vi må samstemme innovasjonsprosesser i vår bedrift med innovasjonsprosesser hos leverandørene (og kundene) hvis vi ønsker å redusere risikoen for at prosessene skal virke i motsatt retning av hverandre
+O
+Embeddedness har ingen påvirkning på våre produkter ut over den som ligger i verdikjeden.
+
+Q
+3
+En av påstandene under om Knowledge Push-strategier er feil i henhold til pensum. Hvilken?
+O
+En Knowledge Push-strategi betyr at bedriften selv utvikler innovasjonen basert på kunnskaper og teknologier den har selv eller kan skaffe via sitt nettverk
+O
+Knowledge Push-strategier krever normalt en sterkere Forsknings- og utviklingsavdeling enn Needs Pull-strategier
+O
+Knowledge Push-strategier krever mindre kjennskap til markedet enn en Needs Pull-strategi
+O
+Knowledge Push-strategier har større sannsynlighet for suksess enn Needs Pull-strategier
+
+Q
+1
+Figur 7.2 i artikkel K4 om Technology and Business Networks diskuterer i hvilke tilfeller relasjoner kan være til hjelp i arbeidet med å realisere økonomisk gevinst av teknisk utvikling. Hvilket av de fire utviklingsprosjektene nedenfor vil etter denne teorien ha MINST nytte av allerede etablerte relasjoner?
+O
+Statoil ønsker å bruke sin boreteknologi til å eksperimentere med vannboring i ørkenstrøk.
+O
+En produsent av dataskjermer ønsker å gjøre inkrementelle forbedringer i design av knappene på skjermen.
+O
+En matvaregrossist ønsker å endre distribusjonsprosessen av sine matvarer fra å bruke regionale lager til å kjøre ut varer fra ett sentrallager.
+O
+En solcelleprodusent ønsker å eksperimentere med nye materialer i solcellene for å fange opp mer energi.
+
+Q
+2
+Totalkostnadene til et selskap kan skrives som TC = 1000000 + 100Q + Q<sup>2</sup> der Q er mengde pr periode. Anta at selskapet produserer 100 enheter pr periode. Hva blir de variable kostnadene pr periode?
+O
+1000000
+O
+500000
+O
+20000
+O
+10000
+
+Q
+1
+Totalkostnadene til et selskap kan skrives som TC = 1000000 + 100Q + Q<sup>2</sup> der Q er mengde pr periode. Anta at selskapet produserer 100 enheter pr periode. Hva blir marginalkostnaden (også kalt grensekostnaden) til selskapet?
+O
+500
+O
+300
+O
+200
+O
+100
+
+Q
+3
+Totalkostnadene til et selskap kan skrives som TC = 1000000 + 100Q + Q<sup>2</sup> der Q er mengde pr periode. Etterspørselen til selskapet er lineær og kan skrives som P = 1100 – bQ der P er prisen og b er en ukjent, positiv konstant. Dersom selskapet er et monopol, hva må b være for at optimal mengde skal være 100 pr periode?
+O
+1
+O
+2
+O
+3
+O
+4
+
+Q
+2
+Et monopol har marginalkostnader på 100. Ved optimal tilpasning er (absoluttverdien til) etterspørselselastisiteten 1,5. Hva er optimal pris?
+O
+100
+O
+200
+O
+300
+O
+400
+
+Q
+0
+I en industri er det frikonkurranse. Produsert mengde er 100000 enheter pr periode og prisen er 1000 pr enhet. Dødvektstapet kan defineres som forskjellen mellom faktisk samfunnsøkonomisk overskudd og det maksimale samfunnsøkonomiske overskuddet. Hvor stort blir dødvektstapet i denne industrien?
+O
+0
+O
+1 000
+O
+100 000
+O
+100 000 000
+
+Q
+2
+Et monopol har marginalkostnader som er tilnærmet lik null. Hva kan vi si om optimal tilpasning?
+O
+Monopolet vil tilpasse seg i det uelastiske området for etterspørselen.
+O
+Monopolet vil tilpasse seg der (absoluttverdien til) etterspørselselastisiteten er større enn 2.
+O
+Monopolet vil tilpasse seg slik at (absoluttverdien til) etterspørselselastisiteten blir tilnærmet 1.
+O
+Monopolet vil tilpasse seg slik at etterspørselselastisiteten blir tilnærmet 0.
+
+Q
+0
+Regnskapene til en bedrift viser at egenkapitalrentabiliteten er nøyaktig lik renten betalt på gjeld, slik at vi kan si at avkastning på egenkapital har vært lik avkastning på gjeld. Hva kan vi da si om totalkapitalrentabiliteten?
+O
+Totalkapitalrentabiliteten har vært lik avkastningen på gjeld og egenkapital.
+O
+Totalkapitalrentabiliteten har vært lik summen av avkastningen på gjeld og egenkapital.
+O
+Totalkapitalrentabiliteten har vært større enn avkastningen på gjeld og egenkapital.
+O
+Totalkapitalrentabiliteten har vært mindre enn avkastningen på gjeld og egenkapital.
+
+Q
+1
+I løpet av den siste regnskapsperioden har verdien av varelageret til en bedrift gått fra 10 millioner til 20 millioner. På hvilken måte påvirker denne utviklingen forholdet mellom likviditetsgrad 1 og likviditetsgrad 2?
+O
+Denne utviklingen påvirker ikke forholdet mellom likviditetsgradene.
+O
+Denne utviklingen trekker i retning av at likviditetsgrad 1 blir relativt større i forhold til likviditetsgrad 2.
+O
+Denne utviklingen trekker i retning av at likviditetsgrad 1 blir relativt mindre i forhold til likviditetsgrad 2.
+O
+Denne utviklingen bidrar til at beggge likviditetsgradene øker, men forholdet kan utvikle seg begge veger som følge av den.
+
+Q
+2
+Diskonteringsrenten er 10 % pr år. Hva er nåverdien av å få en utbetaling på 1000 kroner pr år i ti år når første utbetaling er om 2 år?
+O
+10000
+O
+6145
+O
+5586
+O
+4398
+
+Q
+1
+Et investeringsprosjekt kan (litt forenklet) beskrives som følger: Investering på 600 millioner nå gir 1000 millioner med sannsynlighet 50 % om et år, og et tap på 100 millioner med samme sannsynlighet. Dersom prosjektet går med tap det første året, avsluttes det. Dersom det går med de nevnte 1000 millioner i overskudd, fortsetter det i ett år til. Gitt at det fortsetter, er sannsynligheten 75 % for positiv kontantstrøm på 1000 milllioner mens det er 25 % sannsynlighet for et tap på 100 millioner dette andre året. Avkastningskravet er 10 %. Hva blir nettonåverdien til prosjektet?
+O
+Ca 0
+O
+Ca 100 millioner
+O
+Ca 500 millioner
+O
+Ca 1000 millioner
+
+Q
+3
+En investor vurderer å sette sammen to aksjer til en portefølje. I hvilket tilfelle blir diversifiseringseffekten størst?
+O
+Når det er ingen korrelasjon mellom aksjene.
+O
+Når aksjene har perfekt positiv korrelasjon slik at de svinger i takt.
+O
+Når aksjene velges slik at porteføljens beta blir null.
+O
+Når aksjene har perfekt negativ korrelasjon slik at de svinger i motsatt retning.
+
+Q
+3
+Anta at kapitalverdimodellen gir en korrekt risikopremie for aksjer. En aksje har beta lik 2. Risikofri rente er 3 %. Markedsrisikopremien er 6 %. Hva blir forventet avkastning for aksjen?
+O
+3 %
+O
+6 %
+O
+9 %
+O
+15 %
+
+Q
+1
+Markedets standardavvik er 20 %. En aksje har beta på 1,5. Hva kan vi si sikkert om risikoen knyttet til aksjen?
+O
+Aksjens standardavvik er akkurat 30 %.
+O
+Aksjens markedsrisiko er 30 %, mens totalrisikoen er minst 30 %.
+O
+Aksjens markedsrisiko er 30 %, mens totalrisikoen er mindre enn 30 %.
+O
+Aksjens diversifiserbare risiko er 30 %.
+
+Q
+3
+Verdien av gjeld for et selskap er akkurat dobbelt så stor som verdien av egenkapitalen. Avkastning på aktiva er 10 %. Avkastning på gjeld er 5 %. Hva blir avkastningen på egenkapital?
+O
+5 %
+O
+10 %
+O
+15 %
+O
+20 %
+
+Q
+0
+Et selskap har gjeldsgrad på 75 %. Forventet avkastning på egenkapitalen er 24 %. Forventet gjeldsavkastning er 16 %. Og selskapsskattesatsen er 25 %. Hva blir forventet avkastning på totalkapitalen (WACC) etter skatt?
+O
+15 %
+O
+16 %
+O
+20 %
+O
+24 %

@@ -1,0 +1,85 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4117 Informasjonsgjenfinning
+2009 Vår
+TF
+
+
+Q
+1
+Piksel-­til-­piksel-sammenligning av to bilder er godt egnet til å beregne/evaluere bildenes likheter.
+O
+Rett
+O
+Galt
+
+Q
+0
+To lydfiler kan sammenlignes ved å bruke frekvensspektrene til lydene.
+O
+Rett
+O
+Galt
+
+Q
+1
+R-frame og R-precision er to mål som brukes i evaluering av søkesystemer.
+O
+Rett
+O
+Galt
+
+Q
+1
+Statistisk Thesaurus er et thesaurus som brukes til å forbedre søk eller utvidelse av spørringer når man tar i bruk «local automatic analysis».
+O
+Rett
+O
+Galt
+
+Q
+0
+Harvest og Crawler har samme funksjon, men brukes i to forskjellige web-søkemotorarkitekturer.
+O
+Rett
+O
+Galt
+
+Q
+1
+Videoinformasjon kan ikke gjenfinnes ved hjelp av gjenfinningsmetoder som er laget for bilder og lyd.
+O
+Rett
+O
+Galt
+
+Q
+1
+Rangering av resultater i vektorbaserte og sannsynlighetsbaserte søkesystemer bruker samme prinsipp.
+O
+Rett
+O
+Galt
+
+Q
+0
+Audiogjenfinningssystemer kan bruke teknikker kjent fra tekstgjenfinningsystemer.
+O
+Rett
+O
+Galt
+
+Q
+0
+Bevegelsesinformasjon er ganske nyttig som feature til videogjenfinning.
+O
+Rett
+O
+Galt
+
+Q
+0
+Bildehistogram kan brukes til å gjenfinne bilder. I tillegg kan det brukes i videogjenfinning.
+O
+Rett
+O
+Galt

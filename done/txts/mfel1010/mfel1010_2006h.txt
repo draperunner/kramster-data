@@ -1,0 +1,669 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL1010 Medisin for ikke-medisinere
+2006 Høst
+
+Q
+2
+Hva er et aksjonspotensial? / Kva er eit aksjonspotensial? / What is an action potential?
+O
+Repolarisering /Repolarisation
+O
+Hyperpolarisering /Hyperpolarisation
+O
+Depolarisering /Depolarisation
+O
+Hviletilstanden i membranen /Resting membrane condition
+
+Q
+1
+Hva skjer i en (eksitatorisk) synapse? / Kva skjer i ein (eksitatorisk) synapse? / What happens in an excitatory synapse?
+O
+Overføring av et aksjonspotensial ved direkte vandring fra en nervecelle til neste / Overføring av eit aksjonspotensial ved direkte vandring frå ei nervecelle til neste / Transmission of an action potential directly from the membrane of one cell to the next
+O
+Frigjøring av kjemisk signalsubstans som trigger depolarisering i neste celle / release of chemical signal substance triggering depolarisation in the next cell
+O
+Bremsing av nerveledningshastigheten i neste celle / decrease of the nerve conduction velocity in the next cell
+O
+Mekaniske forbindelser som holder cellene på plass / Mekaniske forbindelser som held cellene på plass / Mechanical connections holding the cells in their place
+
+Q
+0
+Hva er funksjonen til myelinskjedene rundt noen nerveutløpere? / Kva er funksjonen til myelinskjedene rundt nokre nerveutløparar? / What is the function of the myelin sheaths around some nerve fibres?
+O
+Øke nerveledningshastigheten /Auke nerveleidningshastigheita / Increase the nerve conduction velocity
+O
+Redusere nerveledningshastigheten / Redusere nerveleidningshastigheita / Decrease the nerve conduction velocity
+O
+Beskytte mot mekanisk skade / Protect against mechanical injury
+O
+Beskytte mot bakterier / Beskytte mot bakteriar / Protect against bacteria
+
+Q
+2
+Botulisme skyldes en bakteriegift. Hvordan virker denne? / Botulisme skyldes ei bakteriegift. Korleis verker denne? / Botulism is caused by a bacterial toxin. How does this work?
+O
+Blokkerer signaloverføringen i synapser i sentralnervesystemet slik at det gir bevisstløshet / Blokkerer signaloverføringa i synapsar i sentralnervesystemet slik at det gir bevisstløyse / Blocking transmission in synapses in the central nervous system, leading to unconsciousness
+O
+Blokkerer signaloverføringen i sensoriske synapser slik at man blir følelsesløs / Blokkerer signaloverføringa i sensoriske synapsar slik at ein blir kjenslelaus / Blocking transmission in sensory synapses, leading to anaesthesia
+O
+Blokkerer signaloverføringen i motoriske endeplater og gir lammelser / Blokkerer signaloverføringa i motoriske endeplater og gjev lammingar / Blocking signal transmission in motor synapses leading to paralysis
+O
+Blokkerer signaloverføringen i det autonome nervesystem og gir hjerterytmeforstyrrelser / Blokkerer signaloverføringa i det autonome nervesystem og gjev forstyrringar i hjerterytma / Blocking signal transmission in the autonomous nerve system, leading to heart rhythm disturbances
+
+Q
+3
+Hvilken kjønnssykdom kan gi skade på sentralnervesystemet? / Kva for ein kjønnssjuke kan gje skade på sentralnervesystemet? / What venereal disease can lead to damage of the central nervous system?
+O
+Gonoré / Gonorrhoea
+O
+Chlamydia
+O
+Trichomonas
+O
+Syfilis / Syphilis
+
+Q
+1
+Hvilke celler i blodet er ansvarlige for at blodet koagulerer? / Kva for celler i blodet er ansvarlige for at blodet koagulerer? / Which blood cells are responsible for the coagulation of the blood?
+O
+Erythrocytter / Erythrocytes
+O
+Trombocytter / Thrombocytes
+O
+Lymfocytter / Lymphocytes
+O
+Granulocytter / Granulocytes
+
+Q
+3
+Hvilket vitamin er nødvendig for at blodet koagulerer normalt? / Kva for eit vitamin er nødvendig for at blodet koagulerer normalt? / Which vitamin is necessary for the normal coagulation of blood?
+O
+Vitamin A
+O
+Vitamin C
+O
+Vitamin E
+O
+Vitamin K
+
+Q
+2
+Hva er effekten av karbonmonoksyd fra f.eks. sigarettrøyk på blodet? / Kva er effekten av karbonmonoksyd frå f.eks. sigarettrøyk på blodet? / What is the effect of carbon monoxide on the blood?
+O
+Hemmer immunsystemet / Inhibits the immune system
+O
+Hemmer koagulasjonen / Inhibits the coagulation
+O
+Hemmer oksygentransporten / Inhibits the oxygen transport
+O
+Hemmer produksjonen av erytrocytter / Inhibits the production of erythrocytes
+
+Q
+0
+Hvilke blodceller er ansvarlige for immunresponsen?/ Kva for blodceller er ansvarlige for immunresponsen? / Which blood cells are responsible for the immune response?
+O
+Lymfocytter / Lymphocytes
+O
+Granulocytter / Granulocytes
+O
+Erytrocytter / Erythrocytes
+O
+Trombocytter / Thrombocytes
+
+Q
+2
+Hemolytisk sykdom hos et foster eller nyfødt skyldes rhesus blodtypesystemet. Hvilken kombinasjon av rhesusblodtyper må foreligge for at denne tilstanden skal oppstå? / Hemolytisk sjukdom hos eitt foster eller nyfødt skyldes rhesus blodtypesystemet. Kva for ein kombinasjon av rhesusblodtyper må vere til stades for at denne tilstanden skal oppstå? / Haemolytic disease of the newborn is due to the rhesus blood type system. Which combination of blood types has to exist to induce this disease?
+O
+Både mor og barn er rhesus negative / Both mother and child are rhesus negative
+O
+Mor er rhesus positiv, barnet rhesus negativt / Mother is rhesus positive, child is rhesus negative
+O
+Mor er rhesus negativ, barnet rhesus positivt / Mother is rhesus negative, child is rhesus positive
+O
+Både mor og barn er rhesus positive / Both mother and child are rhesus positive
+
+Q
+2
+Portvenen er spesiell fordi den samler blodet for så å lede den ut i et nytt kapillærsystem. Hvor går portvenesirkulasjonen? / Portvenen er spesiell fordi den samlar blodet for så å leie den ut i eit nytt kapillærsystem. Kor går portvenesirkulasjonen? / The portal vein is special because it collects blood and the leads it into another capillary system. Where is the portal circulation?
+O
+Fra underekstremitetene til hjertet / Frå underekstremitetene til hjarte / From the lower extremities to the heart
+O
+Fra overekstremitetene til hjertet / Frå overekstremitetene til hjarte / From the upper extremities to the heart
+O
+Fra tarmsystemet til levra / Frå tarmsystemet til levra / From the intestinal system to the liver
+O
+Fra tarmsystemet til milten / Frå tarmsystemet til milten / From the intestinal system to the spleen
+
+Q
+2
+Høyt blodtrykk (hypertensjon) er en viktig årsak til hjerte- karsykdom. Over hvilket nivå sier vi det er hypertensjon (stadium 1)? / Høgt blodtrykk (hypertensjon) er ein viktig årsak til hjerte- karsjukdom. Over kva for eit nivå seier vi det er hypertensjon (stadium 1)? / Hypertension is an important cause of cardiovascular disease. Over which level is there hypertension (stage 1)?
+O
+Over 110/70
+O
+Over 120/80
+O
+Over 140/90
+O
+Over 160/100
+
+Q
+2
+Hva er et sirkulatorisk sjokk? / Kva er eit sirkulatorisk sjokk? / What is a circulatory shock?
+O
+Akutt høyt blodtrykk som gir symptomer fra sentralnervesystemet / Akutt høgt blodtrykk som gjev symptom frå sentralnervesystemet / Acutely increased blood pressure leading to central nervous symptoms
+O
+3.. Lekkasje av plasma ut i vevet slik at det hovner opp Lekkasje av plasma ut vevet slik at det hovnar opp / Leakage of plasma into the tissue leading to oedema
+O
+Inadekvat blodforsyning på grunn av volumtap eller vasodilatasjon / Inadequate blood supply due to volume loss or vasodilatation
+O
+Vann i lungene på grunn av hjertesvikt / Water in the lungs due to heart failure
+
+Q
+0
+En venøs trombe oppstår ofte i venene i et ben, en del av den kan løsne, og vil da gi en emboli som føres med blodstrømmen. Hvor vil en slik emboli ende? / Ei venøs trombe oppstår ofte i venene i eit bein, ein del av den kan lausne, og vil da gje ein emboli som førast med blodstraumen. Kvar vil ein slik emboli ende? / A venous thrombus may occur in the veins of a leg, part of it can work loose and will give rise to an embolus following the blood stream. Where will such an embolus end up?
+O
+I lungene / In the lungs
+O
+I hjernen / In the brain
+O
+I kransårene i hjertet / In the coronary arteries in the heart
+O
+I en av armene / I ei av armene / In one of the arms
+
+Q
+3
+Hvilket kammer i hjertet pumper blodet ut i lungearterien? / Kva for eit kammer i hjarte pumper blodet ut i lungearterien? / Which chamber in the heart pumps the blood out into the pulmonary artery?
+O
+Venstre forkammer / Left atrium
+O
+Venstre hjertekammer / Left ventricle
+O
+Høyre forkammer / Right atrium
+O
+Høyre hjertekammer / Right ventricle
+
+Q
+1
+Hvilket av disse enzymene skilles ut i magesekken? / Kva for eit av disse enzyma skiljest ut i magesekken? / Which of these ezymes are secreted in the stomach?
+O
+Amylase
+O
+Pepsin
+O
+Trypsin
+O
+Lipase
+
+Q
+2
+Hvilket av disse lokale hormonene stimulerer produksjon av saltsyre i magesekken? / Kva for eit av disse lokale hormona stimulerer produksjon av saltsyre i magesekken? / Which of these local hormones stimulates production of hydrochloric  acid in the stomach?
+O
+Sekretin
+O
+Cholecystokinin
+O
+Gastrin
+O
+Insulin
+
+Q
+0
+Hvilke funksjoner foregår alle i levra? / Kva funksjonar skjer alle i levra? / What functions are all liver functions?
+O
+Lagring av karbohydrat, utskillelse av galle, syntese av plasmaproteiner / Lagring av karbohydrat, utskilling av galle, syntese av plasmaprotein / Storage of carbohydrates, secretion of bile, plasma protein synthesis
+O
+Utskillelse av galle, syntese av plasmaproteiner, produksjon av insulin / Utskilleling av galle, syntese av plasmaprotein, produksjon av insulin / Secretion of bile, plasma protein synthesis, insulin production
+O
+Lagring av karbohydrat, syntese av plasmaproteiner, produksjon av hemoglobin / Lagring av karbohydrat, syntese av plasmaprotein, produksjon av hemoglobin / Storage of carbohydrates, plasma protein synthesis, haemoglobin production
+O
+Utskillelse av galle, lagring av karbohydrat, produksjon av antistoffer / Utskilling av galle, lagring av karbohydrat, produksjon av antistoff / Secretion of bile, storage of carbohydrates, production of antibodies
+
+
+Q
+2
+Hvilken av disse funksjonene foregår i tykktarmen? / Kva for ein av disse funksjonane skjer i tjukktarmen? / Which of these functions are functions of the colon?
+O
+Nedbrytning av karbohydrat og protein / Degradation of carbohydrates and proteins
+O
+Absorpsjon av næringsstoff / Absorption of nutrients
+O
+Absorpsjon av vann og salt / Absorption of water and salt
+O
+Drap av bakterier på grunn av lav pH / Killing of bacteria because o flow pH
+
+Q
+3
+Hva består de vanligste gallesteinene av? / Kva består dei vanligaste gallesteinane
+av?
+O
+Calciumoksalat / Calcium oxalate
+O
+Calciumfosfat / Calcium phosphate
+O
+Bilirubin
+O
+Cholesterol
+
+Q
+1
+Hva er tidevolumet? / Kva er tidevolumet? / What is the tidal volume?
+O
+Det volum som kan pustes inn på toppen av en normal inspirasjon / Det volum som kan pustast inn på toppen av ein normal inspirasjon / The volume that can be inhaled on top of a normal inspiration
+O
+Det volum som pustes inn i en normal inspirasjon / Det volum som pustast inn i ein normal inspirasjon / The volume that is inhaled in a normal inspiration
+O
+Det volum som er igjen i lungene etter en normal ekspirasjon / Det volum som er igjen i lungene etter ein normal ekspirasjon / The volume that is left in the lungs after a normal expiration
+O
+Det volum som er igjen i lungene etter en maksimal ekspirasjon / Det volum som er igjen i lungene etter ein maksimal ekspirasjon / The volume that is left in the lungs after a maximum expiration
+
+Q
+1
+Hva er den viktigste respirasjonsmuskelen? / Kva er den viktigaste respirasjonsmuskelen? / Which is the most important respiratory muscle?
+O
+Biceps
+O
+Diafragma
+O
+Gluteus maximus
+O
+Kvadriceps / Quadriceps
+
+Q
+2
+Hvilket organ begrenser den maksimale oksygentransporten under arbeid hos friske? / Kva for organ avgrensar den maksimale oksygentransporten under arbeid hos friske? / Which organ limits the oxygen transport during work in healthy persons?
+O
+Hjernen / The brain
+O
+Lungene / The lungs
+O
+Hjertet / Hjarte / The heart
+O
+Muskulaturen / The muscles
+
+Q
+2
+Hva er astma? / Kva er astma? / What is asthma?
+O
+En sykdom med kronisk redusert alveoloverflate / Ein sjukdom med kronisk redusert alveoloverflate / A disease with chronicallly reduced alveolar surface
+O
+En sykdom med stivhet i brystveggen og redusert kraft i respirasjonsmusklene / Ein sjukdom med stivleik i brystveggen og redusert kraft i respirasjonsmusklane / A disease with stiffness in the chest wall and reduced power in the respiratory muscles
+O
+En sykdom med anfallsvis innsnevring av bronchiolene / Ein sjukdom med anfallsvis innsnevring av bronchiolene / A disease with paroxystic narrowing of the bronchioli
+O
+En form for lungebetennelse / Ein form for lungebetennelse / A kind of pneumonia
+
+Q
+1
+Ved pneumothorax kommer det luft inn i pleurahulen. Hva fører dette til? / Ved pneumothorax kommer det luft inn i pleurahulen. Kva fører dette til? / In pneumothorax there is air in the pleural cavity. What will this cause?
+O
+Lungen blåses opp på grunn av økt trykk i pleura / Lunga blåses opp på grunn av auka trykk i pleura / The Lung is inflated due to increased pleural pressure
+O
+6Lungen kollapser på grunn av tap av vakuum i pleura / Lunga kollapsar på grunn av tap av vakuum i pleura / The lung collapses due to loss of vacuum in the pleura
+O
+Brystkassen blåses opp på grunn av økt trykk i pleura / The chest is inflated due to increased pressure in the pleura
+O
+Brystkassen kollapser på grunn av tap av vakuum i pleura / The chest collapses due to loss of vacuum in the pleura
+
+Q
+0
+Hva heter den funksjonelle enheten i nyrene? / Kva heter den funksjonelle eininga i nyrene? What is the name of the functional unit of the kidneys?
+O
+Et nefron / Eit nefron / A nephron
+O
+Et renin / Eit renin / A renin
+O
+En urinleder / Ein urinleiar / A urether
+O
+Et urinrør / Eit urinrør / A urethra
+
+Q
+3
+Hvor dannes nyrestein? / Kor dannes nyrestein? / Where are kidney stones produced?
+O
+Glomeruli
+O
+Tubuli
+O
+Samlerør /samlerøyr /collecting ducts
+O
+Nyrebekken/ renal pelvis
+
+Q
+2
+Hvordan virker antidiuretisk hormon? / Korleis verker antidiuretisk hormon? / How does antidiuretic hormone work?
+O
+Bremser filtrasjonen i glomeruli / Reduces filtration in the glomeruli
+O
+Bremser sekresjonen i proximale tubuli / Reduces secretion in the proximal tubuli
+O
+Øker reabsorpsjonen i distale tubuli og samlerør / Auker reabsorpsjonen i distale tubuli og samlerøyr / Increases the reabsorption in the distal tubuli and collecting dicts
+O
+Hemmer blæretømmingen / Hemmer blæretømminga / Inhibits urinary bladder emptying
+
+Q
+3
+Hvilke av disse er symptomer på kronisk nyresvikt? / Kva for av disse er symptom på kronisk nyresvikt? / Which of these are symptoms of chronic renal failure?
+O
+Flankesmerter og blodig urin / Flank pain and blood in the urine
+O
+Urinretensjon med overfylt urinblære / Urinary retention with overfill of the urinary bladder
+O
+Feber og utslett / Fever and rash
+O
+Allmensymptomer som slapphet og kvalme / Ålmennsymptom som slappheit
+og kvalme / General symptoms like fatigue and nausea
+
+Q
+3
+Hva er en respiratorisk alkalose? / Kva er ein respiratorisk alkalose? / What is a respiratory alkalosis?
+O
+Redusert pH på grunn av økt produksjon av syre / Redusert pH på grunn av auka produksjon av syre / Decreased pH due to increased production of acid
+O
+Redusert pH på grunn av retensjon av CO 2 / Decreased pH due to retention of CO 2
+O
+Økt pH på grunn av tap av magesyre / Auka pH på grunn av tap av magesyre / Increased pH due to loss of gastric acid
+O
+Økt pH på grunn av utlufting av CO 2 / Auka pH på grunn av utlufting av CO 2 / Increased pH due to increased ventilation of CO 2
+
+Q
+0
+Hjertets normale pacemaker er: / The normal pacemaker of the heart is:
+O
+Sinusknuten / Sinoatrial node
+O
+AV knuten / AV node
+O
+AV-bunten (His’ bunt) / AV bundle ( bundle of His)
+O
+Purkinjefibrene / The Purkinje fibres
+
+Q
+3
+Hvilken av disse klaffene sitter mellom venstre atrium og venstre ventrikkel? / Kva for ein av disse klaffene sitter mellom venstre atrium og venstre ventrikkel? / Which of these valves are positioned between the left atrium and the left ventricle?
+O
+Aortaklaffen / The aortic valve
+O
+Tricuspidalklaffen / The tricuspid valve
+O
+Pulmonalklaffen / The pulmonary valve
+O
+Mitralklaffen / The mitral valve
+
+Q
+3
+Hvilken av disse rytmeforstyrrelsene gir en komplett hjertestans? / Kva for ein av disse rytmeforstyrringane gjev ein komplett hjertestans? / Which of these rythm disturbances results in a complete heart stop?
+O
+Atrieflimmer / Atrial fibrillation
+O
+Atrieflutter / Atrial flutter
+O
+Ventrikkeltachycardi / Ventricular tachycardia
+O
+Ventrikkelflimmer / Ventricular fibrillation
+
+Q
+0
+Aortaklaffen kan som følge av sykdom bli trang (stenose). Dette gir en motstand mot blodstrømmen, og dermed en bilyd. Når i hjertesyklus høres denne bilyden? / Aortaklaffen kan som følgje av sjukdom bli trong (stenose). Dette gjev ei motstand mot blodstraumen, og dermed ein bilyd. Når i hjertesyklus høres denne bilyden? / The aortic valve can become stenosed due to disease. This will give a resistance to the blood flow, and hence a heart murmur. When in the heart cycle can this murmur be heard?
+O
+I systole / In systole
+O
+I diastole / In diastole
+O
+Både i systole og diastole / Both in systole and diastole
+O
+I PQ-intervallet / In the PQ interval
+
+Q
+2
+Ved angina er det vanlig å ta nitroglycerin. Hvordan virker nitroglycerin? / Ved angina er det vanlig å ta nitroglycerin. Korleis verker nitroglycerin? / In angina it is common to use nitroglygerine. How does nitroglycerine work?
+O
+Det påvirker hjertemuskelen så minuttvolumet øker / Det påverkar hjartemuskelen så minuttvolumet aukar / It increases cardiac output by direct effect on the heart muscle
+O
+Det reduserer hjertefrekvensen så hjertets arbeid avtar / Det reduserer hjertefrekvensen så hjertets arbeid minkar / It reduces the heart rate leading to decreased heart work
+O
+Det utvider vener så hjertets arbeid avtar / Det utvidar vener så hjertets arbeid minkar / It dilates the veins, leading to decreased heart work
+O
+Det får hjertemuskelcellene til å ta opp mer oksygen / Det får hjertemuskelcellene til å ta opp meir oksygen / It induces the heart muscle to take up more oxygen.
+
+Q
+0
+Hvilket av disse organene er det overordnede organet som styrer andre endokrine organer? / Kva for eit av disse organa er det overordna organet som styrer andre endokrine organ? / Which of these organs is the superior organ regulating the function of other endocrine organs?
+O
+Hypofyse forlappen / Anterior pituitary
+O
+Hypofyse baklappen / Posterior pituitary
+O
+Thyroidea / The thyroid
+O
+Pancreas
+
+Q
+1
+Hvilke hormoner dannes i pancreas? / Kva hormon dannast i Pancreas? / Which hormones are produced in the pancreas?
+O
+Insulin og prolactin / Insulin and prolactin
+O
+Insulin og glucagon / Insulin and glucagon
+O
+Glucagon og thyroxin / Glucagon and thyroxin
+O
+Glucagon og calcitonin / Glucagon and calcitonin
+
+Q
+0
+Hvilket hormon regulerer kroppens vannbalanse? / Kva for eit hormon regulerer kroppens vannbalanse? / Which hormone regulates the water balance in the body?
+O
+ADH
+O
+FSH
+O
+LH
+O
+ACTH
+
+Q
+2
+Hvilket hormon styrer kroppens calciumnivå? / Kva for eit hormon styrer kroppens calciumnivå? / Which hormone regulates the body level of calcium?
+O
+Thyroxin
+O
+Cortisol
+O
+Parathyroid hormon (PTH)
+O
+Aldosteron
+
+Q
+3
+Hvilket av disse hormonene er med på å regulere blodtrykket? / Kva for eit av disse hormonene er med på å regulere blodtrykket? / Which of these hormones takes part in the blood pressure regulation?
+O
+Calcitonin
+O
+Glucagon
+O
+Prolactin
+O
+Aldosteron
+
+Q
+2
+Epidemiologi er studiet av: / Epidemiology is the study of:
+O
+Det naturlige forløp av sykdom (smittsom og ikke smittsom) / Det naturlige forløpet av sjukdom (smittsam og ikkje smittsam) / The natural course of av disease (contagious and not contagious)
+O
+Omfattende utbrudd av sykdom / Omfattande utbrot av sjukdom / Extensive outbreak of disease
+O
+Forekomst av sykdom i befolkninger / Førekomst av sjukdom i befolkningar / Occurrence of disease in populations
+O
+Lokal og epidemisk sykdom / Lokal og epidemisk sjukdom / Local and epidemic disease
+
+Q
+1
+Et hjerneslag som rammer høyre hjernehalvdel bak synsnervekrysningen vil kunne gi utfall i synsfeltet. Hvor vil utfallet sitte? / Eit hjerneslag som rammar høgre hjernehalvdel bak synsnervekryssinga vil kunne gje utfall i synsfeltet. Kvar vil utfallet sitte? / A stroke affecting the right brain half behind the optic chiasma may lead to loss of vision in part of the visual field. Where will this loss be?
+O
+Høyre side av synsfeltet / Høgre side av synsfeltet / Right vision field
+O
+Venstre side av sysnsfeltet / Left vision field
+O
+Midtre (nasale) del av synsfeltet / Middle (nasal) vision field
+O
+Temporale del av synsfeltet / Lateral (temporal) vision field
+
+Q
+2
+En medisin tas peroralt. Det betyr: / Ein medisin takast peroralt. Det tyder: / A
+medicine is taken perorally. This means:
+O
+Som intramuskulære sprøyter / As intramuscular injections
+O
+Som subcutane sprøyter / As subcutaneous injections
+O
+Gjennom munnen som tablett eller mikstur / Through the mouth as tablets or
+mixture
+O
+Gjennom endetarmen som stikkpille eller klystér / Through the rectum as
+suppository or enema
+
+Q
+1
+Hvilken av disse metodene er en reell MR metode? / Kva for ein av disse metodane er ein reell MR-metode?
+O
+MR Doppler
+O
+MR Spektroskopi / MR spectroscopy
+O
+MR colonoskopi / MR colonoscopy
+O
+MR scintigrafi / MR scintigraphy
+
+Q
+1
+Kreftceller har evnen til å indusere angiogenese. Hva er det? / Kreftceller har evna til å indusere angiogenese. Kva er det? / Cancer cells have the ability to induce angiogenesis. What is that?
+O
+Evnen til å invadere omkringliggende vev. / Evna til å invadere kringliggande vev / The ability to invade surrounding tissue
+O
+Evnen til å danne nye blodårer til svulsten. / Evna til å danne nye blodårer til svulsten. / The ability to create new blood vessels to the tumour
+O
+Evnen til å etablere kolonier (dattersvulster) andre steder i kroppen. / Evna tilå etablere koloniar (dottersvulstar) andre steder i kroppen. / The ability toestablish daughter tumours at other sites in the body
+O
+Evnen til å stoppe veksten på en bestemt størrelse. / Evna til å stoppe vekstenpå ein bestemt størrelse. / The ability to stop the growth at a certain size
+
+Q
+1
+Hva er et mutatorgen? / Kva er eit mutatorgen? / What is a mutator gene?
+O
+Et gen som gjør at normale celler muterer til kreftceller / Eit gen som gjer atnormale celler muterer til kreftceller / A gene making normal cells mutate tocancer cells
+O
+Et gen som reparerer DNA og fjerner mutasjoner / Eit gen som reparerer DNAog fjernar mutasjonar / A gene that repairs DNA and removes mutations
+O
+Et gen som er vekstregulerende og gir celledød / Eit gen som ervekstregulerande og gjev celledød /A gene that is growth regulating and leadsto apoptosis
+O
+Et vekstregulerende gen som er mutert / Eit vekstregulerande gen som ermutert / A growth regulating gene that is mutated
+
+Q
+2
+Når prostata vokser med alderen kan den gi: / Når prostata veks med alderen kanden gi / The prostate increases in size with age. This can lead to:
+O
+Forstoppelse / Forstopping / Constipation
+O
+Impotens / Impotence
+O
+Vannlatningsproblemer / Vannlatingsproblem / Micturition problems
+O
+Prematur ejakulasjon / Premature ejaculation
+
+Q
+1
+Hvilken av disse kjønnssykdommene kan gi svie ved vannlatning somhovedsymptom, og spesielt hos menn? / Kva for ein av disse kjønssjukdomene kan gisvie ved vannlating som hovudsymptom, og spesielt hos menn? / Which of thesevenereal diseases can lead to painful micturation, especially in men?
+O
+Syfilis / Syphilis
+O
+Gonorré / Gonorrhoea
+O
+Kjønnsvorter/ Venereal warts
+O
+Flatlus / Pubic lice
+
+Q
+1
+Hvilken av disse sykdommene har et navn som viser at det er en betennelse? / Kvafor ein av disse sjukdomene har eit nav som syner at det er ein betennelse? / Which ofthese diseases has a name showing it to be an inflammation?
+O
+Osteoporose / Osteoporosis
+O
+Pancreatitt / Pancreatitis
+O
+Aortainsuffisiens / Aortic insufficiency
+O
+Atrofi / Atrophy
+
+Q
+1
+Hva er den vanligste mekanismen for hjerneslag? / Kva er den vanlegaste mekanismen for hjerneslag? / What is the most common mechanism for a stroke?
+O
+Blødning / Bløding / Bleeding
+O
+Blodpropp / Thrombus
+O
+Utvendig skade / External injury
+O
+Infeksjon / Infection
+
+Q
+2
+Hvor sitter sansecellene for lyd? / Kvar sit sansecellene for lyd? / Where are the sense cells for sound situated?
+O
+I trommehinna / In the tympanic membrane
+O
+I mellomøret / In the middle ear
+O
+I det indre øret / In the inner ear
+O
+I hørselsnerven / In the cochlear nerve
+
+Q
+2
+Hva er multippel sklerose? / Kva er multippel sklerose? What is multiple sclerosis?
+O
+En sykdom med anfallsvis halvsidig synsforstyrrelse og hodepine / Ein sjukdom med anfallsvis halvsidig synsforstyrring og hovudverk / A disease with attacks of half sided disturbances in the vision field and headache
+O
+En sykdom med økende slapphet på grunn av antistoff mot motoriske endeplater / Ein sjukdom med aukande slappheit på grunn av antistoff mot motoriske endeplater / A disease with increasing weakness due to antibodies against motor synapses
+O
+En sykdom med lammelser, stivhet og andre symptomer på grunn av nedbrytning av myelinskjeder / Ein sjukdom med lammingar, stivleik og andre symptom på grunn av nedbryting av myelinskjeder / A disease with pareses, stiffness and other symptoms due to degradation of myelin sheaths
+O
+En sykdom med hallusinasjoner, vrangforestillinger og tankeforstyrrelser / Ein sjukdom med hallusinasjonar, vrangforestillingar og tankeforstyrringar / A disease with hallucinations, delusions and thought disturbances
+
+Q
+1
+Når hodet roteres, i hvilket nivå foregår den største delen av bevegelsen? / Når hovudet blir rotert, i kva for nivå går den største delen av bevegelsen føre seg? / When the head is rotated, where does the greatest movement take place?
+O
+Mellom kraniet og første nakkevirvel / Between the cranium and the first cervical vertebra
+O
+Mellom første og andre nakkevirvel / Between the first and second vertebrae
+O
+Mellom andre og tredje nakkevirvel / Between the second and third vertebrae
+O
+Fordelt mellom alle nakkevirvler / Fordelt mellom alle nakkevirvlar / Distributed between all cervical vertebrae
+
+Q
+0
+Målet på risikoen for å få en sykdom er
+O
+Insidens raten / The incidence rate
+O
+Insidens raten multiplisert med sykdommens varighet / Insidens raten multiplisert med sjukdommens varigheit / The incidence rate multiplied by the disease duration
+O
+Prevalensen / The prevalence
+O
+Prevalensen multiplisert med sykdommens varighet Prevalensen multiplisert med sjukdommens varigheit / The prevalence multiplied by the disease duration
+
+Q
+0
+Hvilket av disse organene består hovedsakelig av epitelvev?/ Kva for av disse organa består hovudsakelig av epitelvev?/ Which of these organs consists mainly of epithelial tissue?
+O
+Pancreas
+O
+Hjertet / The heart
+O
+Aorta
+O
+Kraniet / The cranium

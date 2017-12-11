@@ -1,0 +1,89 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4160 Datamaskiner grunnkurs
+Eksamen 2006 Høst
+TF
+
+Q
+1
+Moore sin lov er oppkalt etter Gordon Moore. Dette er en lov som sier noe om fysiske egenskaper i halvledermaterialet.
+O
+Sant
+O
+Usant
+
+Q
+1
+hex(0FF0) i "Big endian" representerar et større tall enn hex(0FF0) i
+"Little endian".
+O
+Sant
+O
+Usant
+
+Q
+1
+RISC-prosessorer er raske fordi de har få kompliserte instruksjoner.
+O
+Sant
+O
+Usant
+
+Q
+0
+Cache (hurtigbuffer) er oftest implementert med SRAM-celler.
+O
+Sant
+O
+Usant
+
+Q
+1
+IJVM er en typisk RISC-arkitektur.
+O
+Sant
+O
+Usant
+
+Q
+0
+Aritmetiske uttrykk på omvent polsk notasjon (Reverse Polish Nota-
+tion) er enkelt å utføre på stakkmaskiner.
+O
+Sant
+O
+Usant
+
+Q
+0
+IJVM-arkitekturen kan maksimalt ha et instruksjonsett bestående av
+256 forskjellige instruksjoner..
+O
+Sant
+O
+Usant
+
+Q
+0
+"Throughput" er et ytelsesmål der man måler hvor mye arbeid man
+får gjort per tidsenhet.
+O
+Sant
+O
+Usant
+
+Q
+1
+"Throughput" er et ytelsesmål som måler hvor mange instruksjoner
+en prosessor gjør ferdig per klokkesykel.
+O
+Sant
+O
+Usant
+
+Q
+1
+DRAM er raskere enn SRAM (kortere aksesstid).
+O
+Sant
+O
+Usant

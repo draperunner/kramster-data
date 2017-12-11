@@ -1,0 +1,30 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 07: Tactics Mega Quiz
+Specialize access routes/interfaces to allow capturing or specification of variable values. §§ 3 §§ Availability §§ Modifiability §§ Performance §§ Testability
+Firewalls restrict access based on message source or destination port. §§ 2 §§ Modifiability §§ Performance §§ Security §§ Testability
+Limit possible options: Reduce the possible options for variations for modules. §§ 1 §§ Availability §§ Modifiability §§ Performance §§ Security
+Spare: A standby spare configured to replace many different failed components. §§ 0 §§ Availability §§ Interoperability §§ Modifiability §§ Testability
+Polymorphism: Late binding of method calls. §§ 1 §§ Availability §§ Modifiability §§ Security §§ Usability
+Bound execution times: Place a limit on how much execution time is used to respond to an event. §§ 2 §§ Availability §§ Modifiability §§ Security §§ Usability
+Maintain existing interfaces: Avoid to change interfaces that other modules uses. §§ 0 §§ Modifiability §§ Performance §§ Security §§ Usability
+Exceptions: Recognizing faults by raising exceptions when a specified fault occurs. §§ 0 §§ Availability §§ Modifiability §§ Security §§ Usability
+Increase available resources: Faster and more processors, more memory, faster network. §§ 3 §§ Availiability §§ Interoperability §§ Modifiability §§ Performance
+Shadow operation to mimic the behavior of the working components before restoring service. §§ 0 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Maintain a model of the task: Used to determine context of a system. §§ 3 §§ Availability §§ Modifiability §§ Performance §§ Usability
+State resynchronization to upgrade a component to restore its previous state. §§ 0 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Configuration files: Intended to set parameters at startup. §§ 1 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Authorize users to ensure authenticated users have the rights to access/modify data or services §§ 2 §§ Availability §§ Modifiability §§ Security §§ Usability
+Scheduling policy: Scheduling of resources based on priority assignment and dispatching. §§ 3 §§ Availability §§ Interoperability §§ Modifiability §§ Performance
+Checkpoint/rollback: A recording of a consistent state that can later be restored. §§ 0 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Hide information: Make parts of information of a module private and provide interfaces. §§ 1 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Authenticate users: Ensuring that a user or remote computer is actually who it claims to be. §§ 2 §§ Availability §§ Modifiability §§ Security §§ Usability
+Removal from service to undergo some activities to prevent anticipated failures. §§ 0 §§ Availability §§ Interoperability §§ Modifiability §§ Performance
+Control frequency of sampling for queued requests possibly resulting in loss of requests. §§ 3 §§ Availability §§ Interoperability §§ Modifiability §§ Performance
+Maintain a model of the system: Determines the expected system behavior enabling feedback. §§ 3 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Maintain integrity using checksums or hash results to allow testing of manipulation of the data §§ 2 §§ Availability §§ Modifiability §§ Security §§ Usability
+Heartbeat:Component emits a heartbeat message periodically and another component listens for it §§ 0 §§ Availability §§ Interoperability §§ Modifiability §§ Performance
+Restrict communication paths: Restrict the modules with which a given module shares data. §§ 1 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Adherence to defined protocols: Allows runtime binding of independent processes. §§ 0 §§ Availability §§ Performance §§ Security §§ Testability
+Increase computational efficiency to improve algorithm or use cache methods for processor/disk §§ 2 §§ Availability §§ Modifiability §§ Performance §§ Usability
+Ping/echo: Component issues a ping and expects to receive back an echo, within predefined time. §§ 0 §§ Availability §§ Modifiability §§ Performance §§ Usability

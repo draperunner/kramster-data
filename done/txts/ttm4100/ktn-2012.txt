@@ -1,0 +1,53 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4100 Communication Services and Networks
+2012 Spring
+A client program requests and receives services from a server program. §§ 0 §§ True §§ False
+Packet switching is more efficient in using link capacity than circuit switching. §§ 0 §§ True §§ False
+The application-layer message and the transport-layer header information together constitute the network-layer segment. §§ 1 §§ True §§ False
+The total nodal delay is given by the sum of processing delay and propagation delay. §§ 1 §§ True §§ False
+Store-and-forward transmission means that the switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link. §§ 0 §§ True §§ False
+Each router has a forwarding table that maps source addresses to outbound links. §§ 1 §§ True §§ False
+Tier-2 ISPs are directly connected to all Tier-1 ISPs. §§ 1 §§ True §§ False
+Transport Layer and Network Layer are always executed together. §§ 1 §§ True §§ False
+IP is a connectionless protocol. §§ 0 §§ True §§ False
+Without DNS, it is impossible to communicate with servers where only the hostnames are known. §§ 0 §§ True §§ False
+Web cashing can reduce the delay in receiving a requested object of a webpage. §§ 0 §§ True §§ False
+FTP uses UDP as its underlying transport protocol. §§ 1 §§ True §§ False
+SMTP decides how a Web page is interpreted by a Web browser. §§ 1 §§ True §§ False
+When a user requests a Web page, only one TCP connection may be generated. §§ 0 §§ True §§ False
+File distribution using P2P architecture. Upload rate: server is 10Mbps and each client 2 Mbps. Download rate:each client is 10Mbps. There are 100 clients and the file is 12,5Mbytes. The minimum distribution time is about 50 seconds. §§ 0 §§ True §§ False
+A BitTorrent peer A may upload to a peer B even if B is not sending anything to A. §§ 0 §§ True §§ False
+P2P can be used for instant messaging. §§ 0 §§ True §§ False
+A HTTP web server uses persistent connections. The server spawns a separate process for each client that connects to the server. Each of these processes will have different server port numbers. §§ 1 §§ True §§ False
+In a POP3 transaction, the user agent issues commands, and the server responds to each command with a reply. §§ 0 §§ True §§ False
+SIP is used to transfer voice packets between two communicating peers. §§ 1 §§ True §§ False
+A transport-layer protocol can provide reliable data transfer only when the underlying network layer also provides reliable service. §§ 1 §§ True §§ False
+Suppose Host A sends two TCP segments back to back to Host B over a TCP connection. The first segment has sequence number 100; the second has sequence number 200. Then, there are 200 bytes in the first segment. §§ 1 §§ True §§ False
+In Go-back-N, the sender is allowed to transmit multiple packets (when available) without waiting for an acknowledgement from the receiver. §§ 0 §§ True §§ False
+The throughput of a UDP connection is typically a function of the round-trip time between the sender and the receiver. §§ 1 §§ True §§ False
+When TCP is used, the TCP port number of the receiver must be the same as the TCP port number of the sender. §§ 1 §§ True §§ False
+UDP is a connectionless transport protocol. §§ 0 §§ True §§ False
+TCP provides a reliable, simplex service to the Network layer. §§ 1 §§ True §§ False
+Flow control is needed because a sender may have too much data to send. §§ 0 §§ True §§ False
+For every write() to a TCP streamsocket, there must be a corresponding read() at the other end to receive the data. §§ 1 §§ True §§ False
+TCP uses different TCP protocol headers for connection set-up and close. §§ 1 §§ True §§ False
+The IP address 192.32.158.3 in binary notation is:11000000 00100000 11011000 00000011 §§ 1 §§ True §§ False
+A subnet, which has a CIDR address of the form a.b.c.d/24, can accommodate about 500 hosts. §§ 1 §§ True §§ False
+Routers typically only look at the network part and not the host part of the IP address. §§ 0 §§ True §§ False
+A datagram is a packet that is transferred independently of other packets. §§ 0 §§ True §§ False
+In a distance-vector routing algorithm, each router has a map of the entire network and determines the shortest path from itself to all other routers in the network. §§ 1 §§ True §§ False
+In a decentralized routing algorithm, the calculation of the least-cost path is carried out in an iterative, distributed manner. §§ 0 §§ True §§ False
+The IPv4 address space is much larger than the IPv6 address space. §§ 1 §§ True §§ False
+Scalability and administrative autonomy are two important reasons for organizing the Internet as a hierarchy of networks. §§ 0 §§ True §§ False
+With DHCP, a host will be assigned an IP address that is same each time the host is connected to the network. §§ 1 §§ True §§ False
+Network address translation (NAT) is used in the Internet to translate between IP addresses found in separate sub-networks. §§ 1 §§ True §§ False
+Because a switch isolates one link from another, the different links in the LAN can operate at different speeds. §§ 0 §§ True §§ False
+The point-to-point protocol (PPP) is a link-layer protocol for point-to-point links, able to support multiple network-layer protocols. §§ 0 §§ True §§ False
+Forward error correction (FEC) can decrease the number of sender retransmissions required. §§ 0 §§ True §§ False
+For the Internet, it is the job of the Address Resolution Protocol (ARP) to translate between IP addresses and MAC addresses. §§ 0 §§ True §§ False
+The maximum efficiency of slotted ALOHA is lower than the maximum efficiency of pure ALOHA. §§ 1 §§ True §§ False
+It is not a node (i.e., host or router) that has a link-layer address but instead it is a node's adapter that has a link-layer address. §§ 0 §§ True §§ False
+Unlike IP addresses that have a hierarchical structure, an adapter's MAC address has a flat structure. §§ 0 §§ True §§ False
+An adapter's MAC address does not change no matter where the adapter is installed. §§ 0 §§ True §§ False
+With CSMA/CD, when a collision is detected, the transmitting node stops its transmission and uses some protocol to determine when it should attempt to transmit the next time. §§ 0 §§ True §§ False
+For a given signal-to-noise ratio (SNR), a modulation technique with a higher bit transmission rate will have a higher bit-error-rate (BER). §§ 0 §§ True §§ False

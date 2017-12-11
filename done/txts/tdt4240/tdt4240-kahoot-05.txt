@@ -1,0 +1,10 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 05: Influences
+How can an architecture affect business goals of a system? §§ 0 2 §§ Add value §§ Support cloud computing §§ Faster to market §§ Less system crash
+What are the main influences of the stakeholders related to software architectures? §§ 0 2 3 §§ Business §§ Frameworks §§ Project §§ Technical
+What influences the architect's regarding the SWA according to the text book? §§ 1 3 §§ Software process §§ Stakeholders §§ Programming language §§ Professional background
+How can the architecture influence the technical context? §§ 0 3 §§ Affect the next system §§ Help the project manager §§ Provide rules for coding §§ Result in a better system
+How can the architecture influence the project context? §§ 3 §§ Increase architect's knowledge §§ Make system faster §§ Shorter time to market §§ Structure the dev organization
+How can the architecture influence the business context? §§ 0 3 §§ Efficient production §§ Form teams §§ Prescribe what to implement §§ Take market share
+How can the architecture influence the professional context? §§ 2 3 §§ Affect stakeholders reqs §§ Affect business goals §§ Improve experience §§ Learn patterns

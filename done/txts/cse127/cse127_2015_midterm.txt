@@ -1,0 +1,137 @@
+University of California, San Diego (UCSD)
+CSE 127 Introduction to Computer Security
+2015 Fall Midterm
+
+Q
+1
+A one-way hash function provides the property that there is only one way to verify if it is correct (i.e., using the correct cryptographic key).
+O
+True
+O
+False
+
+Q
+1
+A major advantage of public key cryptography over shared key cryptography is that key distribution is not required.
+O
+True
+O
+False
+
+Q
+1
+The strength of a cryptographic key is determined by its length in bits.
+O
+True
+O
+False
+
+Q
+0
+Randomly selected passwords offer protection against dictionary attacks.
+O
+True
+O
+False
+
+Q
+0
+A side channel is a flaw in the implementation of a system that allows secret information to be inferred even though it is not directly exposed via the system's normal interface.
+O
+True
+O
+False
+
+Q
+0
+Marking the memory in the heap as being non-executable (aka DEP) would protect against heap spray attacks.
+O
+True
+O
+False
+
+Q
+1
+The Diffie-Hellman key exchange protocol protects against Man-in-the-Middle attacks.
+O
+True
+O
+False
+
+Q
+0
+For Bob to send a confidential message to Alice using public key cryptography requires that
+O
+Bob knows Alice's public key
+O
+Bob knows Alice's private key
+O
+Alice knows Bob's private key
+O
+Alice knows Bob's public key
+
+Q
+1
+In a system with 20 computers, each of whom may need to send confidential messages to each other, how many unique public keys must each computer maintain to support this capability?
+O
+20
+O
+19
+O
+9
+O
+10
+
+Q
+3
+Suppose you wish to encrypt your own credit card number (16 numeric digits) using a standard block cipher such as AES (let's say using 256 bits key size and a 128 bits block size). What mode should you use the block cipher in?
+O
+ECB mode
+O
+CBC mode
+O
+CFB mode
+O
+Any of these will be equally good
+
+Q
+2
+A nonce is used to protect against what kind of attack in a cryptographic protocol?
+O
+Tampering
+O
+Eavesdropping
+O
+Replay
+O
+Denial-of-Service
+
+Q
+0 1 3
+What are the assumptions under which stack cookies are effective at stopping buffer overflow attacks?
+O
+The value of the stack cookie is secret
+O
+The attacker must overflow the stack contiguously (i.e., they can not "skip" bytes)
+O
+The stack cookie is at least as large as the largest buffer on the stack
+O
+All functions validate stack cookies on function return
+O
+All functions validate stack cookies on function entry
+O
+The stack cookie is properly salted
+
+Q
+0 1 4
+What are the assumptions under which Address Space Layout Randomization (ALSR) is effective at stopping buffer overflow attacks?
+O
+The layout of memory is secret
+O
+Attackers need to redirect control flow to a particular address they control
+O
+The stack is arranged to be lower in memory than the heap
+O
+All memory pointers are encrypted in memory
+O
+The attacker is unable to read the contents of memory

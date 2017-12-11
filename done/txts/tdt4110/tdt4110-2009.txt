@@ -1,0 +1,248 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2009 Høst
+
+Q
+1
+Hvilken systemutviklingsprosess vil fungere best i følge læreboka hvis kunden er svært
+usikker på kravene og hvordan det endelige systemet skal bli?
+O
+Vannfallsmodellen
+O
+Inkrementell utvikling
+O
+Motstrømsmodellen
+
+Q
+2
+Til sammen bruker X mennesker internettet. Rundt år 2009 fins det over Y mobiltelefoner
+O
+X = 3 milliarder Y = 1.5 milliarder
+O
+X = 300 millioner Y = 1.5 milliarder
+O
+X = 1.5 milliarder Y = 3 milliarder
+
+Q
+1
+Hva brukes en prosessor hovedsakelig til?
+O
+Direkte kjøre kode skrevet i JSP, Matlab eller andre programmeringsspråk
+O
+Utføre regneoperasjoner på og sammenlikninger av registre
+O
+Utføre regneoperasjoner på og sammenlikninger direkte på data lagret i
+primærminnet (RAM)
+
+Q
+1
+I hvilket tilfelle kan man IKKE benytte seg av binærsøkalgoritmen?
+O
+Når man har for stor datamengde (tar for lang tid)
+O
+Når dataene ikke er sortert
+O
+Når man ikke vet om det man søker etter finnes i dataene
+
+Q
+2
+Hva er tallet 1365 10 representert som et binært tall?
+O
+11100101011
+O
+10110101010
+O
+10101010101
+
+Q
+1
+Hva menes med fysisk datauavhengighet i databaser i følge læreboka?
+O
+Databasens konseptuelle skjema kan endres uten å endre på applikasjonen
+O
+Måten data er fysisk representert i databasen kan endres uten å endre på
+applikasjonen
+O
+De er ingen sammenheng mellom de fysiske data som er lagret og dataene
+representert i databasen
+
+Q
+2
+Hva er hovedoppgaven til kontrollenheten i en prosessor?
+O
+Holde orden på hvor langt prosessoren har kommet i JSP- eller Matlab-
+programmet
+O
+Kontrollere at regneoperasjonene i ALU er korrekte
+O
+Ha kontroll på hvor neste instruksjon ligger i minnet (RAM)
+
+Q
+1
+TCP/IP er en samling av protokoller som inneholder protokollene:
+O
+HTTP, HTML, PHP, TCP, SMTP
+O
+HTTP, FTP, TCP, IP, SMTP
+O
+Kun TCP og IP
+
+Q
+2
+Hvilket av følgende alternativer blir IKKE i følge loven ansett som sensitive
+personopplysninger ved opprettelse av personregistre i følge læreboka?
+O
+Etnisk bakgrunn
+O
+Politisk oppfatning
+O
+Økonomiske opplysninger
+
+Q
+1
+Hvor mange bits trengs for å kode det norske alfabetet med enkel koding (hver
+bokstav/tegn er representert med like mange bit)?
+O
+4
+O
+5
+O
+6
+
+Q
+2
+Hva er den viktigste oppgaven til en nettverksruter?
+O
+Koble sammen flere nettverkssegmenter av samme type
+O
+Forsterke og rense signaler i nettverket
+O
+Koble sammen ulike nettverk og nettverkssegmenter
+
+Q
+1
+Hva er en "Service Level Agreement" (SLA) i forbindelse med tjenestekvalitet?
+O
+En kontrakt som omfatter priser på ulike hastigheter på nettverk
+O
+En gjensidig kontrakt med krav til kunde og leverandør relatert til kvalitet på
+nettverktjenester
+O
+En kontrakt som formelt beskriver kvalitetskrav fra leverandør på
+nettverkstjenester
+
+Q
+0
+Hvordan finner man databasekrav i henhold til designprosessen for databaser beskrevet i
+læreboka?
+O
+Bestemmer hvilken informasjon fra den virkelige verden som trengs i
+applikasjonen
+O
+Bestemmer hvilket type databaseverktøy som trengs for å støtte en applikasjon
+O
+Bestemmer hvilke entiteter og relasjoner som skal representeres i databasen
+
+Q
+0
+Minnehierarki i en datamaskin sortert på hastighet er som følger:
+O
+registre, cache, primærminne, sekundærminne
+O
+cache, registre, primærminne, sekundærminne
+O
+primærminne, cache, registre, sekundærminne
+
+Q
+0
+Når var Radiorør og Transistor funnet opp?
+O
+1940: Radiorør - 1955: Transistorer
+O
+1930: Radiorør - 1920: Transistorer
+O
+1955: Radiorør - 1970: Transistorer
+
+Q
+2
+Hva er et nøkkelattributt i databasesammenheng?
+O
+Et attributt som styrer hvem som skal ha tilgang til bestemt informasjon i en
+database
+O
+Et attributt som gjør det mulig å logge seg inn på en database med brukernavn og
+passord
+O
+Et attributt som gjør det mulig å identifisere en instans av data unikt
+
+Q
+0
+Hvilke lag inngår i TCP/IP protokollen?
+O
+Applikasjon, transport, nettverk, link
+O
+Applikasjon, transponder, nettverk, lenke
+O
+Applikasjon, trådløst, nettverk, link
+
+Q
+0
+Hvor mange bits benyttes i nåværende IP-adresser (IPv4)?
+O
+32 bits
+O
+16 bits
+O
+48 bits
+
+Q
+1
+Hva gjør nettverkslaget i TCP/IP?
+O
+Gir en ende-til-ende forbindelse
+O
+Ruter pakker gjennom nettet fra maskin til maskin
+O
+Tar seg av fysiske overføringer
+
+Q
+0
+Bruk Huffman-koding for å finne bitmønstrene til symbolene A, B, C, D og E når du har
+Tabell 1 Fordeling av antall symboler oversendt i en melding på 100 symboler
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>Symbol</th>
+        <th>Antall i melding</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>A</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>B</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>C</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>D</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>E</td>
+        <td>5</td>
+    </tr>
+</tbody>
+</table>
+oppgitt fordeling som vist i Tabell 1 på en melding som består av 100 symboler.
+O
+A:1, B:01, C:001, D:0001, E:0000
+O
+A:1, B:01, C:011, D:0011, E:0001
+O
+A:1, B:01, C:001, D:0010, E:0001

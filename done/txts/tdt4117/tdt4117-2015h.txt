@@ -1,0 +1,125 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4117 Informasjonsgjenfinning
+2015 Høst
+
+
+Q
+0
+Hvilken påstand er riktig?
+O
+Micon og videogjenfinning hører sammen
+O
+Micon og lydgjenfinning fra videoshots hører sammen
+O
+Micon kan brukes av PST til å lett gjenfinne bilder med terrorister
+O
+Micon har ingenting med informasjonsgjenfinning å gjøre
+
+Q
+3
+Hvilken påstand er riktig?
+\(J(A,B) = \frac{|A \cap B|}{|A \cup B|} = \frac{|A \cap B|}{|A| + |B| - |A \cap B|}\)
+O
+Denne formelen er et likhetsmål som egner seg veldig godt til bruk i rangering av resultater med søk av store strukturerte dokumenter
+O
+Denne formelen forteller noe om mengden av informasjon som er i dokumentene
+O
+Denne formelen er et Jaccard-likhetsmål som ikke kan brukes til å vurdere om to ord er like eller ikke
+O
+Denne formelen er et Jaccard-likhetsmål som kan brukes til å vurdere i hvor stor grad to dokumenter er like
+
+Q
+3
+Hvilken påstand er riktig?
+O
+Et Huffman-tre er en variant av et suffix tre
+O
+Et Huffman-tre er et komprimeringstre som kan være både "bit"-basert (binært) og "byte"-basert samtidig.
+O
+Et Huffman-tre er en variant av et suffix trie
+O
+En Huffman-trekonstruksjon bruker informasjon om termdistribusjon i et dokument for å kunne lage en så effektiv komprimering som mulig
+
+Q
+1
+Hvilken påstand er riktig?
+O
+Automatic Global Analysis og Automatic Local Analysis bruker to motsatte metoder for utvidede spørringer
+O
+Pseudo relevance feedback er en metode for å utvide spørringer
+O
+I Pseudo relevance feedback trenges tilbakemelding fra brukeren for at det skal fungere optimalt
+O
+Med Pseudo relevance feedback trenger man alltid å bruke Rocchios standardmetode for å få det til å fungere
+
+Q
+3
+Hvilken påstand er riktig?
+O
+IDF står for "Information of Document Frequency"
+O
+IDF står for "Invariant Document Frequency" og brukes til å måle hvor mye svingninger det er i antall termer per dokument
+O
+IDF står for "Inverse Document Frequency" og kan brukes til å straffe termer som nevnes ofte i et dokument
+O
+IDF står for "Inverse Document Frequency" og kan brukes til å straffe termer som nevnes ofte i en samling av dokumenter
+
+Q
+0
+Hvilken påstand er riktig?
+O
+Zipf's law kan brukes til å vurdere hvilke ord som kan være gode kandidater til stoppordlista
+O
+Zipf's og Heap's law er viktig for genfinningsregler i websøkesystemer
+O
+En crawler bruker Zipf's law til å avgjøre om den skal følge en link videre til neste dokument, for indeksering
+O
+Zipf's law sier ingenting om termdistribusjon i en samling
+
+Q
+1
+Hvilken påstand er riktig?
+O
+Harvest-websøkesystem er basert på en sentralisert systemarkitektur med koordinerte crawlers
+O
+Harvest-websøkesystem er basert på en distribuert systemarkitektur med koordinerte gatherers
+O
+Harvest er ingen websøkesystem men en proprietær systemarkitektur for datahøsting
+O
+Harvest-arkitekturen er helt lik den arkitekturen som Google har brukt som basis for deres websøkearkitektur
+
+Q
+0
+Hvilken påstand er riktig?
+O
+Et bildegjenfinningssystem består av en "feature extractor"-del som gjør det enkelt å automatisere lagring av informasjon om innholdet i et bilde
+O
+Et bildegjenfinningssystem må bruke alle teknikker fra databaseteknikk for å kunne enkelt utføre spørringer
+O
+Det er et krav at et bildegjenfinningssystem tilbyr støtte til nøkkelordsøk
+O
+De fleste bildegjenfinningssystem bruker piksel-til-piskelsammenlikninger til å finne likhet mellom bilder og til rangering
+
+Q
+0
+Hvilken påstand er riktig?
+O
+Okapi BM25 er en variant av sannsynlighetsmodellen, men bruker både TF og IDF til å estimere sannsynlighetene
+O
+Okapi BM25 er en variant av språkmodellen (Language model for information retrieval)
+O
+Ifølge forskningen fungerer Okapi BM25 mye dårligere enn den boolske modellen
+O
+Okapi BM25 har ingenting med søkeresultatrangeringer å gjøre
+
+Q
+3
+Hvilken påstand er riktig?
+O
+Precision og recall er like viktige uavhengig av søkeapplikasjoner
+O
+Recall er typisk viktigere enn precision for søk i Gulesider
+O
+MAP bruker ikke recall i det hele tatt
+O
+Interpolering er nyttig dersom man har for få recall-punkter

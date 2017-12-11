@@ -1,0 +1,13 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 04: Life Cycle
+Important contexts for software architecture defined in the book are: §§ 0 2 3 §§ Business §§ Modelling §§ Project life cycles §§ Technical
+The most important technical factor that contributes to the architecture is... §§ 3 §§ Architects expertise §§ Development tools §§ Stakeholder's goals §§ Quality attributes
+Examples of dominant software development processes are: §§ 1 3 §§ Ad-hoc development §§ Model-driven §§ Pair-programming §§ Waterfall
+What is the first architecture activity in the life-cycle? §§ 2 §§ Analyze requirements §§ Get requirements §§ Make business case §§ Design architecture
+What is the second architecture activity in the life-cycle? §§ 3 §§ Create/Select architecture §§ Document architecture §§ Implement architecture §§ Understand arch requirements
+What is the third architecture activity in the life-cycle? §§ 0 3 §§ Create architecture §§ Document architecture §§ Implement architecture §§ Select architecture
+What is the fourth architecture activity in the life-cycle? §§ 1 2 §§ Analyze architecture §§ Communicate architecture §§ Document architecture §§ Implement architecture
+What is the fifth architecture activity in the life-cycle? §§ 0 1 §§ Analyze architecture §§ Evaluate architecture §§ Implement system §§ Test system
+What is the sixth architecture activity in the life-cycle? §§ 0 2 §§ Implement system §§ Ensure conform implementation §§ Test system §§ Quality assurance
+What is the seventh architecture activity in the life-cycle? §§ 0 §§ Ensure conform implementation §§ Evaluate architecture §§ There is no 7th step §§ Quality assurance

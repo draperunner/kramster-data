@@ -1,0 +1,364 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2011 Høst
+MC
+
+Q
+1
+Det er seks dimensjoner av innovasjon: Verdi for kunden, verdikjeder, målgruppe i markedet, nye produkter og tjenester, prosessteknologier, støttende teknologier. Hvilken av følgende påstander om inkrementelle, semi-radikale og radikale innovasjoner er riktig?
+O
+En innovasjon er radikal når det er flere mindre endringer i alle seks dimensjonene
+O
+En innovasjon er radikal når det er betydelig endringer i en av de tre teknologiske innovasjonsdimensjonene og betydelig endringer i en av de tre forretningsmodellinnovasjonene
+O
+En innovasjon er semi-radikal når det er betydelig endringer i en av de tre teknologiske innovasjonsdimensjonene og betydelig endringer i en av de tre forretningsmodellinnovasjonene
+O
+En innovasjon er semi-radikal når det er mindre endringer i en av de tre teknologiske innovasjonsdimensjonene og mindre endringer i en av de tre forretningsmodellinnovasjonene 
+
+Q
+3
+Hvilken av følgende påstander er korrekt om finansiering av teknologibedrifter med vekstpotensial.
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.
+O
+Venturekapital fond er den mest vanlige typen investor i nye vekstbedrifter.
+O
+Bankene vil normalt sett ikke engasjere seg finansielt i de tidlige fasene ved utviklingen av en teknologibedrift 
+
+Q
+3
+Hvilken av følgende påstander er korrekt om venturekapitalfond?
+O
+Dette er offentlige fond som skal støtte opp om etablering av vekstbedrifter
+O
+Dette er privatpersoner som går sammen og investerer direkte i nye teknologibedrifter
+O
+Venturekapital fond investerer normalt sett i mange bransjer og et stort antall bedrifter for å diversifisere risikoen til fondet.
+O
+Venturekapital fond er ofte spesialisert i forhold til fase eller bransje 
+
+Q
+1
+Hva er rekkefølgen på når disse aktørene normalt investerer?
+O
+Gründer, såkornfond, venturekapital fond, familie og venner, Business Angels.
+O
+Gründer, familie og venner, Business Angels, såkornfond, venturekapital fond
+O
+Venturekapital fond, såkornfond, Business Angels, gründer, familie og venner
+O
+Gründer, familie og venner, såkornfond, venturekapital fond, Business Angels 
+
+Q
+1
+Hvilke tre investment risks omtales ofte i forbindelse med investeringer i potensielle vekstbedrifter?
+O
+Konkurranserisiko, økonomisk risiko og teknologi risiko
+O
+Teknologisk risiko, markeds risiko og agent risiko
+O
+Teknologisk risiko, konkurs risiko, og markedsrisiko
+O
+Konkurs risiko, markedsrisiko og kapitalrisiko 
+
+Q
+2
+I pensum beskrives tre ulike typer forretningsplaner. Hvilke tre?
+O
+Internal business plan, external business plan and full business plan.
+O
+Full business plan, summary business plan and investment business plan
+O
+Full business plan, operational business plan and summary business plan
+O
+Investment business plan, full business plan and operational business plan 
+
+Q
+2
+Hvilken av de følgende motivasjonsteoriene mener at det som er viktig i forhold til motivasjon er hvordan en ansatt oppfatter forholdet mellom sin resultat/input-ratio og andres resultat/input-ratio?
+O
+Behovsteorier
+O
+Forventningsteori
+O
+Samsvarteori
+O
+Rettferdighetsteori
+
+Q
+3
+Hvilken av de følgende påstandene beskriver en reell forskjell mellom en produktdivisjonsstruktur og en multidivisjonsstruktur?
+O
+Horisontal differensiering er større i en multidivisjonsstruktur enn i en produktdivisjonsstruktur
+O
+Vertikal differensiering er større i en produktdivisjonsstruktur enn i en multidivisjonsstruktur
+O
+Støttefunksjoner er sentralisert til konsern/toppnivået i organisasjoner som har en multidimensjonell organisering, mens støttefunksjonene er desentralisert til divisjonene i en produktdivisjonsstruktur
+O
+Divisjonene opererer uavhengig i en multidimensjonsstruktur, men ikke i en produktdivisjonsstruktur
+
+Q
+0
+Hviken av de følgende påstandene er riktig om hvordan personer med ytre kontrollplassering (external locus of control) forstår sin situasjon når vedkommende gjør en god prestasjon:
+O
+Vedkommende vil trolig forklare sin gode prestasjon ut fra ekstern forhold som han eller hun ikke kontrollerer
+O
+Vedkommende vil trolig forklare sin gode prestasjon ut fra sin egen innsats og evner
+O
+Vedkommende vil trolig forklare sin gode prestasjon ut fra sine genetiske sammensetning
+O
+Vedkommende vil unngå å forklare sin gode prestasjon, fordi det oppleves som ubehagelig
+
+Q
+0
+Hvilken av de følgende påstandene beskriver en ulempe med desentralisering i organisasjoner:
+O
+Det er vanskeligere å koordinere aktiviteter
+O
+Toppledelsen fokuserer for lite på å ta strategiske beslutninger
+O
+Beslutningsprosessen er lite fleksibel
+O
+Det er vanskeligere å motivere ledere i organisasjonen
+
+Q
+0
+Ved produksjon på 100 000 enheter pr periode har en bedrift marginalkostnader på 1 000, gjennomsnittskostnader på 2 500, variable kostnader på 200 000 000 og faste kostnader på 50 000 000. Hva er bedriftens totale kostnader?
+O
+250 000 000
+O
+350 000 000
+O
+550 000 000
+O
+650 000 000 
+
+Q
+2
+Ved salg på 100 000 enheter pr periode er prisen på et produkt 2 000. Bedriften anslår at for å selge en enhet mer pr periode, må prisen reduseres med 0,01. Hva er et naturlig anslag på marginalinntekten?
+O
+-1 000
+O
+0
+O
+1 000
+O
+3 000 
+
+Q
+2
+Et monopol produserer 1 000 enheter pr periode. Etterspørselen er Q = 3 000 - P, der Q er mengden og P er prisen. Hva blir da (absoluttverdien av) etterspørselselastisiteten?
+O
+0
+O
+1
+O
+2
+O
+3 
+
+Q
+2
+Anta at etterspørselen i et marked der bedriftene tilpasser seg som om det er frikonkurranse er gitt ved P = a - bQ, der P er prisen, Q er mengden og a og b er positive konstanter. Alle bedriftene i markedet har marginalkostnad lik c. Hva er et korrekt uttrykk for den totale mengden som vil bli tilbudt i dette markedet?
+O
+\(Q = \frac{a-c}{3b}\)
+O
+\(Q = \frac{a-c}{2b}\)
+O
+\(Q = \frac{a-c}{b}\)
+O
+\(Q = 2\frac{a-c}{b}\)
+
+Q
+1
+I et monopolmarked observerer myndighetene at prisen på produktet er 1 000. De estimerer at (absoluttverdien av) etterspørselselastisiteten er 1,5. Hva er da et naturlig anslag på monopolets marginalkostnad?
+O
+0
+O
+333
+O
+667
+O
+1 000 
+
+Q
+1
+I det duopolmarked er etterspørselen gitt ved P = 1 000 - Q, der P er prisen og Q er total mengde i markedet. Anta at de to bedriftene, som produserer mengdene n og m, tilpasser seg i tråd med Cournot-modellen og har konstante marginalkostnader på 100. Hva blir korrekte uttrykk for reaksjonsfunksjonene til bedriftene?
+O
+\(n = \frac{1000-m}{2}\) og \(m = \frac{1000-n}{2}\)
+O
+\(n = \frac{900-m}{2}\) og \(m = \frac{900-n}{2}\)
+O
+\(n = \frac{1000-m}{3}\) og \(m = \frac{1000-n}{3}\)
+O
+\(n = \frac{900-m}{3}\) og \(m = \frac{900-n}{3}\)
+
+Q
+1
+I det duopolmarked er etterspørselen gitt ved P = 1 000 - Q, der P er prisen og Q er total mengde i markedet. Anta at de to bedriftene, som produserer mengdene n og m, tilpasser seg i tråd med Cournot-modellen og har konstante marginalkostnader på 100. Hva blir prisen i likevekt i duopolmarkedet?
+O
+200
+O
+400
+O
+600
+O
+800 
+
+Q
+2
+I et monopolmarked er etterspørselen gitt ved P = 1 000 - Q, der P er prisen og Q er  mengden. Monopolets marginalkostnader er null og vi skal se bort fra de faste kostnadene. Hva blir nå dødvektstapet, tapt samfunnsøkonomisk overskudd, som følge av monopolet setter en pris som er høyere enn marginalkostnaden?
+O
+0
+O
+100 000
+O
+125 000
+O
+250 000 
+
+Q
+1
+Et selskap har totale aktiva på 200 millioner og gjeld på 100 millioner. Hva er selskapets gjeldsgrad?
+O
+2
+O
+1
+O
+0,5
+O
+0,25 
+
+Q
+2
+Et selskap har totale aktiva på 200 millioner og gjeld på 100 millioner. Totalkapitalrentabiliteten er 10 % og gjeldsavkastningen er 5 %. Hva er da egenkapitalrentabiliteten?
+O
+5 %
+O
+10 %
+O
+15 %
+O
+20 % 
+
+Q
+1
+Hva er nåverdien av å få 100 kroner om to år dersom avkastningskravet er 10 %?
+O
+80,0
+O
+82,6
+O
+83,3
+O
+90,9 
+
+Q
+3
+Et prosjekt innebærer en investering på I nå, og så en kontantstrøm på k om ett år og så hvert år deretter i all overskuelige framtid. Avkastningskravet er r. Hva blir et korrekt uttrykk for internrenten, IR, til prosjektet?
+O
+\(IR = \frac{k}{1+r}\)
+O
+\(IR = \frac{k}{r}\)
+O
+\(IR = \frac{I}{k}\)
+O
+\(IR = \frac{k}{I}\)
+
+Q
+2
+En risikoavers investor har tre investeringsmuligheter, A, B og C, og kan bare investere i en av dem. (Investoren har ingen andre investeringer.) A har forventet avkastning på 8 % og standardavvik på 25 %. B har forventet avkastning på 10 % og standardavvik på 30 %. C har forventet avkastning på 12 % og standardavvik på 20 %. Hva kan vi si om hvilken investering investoren vil foretrekke?
+O
+Investoren vil velge investering A.
+O
+Investoren vil velge investering B.
+O
+Investoren vil velge investering C.
+O
+Om investoren vil velge A, B eller C er avhengig av graden av risikoaversjon. 
+
+Q
+3
+Hva innebærer diversifisering i en investeringsportefølje?
+O
+At når avkastningene til investeringene er perfekt korrelerte, blir porteføljen alltid risikofri.
+O
+At når avkastningene til investeringene er perfekt negativt korrelerte blir porteføljen alltid risikofri.
+O
+At risikoen (målt med standardavviket) blir lik det veide snittet av risikoen til investeringene i porteføljen.
+O
+At risikoen (målt med standardavviket) blir mindre enn det veide snittet av risikoen til investeringene i porteføljen. 
+
+Q
+0
+En investering på 800 000 nå gir positiv kontantstrøm om ett og om to år. Om ett år er det 50 % sannsynlighet for 500 000 og 50 % sannsynlighet for 250 000. Om to år er det 60 % sannsynlighet for 400 000 og 40 % sannsynlighet for 800 000. Avkastningskravet er 10 %. Hva blir forventet nettonåverdi for prosjektet?
+O
+Ca 3 700
+O
+Ca 7 000
+O
+Ca 0
+O
+Ca -135 000
+
+Q
+3
+En aksje har en beta på 2. Hva betyr det?
+O
+At når risikoen i markedet går opp eller ned med 1 %, har aksjens standardavvik en tendens til å gå opp eller ned med 2 %.
+O
+At når markedet går opp eller ned med 1 %, har aksjens standardavvik en tendens til å gå opp eller ned med 2 %.
+O
+At når markedet går opp eller ned med 2 %, har aksjen en tendens til å gå opp eller ned med 1 %.
+O
+At når markedet går opp eller ned med 1 %, har aksjen en tendens til å gå opp eller ned med 2 %. 
+
+Q
+1
+Hva er beta for en risikofri portefølje i følge kapitalverdimodellen?
+O
+-1
+O
+0
+O
+1
+O
+2 
+
+Q
+2
+En aksje har en beta på 1,5. Risikofri rente er 3 % og forventet markedsavkastning er 7 %. Hva blir forventet avkastning for aksjen i følge kapitalverdimodellen (CAPM)?
+O
+0 %
+O
+7 %
+O
+9 %
+O
+14,5 % 
+
+Q
+0
+Nettonåverdien til en investering skal beregnes ved hjelp av WACC (avkastningskravet til totalkapitalen etter skatt). Kontantstrømmen før skatt og renter i år 2 er 1 000 000. Skattesatsen er 28 %. Rentene på investeringen utgjør 100 000 i år 2. Hva blir relevant kontantstrøm for år 2?
+O
+720 000
+O
+748 000
+O
+900 000
+O
+1 000 000 
+
+Q
+2
+Anta ingen selskapsskatt, ingen konkurskostnader og perfekte kapitalmarkeder. En bedrift har ingen gjeld og avkastningen på egenkapitalen forventes å være 15 %. Anta nå at bedriften tar opp gjeld og betaler hele beløpet ut som utbytte slik at den ender opp med like mye gjeld som egenkapital. Forventet avkastning på gjelden er 5 %. Hva blir nå forventet egenkapitalavkastning?
+O
+15 %
+O
+20 %
+O
+25 %
+O
+30 %

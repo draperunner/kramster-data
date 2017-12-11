@@ -1,0 +1,65 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4160 Datamaskiner grunnkurs
+Eksamen 2008 Kont
+MC
+
+Q
+0
+Hvilken påstand er korrekt for en prosessor som benytter multiplekset adresse/data buss?
+O
+Krever mindre I/O-pinner enn en løsning med dedikerte busser.
+O
+Kan adressere mindre data enn en prosessor med dedikerte busser.
+O
+Kan ikke benytte samlebånd siden instruksjoner og data benytter felles buss for henting av data og instruksjoner.
+O
+Antall bit til adressering er lik antall bit for instruksjoner/data.
+
+Q
+2
+Hvilken påstand er korrekt for instruksjoner som benytter "immediate" adressering?
+O
+Operanden kan kun angir adresse til CPU-en sit nærmeste ("immediate") lagernivå (register).
+O
+Operanden kan kun adressere data som ligger i hurtigbufferet.
+O
+Operanden kan kun brukes til konstanter, verdien er gitt ved
+kompilering.
+O
+Immediate adressering er effektivt for globale variabler.
+
+Q
+2
+Hvilken påstand hører ikke til i nivået for instruksjonsetarkitektur?
+O
+Første nivå tilgjengelig for bruker.
+O
+Opprinnelig det eneste nivået.
+O
+Inkluderer støtte for flere program og virtuelt minne.
+O
+Grense mellom maskinvare og programvare.
+
+Q
+0
+Hvilken påstand om parallelle maskiner er ikke korrekt?
+O
+Forskjellen på SIMD array-maskiner og MIMD multiprosessormaskiner er kun gitt av hvordan minne er organisert.
+O
+RISC prosessorer kan være superscalare.
+O
+CISC prosessorer kan være superscalare.
+O
+I en MIMD multiprosessormaskin med delt hovedlager er bussen en flaskehals.
+
+Q
+1
+Under følger en rekke påstander om datamaskinkomponenter. Hvilken påstand er ikke korrekt?
+O
+Three-state buffer har to tilstander: tilkoplet eller høy impedans.
+O
+Three-state buffer har tre tilstander: logisk "1", logisk "0” eller høy impedans (z).
+O
+I en EPROM må alt innhold slettes for å kunne oppdatere innholdet.
+O
+PCI Express benytter punkt-til-punkt-kommunikasjon.

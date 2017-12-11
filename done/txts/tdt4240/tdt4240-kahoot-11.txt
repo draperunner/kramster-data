@@ -1,0 +1,13 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 11: Modeling and Analysis
+What parameters are typically used in performance models? §§ 0 1 3 §§ Arrival rate §§ Network bandwidth §§ Recovery time §§ Schedule algorithm
+What is the main cost of performance modelling? §§ 1 §§ Compose the model §§ Determine parameters §§ Measure latency §§ Measure workload
+What is the main benefit of performance modeling? §§ 1 §§ Discover requirements §§ Estimate of latency §§ Faster system §§ Shorter user response-time
+Modeling of architecture for availability is typically carried out for determining... §§ 0 2 §§ Failure rates §§ Latency §§ Recovery times §§ Parallell processes
+The probability that two independent servers A or B will fail is: §§ 3 §§ P(A) - P(B) §§ P(A) / P(B) §§ P(A) * P(B) §§ P(A) + P(B)
+The probability that both server A and server B will fail is: §§ 2 §§ P(A) - P(B) §§ P(A) / P(B) §§ P(A) * P(B) §§ P(A) + P(B)
+What analysis models exist for Usability?: §§ 2 §§ Conceptual framework §§ Markov models §§ None §§ Real-time scheduling
+What analysis models exist for Performance?: §§ 2 3 §§ Conceptual frameworks §§ Component interaction metrics §§ Queuing §§ Real-time scheduling
+What analysis models exist for Availability?: §§ 2 3 §§ Coupling metrics §§ Cost models §§ Markov models §§ Statistical models
+What analysis models exist for Security?: §§ 3 §§ Conceptual frameworks §§ Component interaction metrics §§ Cost models §§ None

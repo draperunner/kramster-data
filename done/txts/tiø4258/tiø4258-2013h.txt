@@ -1,0 +1,364 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2013 Høst
+MC
+
+Q
+1
+I kompendiet hevdes det at følgende elementer er sentrale komponenter i en forretningsmodell:
+O
+Strategic resources, revenue streams, marketing and accounting.
+O
+Core strategy, strategic resources, partnership network and customer interface
+O
+Revenue streams, partnership network, core competence and marketing.
+O
+Core competence, strategic resources, revenue streams and partnership network.
+
+Q
+2
+Hvilken av følgende påstander om finansiering av teknologibedrifter med vekstpotensial er korrekt?
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.
+O
+Bankene vil normalt sett være forsiktige med å engasjere seg finansielt i de tidlige fasene ved utviklingen av en ny teknologibedrift
+O
+Såkornfond er den mest vanlige typen investor i nye vekstbedrifter.
+
+Q
+1
+En mulighetsanalyse bør inneholde:
+O
+Stor vekt på grundige økonomianalyser.
+O
+En innledende vurdering av tekniske, markedsmessige, organisatoriske og økonomiske forhold knyttet til ideen
+O
+En grundig drøfting av strategi og valg av forretningsmodell.
+O
+Visjon, forretningside, målsetninger, strategi, handlingsplan og økonomi.
+
+Q
+3
+Venturekapitalister kan i mange tilfeller bidra med mer enn finanskapital for å utvikle nye teknologibedrifter. Hvilken av fordelene nevnt under blir normalt IKKE tilbudt av venturekapitalister?
+O
+Tilgang til relevante markedskanaler
+O
+Økt legitimitet og tilgang til et større nettverk
+O
+Bidrar til å rekruttere nøkkelpersonell.
+O
+Bistand i den daglige driften av selskapet.
+
+Q
+1
+I kompendiet beskrives tre ulike typer forretningsplaner. Hvilke?
+O
+Internal business plan, external business plan and investment proposal.
+O
+Full business plan, operational business plan and summary business plan
+O
+Full business plan, summary business plan and investment business plan
+O
+Investment business plan, full business plan and operational business plan
+
+Q
+1
+Det finnes fire ulike læringssystemer for innovasjon som alle baserer seg en eller flere former for læring. Tre av læringssystemene baserer seg på taus kunnskap, enten i seg selv eller forsøk på å gjøre taus kunnskap eksplisitt. Hvilket læringssystem baserer seg utelukkende på eksplisitt kunnskap?
+O
+Fremkommende strategier. (Systems for crafting strategy)
+O
+Verdiskapning (System for delivering value).
+O
+Kompetansebygging. (System for building competencies)
+O
+Forbedring (System for refining the current model).
+
+Q
+0
+Hvilken av påstandene under beskriver en forskjell mellom en integrasjonsrolle og en koordinatorrolle?
+O
+Integrasjonsrollen er lokalisert utenfor organisasjonsenhetene som koordineres.
+O
+En koordinatorrolle er en mer kompleks integrasjonsmekanisme.
+O
+Integrasjonsrollen er en formell posisjon i en av organisasjonsenhetene som koordineres, mens koordinatorrollen er en uformell rolle.
+O
+Koordinatorrollen er en formell posisjon i en av organisasjonsenhetene som koordineres, mens integrasjonsrollen er en uformell rolle.
+
+Q
+2
+Hvilken av de fire påstandene under beskriver en fordel med matrisestrukturer?
+O
+Konflikter om ressursfordeling er redusert.
+O
+Konsernstaben fører tilsyn med prosjektteamene.
+O
+Betydningen av både kostnader og produktkvalitet anerkjennes.
+O
+Prosjektteamene er stabil slik at en utvikler kjernekompetanse.
+
+Q
+1
+Hvilken av følgende motivasjonsteorier er opptatt av at resultatene den enkelte får oppfattes å stå i forhold til den input en har bidratt med?
+O
+Rettferdighetsteori.
+O
+Samsvarsteori.
+O
+Behovsteori.
+O
+Forventningsteori.
+
+Q
+3
+Hvilken av påstandene om personlighetstrekket nevrotisisme er riktig?
+O
+Nevrotisisme reflekterer tendensen til å oppleve positive følelser for et individ.
+O
+Nevrotisisme beskriver personer som ikke klarer å motivere seg til å gjøre kjedelige oppgaver som å ta oppvasken, selv om de vet det burde vært gjort.
+O
+Nevrotisisme finnes bare hos individer som er nevrotiske.
+O
+Nevrotisisme finnes hos alle normalt psykologiske friske mennesker.
+
+Q
+3
+En bedrift har totale kostnader, TC, gitt av TC = 80Q + 1 000, der Q er produsert mengde. Hva er bedriftens marginalkostnader?
+O
+80 + 1000/Q
+O
+80/Q
+O
+1 000
+O
+80
+
+Q
+0
+Hva blir de variable kostnadene, VC, og gjennomsnittskostnadene, AC, for bedriften som har totalkostnader TC, gitt av TC = 80Q + 1 000, der Q er produsert mengde?
+O
+VC = 80Q, AC = 80 + 1000/Q
+O
+VC = 80, AC = 1000/Q
+O
+VC = 1 000, AC = 80
+O
+VC = 80/Q, AC = 80/Q + 1000
+
+Q
+1
+Hva er en korrekt tolkning av begrepet marginalinntekt?
+O
+Prosentvis endring i inntekt pr prosentvis endring i mengde.
+O
+Inntekten på den ekstra enheten som selges minus tapt inntekt på grunn av prisreduksjon på eksisterende mengde.
+O
+Forskjellen mellom endring i salgsinntekt og endring i kostnader når produsert mengde øker med én enhet.
+O
+Den deriverte av inntekten med hensyn på pris.
+
+Q
+0
+Etterspørselen etter et gode kan skrives som Q = a - bP der Q er mengden, P er prisen og a og b er strengt positive konstanter. Ved hvilken mengde, Q, går skillet mellom uelastisk og elastisk etterspørsel, og på hvilken side er da etterspørselen elastisk?
+O
+Skillet går ved Q = a/2, og etterspørselen er elastisk for Q < a/2.
+O
+Skillet går ved Q = a/2, og etterspørselen er elastisk for Q > a/2.
+O
+Skillet går ved Q = a/2b, og etterspørselen er elastisk for Q < a/2b.
+O
+Skillet går ved Q = a/2b, og etterspørselen er elastisk for Q > a/2b.
+
+Q
+2
+I et marked selger veldig mange bedrifter et produkt som er homogent slik at kjøperne ikke bryr seg om hvilken bedrift som har produserte det. Alle bedriftene har marginalkostnader som øker med økende produksjon. Dersom vi summerer alle mengdene for hver marginalkostnad, får vi industriens marginalkostnadskurve. Den er gitt som følger: MC = 1 000 + 0,01Q. Q er total mengde produsert i industrien. Etterspørselen i markedet kan uttrykkes som P = 100 000 - 0,1Q der Q er total etterspurt mengde og P er markedsprisen. Hva blir omsatt mengde i markedet?
+O
+10 000
+O
+100 000
+O
+900 000
+O
+1 000 000
+
+Q
+1
+Et monopol har totalkostnader gitt av TC = 4000Q + 15 000 000 der Q er produsert mengde. Etterspørselen er gitt ved Q = 20 000 - 2P, der Q er mengden og P er prisen. Hva blir profitten ved optimal tilpasning?
+O
+0
+O
+3 000 000
+O
+6 000 000
+O
+12 000 000
+
+Q
+3
+Gitt normal etterspørsel og normal kostnadsstruktur, hvilken betingelse må være tilfredsstilt for at det samfunnsøkonomiske overskuddet skal være maksimalt?
+O
+Produsentoverskuddet er null.
+O
+Konsumentoverskuddet er lik produsentoverskuddet.
+O
+Marginalinntekten er lik marginalkostnaden.
+O
+Prisen er lik marginalkostnaden.
+
+Q
+1
+I et duopolmarked tilpasser bedriftene seg i tråd med den såkalte Cournot-modellen. Etterspørselen i markedet kan skrives som P = 100 - Q, der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader på 40. Hva blir total mengde, Q, i markedet ved likevekt?
+O
+20
+O
+40
+O
+60
+O
+80
+
+Q
+3
+En gammel tommelfingerregel går ut på at likviditetsgrad 1 bør være minst 2 og at likviditetsgrad 2 bør være minst 1. Hva må være tilfellet for at likviditetsgrad 1 skal vær lik 2 samtidig som likviditetsgrad 2 er lik 1?
+O
+Mest likvide omløpsmidler må være det dobbelte av kortsiktig gjeld.
+O
+Mest likvide omløpsmidler må være halvparten av kortsiktig gjeld.
+O
+Mest likvide omløpsmidler må være lik totale omløpsmidler.
+O
+Mest likvide omløpsmidler må være halvparten av totale omløpsmidler.
+
+Q
+1
+En bedrift har like mye gjeld som egenkapital slik at gjeldsandelen er 50 %. Hva er da bedriftens gjeldsgrad?
+O
+0,5
+O
+1,0
+O
+1,5
+O
+2,0
+
+Q
+3
+I investeringsanalyse er prinsippet om at penger har en tidsverdi sentralt og danner grunnlaget for nåverdiberegninger. Hva er den beste forklaring på dette prinsippet når det anvendes på generelle investeringer?
+O
+Tidsverdien reflekterer at inflasjon reduserer pengeverdi over tid.
+O
+Tidsverdien reflekterer at ettersom inntektsnivået i samfunnet øker, blir penger mindre verdt for den enkelte.
+O
+Tidsverdien reflekterer risikoen som ligger i at valutakurser endrer seg i forhold til hverandre over tid.
+O
+Tidsverdien reflekterer at penger alternativt kan investeres til en forventet avkastning som er avhengig av risiko.
+
+Q
+3
+Hva er nåverdien av å få 5 000 000 om fire år når avkastningskravet er 10 % pr år?
+O
+4 545 455
+O
+4 132 231
+O
+3 756 574
+O
+3 415 067
+
+Q
+2
+Et prosjekt innebærer en investering på 12 000 000 nå. Om ett år kommer en positiv kontantstrøm på 20 000 000 med sannsynlighet 60 % eller 5 000 000 med sannsynlighet 40 %. Dersom risikojustert avkastningskrav er 12 %, hva blir nettonåverdien til prosjektet?
+O
+0
+O
+250 000
+O
+500 000
+O
+2 000 000
+
+Q
+0
+For et selskap er verdi av gjeld \(D\) og verdi av egenkapital \(E\). Avkastningene for gjeld og egenkapital er henholdsvis \(r_D\) og \(r_E\). Avkastning på aktiva er \(r_A\). Hvilken sammenheng gjelder mellom disse størrelsene?
+O
+\(r_E = r_A + \frac{D}{E}(r_A - r_D)\)
+O
+\(r_E = r_A + \frac{D}{E}(r_A + r_D)\)
+O
+\(r_E = r_A - \frac{D}{E}(r_A - r_D)\)
+O
+\(r_E = r_A - \frac{D}{E}(r_A + r_D)\)
+
+Q
+0
+I kapitalverdimodellen, CAPM, er en størrelse kalt beta sentral. Hva uttrykker den?
+O
+Investeringens beta uttrykker hvor store utslag markedsavkastning tenderer til å gi for avkastningen til investeringen, slik at beta på 2 tilsier at når markedet går opp eller ned med 1 % tenderer investeringen til å gå opp eller ned med 2 %.
+O
+Investeringens beta uttrykker andelen diversifiserbar risiko, slik at en beta på 2 tilsier at halvparten av totalrisikoen er diversifiserbar.
+O
+Investeringens beta uttrykker andelen ikke-diversifiserbar risiko, slik at en beta på 2 tilsier at halvparten av totalrisikoen er ikke-diversifiserbar.
+O
+Investeringens beta er bare et annet ord for korrelasjonskoeffisienten mellom investeringens og markedets avkastning.
+
+Q
+1
+Kapitalverdimodellen, eller Capital Asset Pricing Model (CAPM), gir en sammen­heng mellom størrelsen kalt beta, forventet avkastning på en investering, risikofri avkastning og forventet avkastning i markedet. Anta at beta for en aksje er 0,5. Forventet markedsavkastning er 8 % og risikofri rente er 2 %. Hva blir da forventet avkastning for aksjen i følge CAPM?
+O
+2,0 %
+O
+5,0 %
+O
+8,0 %
+O
+10,0 %
+
+Q
+1
+Hva er den mest korrekte beskrivelsen av diversifiseringseffekten?
+O
+Diversifisering innebærer at markedsrisikoen (og dermed også beta) til en portefølje blir lavere enn det veide gjennomsnittet av markedsrisikoene til enkeltinvesteringene gitt at de ikke er perfekt korrelerte.
+O
+Diversifisering innebærer at risikoen til en portefølje blir lavere enn det veide gjennomsnittet av risikoene til enkeltinvesteringene gitt at de ikke er perfekt positivt korrelerte.
+O
+Diversifisering innebærer at risikoen til en portefølje blir lavere enn det veide gjennomsnittet av risikoene til enkeltinvesteringene, men bare når de er perfekt positivt korrelerte.
+O
+Diversifisering innebærer at risikoen til en portefølje blir lavere enn det veide gjennomsnittet av risikoene til enkeltinvesteringene, men bare når de er perfekt negativt korrelerte.
+
+Q
+0
+Renten på gjelden til et selskap er 4 %. Selskapsskattesatsen er 25 %, og selskapet betaler selskapsskatt alle år. Hvis gjelden et gitt år er på 1 milliard gjennom hele året, hva blir skattefordelen av gjeld dette året?
+O
+10 millioner
+O
+20 millioner
+O
+25 millioner
+O
+40 millioner
+
+Q
+1
+Markedsverdien av egenkapitalen til et selskap er 2 milliarder og selskapet har gjeld på 3 milliarder. Forventet avkastning på selskapets aksjer er 10 % og avkastningen på gjelden er 6 %. Selskapsskattesatsen er 28 %. Hva blir WACC, det vil si totalkapitalens forventede avkastning etter skatt?
+O
+5,7 %
+O
+6,6 %
+O
+7,5 %
+O
+10,0 %
+
+Q
+2
+Et prosjekt skal finansieres med en kombinasjon av gjeld og egenkapital. I nettonå­ver­di­beregningen skal forventet kontantstrøm diskonteres med WACC, dvs. totalkapitalens avkastningskrav etter skatt. Selskapsskattesatsen er 25 %. Første periode etter investeringen forventes en netto driftsinntekt på 30 000 000, gjeldsrenter på 10 000 000 og skatt på 5 000 000, slik at regnskapsført overskudd etter skatt blir 15 000 000. Hvilken kontantstrøm skal legges inn i nettonåverdiberegningen for denne perioden?
+O
+30 000 000
+O
+25 000 000
+O
+22 500 000
+O
+15 000 000

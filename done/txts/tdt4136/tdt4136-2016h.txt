@@ -1,0 +1,112 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4136 Introduction to Artificial Intelligence
+2016 Fall
+MC
+
+Q
+2
+The formula \( \forall x \exists y P(x,y) \rightarrow \exists q P(q,q) \) would be treated as a validity
+O
+Under all possible circumstances
+O
+By an inference engine that implements occurs check as Skolem functions
+O
+By an inference engine that implements occurs check as Skolem constants
+O
+Under no possible circumstances
+EXPLANATION
+R&N, p. 362
+
+Q
+1
+Universal Instantiation is built on Skolemization.
+O
+True
+O
+False
+EXPLANATION
+R&N, p.323
+
+Q
+0
+The Backward Chaining Algorithm can be described as follows:
+<ol>
+<li>i. Pose the original query as a goal.</li>
+<li>ii. Find every clause in the knowledge base whose right-hand side unifies with the goal under some substitution.</li>
+<li>iii. Prove in turn every conjunct on the left-hand sides of each of these clauses, keeping track of the accumulated substitutions.</li>
+</ol>
+O
+True
+O
+False
+EXPLANATION
+R&N, p.337
+
+Q
+1
+There exists a sentence S in First Order Logic such that S cannot be converted
+into an inferentially equivalent sentence in Conjunctive Normal Form.
+O
+True
+O
+False
+EXPLANATION
+R&N, p. 345
+
+Q
+0
+Sentiment analysis is a text classification application.
+O
+True
+O
+False
+EXPLANATION
+R&N, p. 865
+
+Q
+0
+The purpose of smoothing is to avoid dramatic effects of low-frequency counts.
+O
+True
+O
+False
+EXPLANATION
+R&N, p. 863
+
+Q
+0
+The bag of words model can be seen as a simple language model.
+O
+True
+O
+False
+EXPLANATION
+R&N, p. 866
+
+Q
+1
+‘Freeze’, ‘halt’, ‘cease’ and ‘finish’ are examples of stop words.
+O
+True
+O
+False
+
+Q
+1
+The task of Information Retrieval is to return the answer to a user query.
+O
+True
+O
+False
+EXPLANATION
+R&N, p.867
+
+Q
+0
+Information Extraction systems are often based on templates
+O
+True
+O
+False
+EXPLANATION
+R&N, p. 874

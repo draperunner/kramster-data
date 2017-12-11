@@ -1,0 +1,16 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4136 Introduction to Artificial Intelligence
+2014 Continuation Exam
+An agent that senses only partial information about the state cannot be perfectly rational. §§ 1 §§ True §§ False
+Every agent is rational in an unobservable environment. §§ 1 §§ True §§ False.
+"Strikking av en sokk" involves a fully observable, deterministic, sequential, static, continuous, single agent miljø. §§ 0 §§ True §§ False
+"Bidding in auction" involves a fully observable, strategic, sequential, static, discrete, multi-agent. §§ 0 §§ True §§ False
+The Turing test evaluates a computer system’s ability to act rationally. §§ 1 §§ True §§ False
+A stochastic environment is one in which the next state is completely determined by the agent’s action. §§ 1 §§ True §§ False
+An advantage of Hill Climbing search is that it requires minimal memory. §§ 0 §§ True §§ False
+A danger of depth-first search is that it may not terminate if the search space is infinite, even if a finite solution exists. §§ 0 §§ True §§ False
+The knowledge, i.e, the content of the knowledge base determines the system’s performance while representation of knowledge determines its competence. §§ 1 §§ True §§ False
+Principal of rationality (due to Allen Newell) maintains that the agent chooses actions in order to achieve its goal using the knowledge it has the knowledge it might gather.§§ 1 §§ True §§ False
+This is procedural knowledge about two cities in Norway: bigger (Oslo, Trondheim) §§ 1 §§ True §§ False
+An advantage of declarative knowledge is the storage economy, that is, representation of declarative knowledge needs less memory than procedural knowledge. §§ 1 §§ True §§ False
+The production rules in a rule-based system is represented in the ”working memory”.§§ 1 §§ True §§ False

@@ -1,0 +1,289 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2015 Høst
+MC
+
+Q
+1
+Hva betyr Random Access Memory?
+O
+At det er tilfeldig hvor maskinen lagrer informasjon.
+O
+At hukommelsescellene kan aksesseres direkte i tilfeldig rekkefølge.
+O
+Hukommelsen er plassert på forskjellige, tilfeldige, plasser på hovedkortet.
+O
+At det kan oppstå tilfeldige feil i deler av hukommelsen.
+
+Q
+1
+Når brukes fotolitografi i produksjonen av datamaskiner?
+O
+Når man etser inn navnene på portene bak på maskinen.
+O
+Under produksjon av integrerte kretser.
+O
+Når man lager bildene som skal inn i brukermanualen.
+O
+Når man monterer integrerte kretser på kretskortene.
+
+Q
+2
+Hva er «pipelining»?
+O
+Et uttrykk for det som skjer når man skriver mye data til harddisken samtidig.
+O
+En teknikk der man sender data mellom de forskjellige delene i maskinen i «pipes».
+O
+En teknikk der en CPU kan utføre flere instruksjoner parallelt.
+O
+En teknikk som fungerer som en ”sikker tunnel” mellom din maskin og en tjener.
+
+Q
+3
+Hva finner alle burst-feil med lengde n bit, gitt en n-bit maske, men er uegnet til kryptografi?
+O
+Enkel sjekksum
+O
+HASH-funksjoner
+O
+Paritet
+O
+Syklisk sjekksum (CRC)
+
+Q
+1
+I TCP/IP-protokollen …
+O
+sendes alle pakkene sendes langs den samme ruten til mottakeren.
+O
+brukes pakkesvitsjing.
+O
+mottas ingen ting før siste IP-pakke er framme.
+O
+er det mindre interferens pga. at mindre biter sendes hver for seg.
+
+Q
+0
+Hva blir det binære tallet 10101010 desimalt?
+O
+170
+O
+180
+O
+190
+O
+200
+
+Q
+2
+Hvilken av følgende RGB-fargekodinger gir blått?
+O
+f1faf0
+O
+120012
+O
+0000ff
+O
+884311
+
+Q
+0
+Vi har en liste av navn, à la liste = [ 'Jo Å', 'Geir Li', 'Ine By'] men i praksis med vesentlig
+flere navn enn dette. Lista er ikke sortert og kan inneholde duplikater (dvs. samme navn kan
+stå flere sted i lista). Vi skal skrive en funksjon antall (liste, navn) som skal returnere et
+heltall som sier hvor mange ganger navnet forekommer i lista. Vi kladder følgende
+pseudokode:
+<pre>
+function antall (liste, navn):
+    antall ← 0
+    la n gå fra og med første til og med siste element i liste:
+        hvis n == navn:
+            antall ← antall + 1
+    returner antall
+</pre>
+Spørsmål: Kjøretidskompleksiteten til pseudokoden over vil være?
+O
+Θ(n)
+O
+Θ(n log n)
+O
+Θ(log n)
+O
+Θ(n2)
+
+Q
+1
+I ei sortert liste kunne vi brukt binærsøk i stedet for løkka "la n gå… " i pseudokoden fra
+spørsmål 8:
+<pre>
+function antall (liste, navn):
+    antall ← 0
+    la n gå fra og med første til og med siste element i liste:
+        hvis n == navn:
+            antall ← antall + 1
+    returner antall
+</pre>
+En alternativ algoritme som først sorterer lista, og deretter bruker binærsøk for å
+finne navnet, vil ha…
+O
+lavere kompleksitet (dvs. være raskere) enn pseudokoden gitt over.
+O
+høyere kompleksitet enn pseudokoden over.
+O
+samme kompleksitet som pseudokoden over.
+O
+høyere kompleksitet hvis navnet fins null eller én gang i lista, lavere hvis det fins flere
+ganger.
+
+Q
+2
+Funksjonen antall for ei usortert liste, som beskrevet i spørsmål 8:
+<pre>
+function antall (liste, navn):
+    antall ← 0
+    la n gå fra og med første til og med siste element i liste:
+        hvis n == navn:
+            antall ← antall + 1
+    returner antall
+</pre>
+kan i Python
+implementeres ved den innebygde funksjonen count, som gjør at funksjonskroppen kan
+skrives som en eneste kodelinje. For eksempel
+<pre>
+def antall (liste, navn):
+    return liste.count(navn)
+</pre>
+Spørsmål: Hvilken kjøretidskompleksitet vil denne koden ha?
+O
+Θ(1)
+O
+Θ(log n)
+O
+Θ(n)
+O
+Θ(n2)
+
+Q
+1
+Hvorfor ønsker man å bruke en SSD heller enn en vanlig magnetisk harddisk?
+O
+En SSD øker minnet på grafikkortet slik at spill og lignende flyter bedre.
+O
+I en SSD lagres data i elektroniske kretser. Det er ingen bevegelige deler, og dermed
+blir disken raskere og mer pålitelig.
+O
+Det er lettere å lagre data permanent på en SSD.
+O
+En SSD er ikke så utsatt for strømtopper og tåler derfor mer enn en magnetisk disk.
+
+Q
+3
+Hva er motivasjon til fagfeltet systemutvikling?
+O
+Raskere kode.
+O
+Utvikle programvare med best mulig kvalitet uavhengig av budsjett og tid.
+O
+Legge til rette for at all programvare skal utvikles i spesifiserte faser etter hverandre.
+O
+Utvikle programvare med god nok kvalitet innen tid og budsjett.
+
+Q
+0
+Hva betyr modulering i f.eks. FM og AM?
+O
+Det beskriver hvordan man kan sende et signal over en bærebølge.
+O
+Det beskriver hvordan man kan få oversikt over hele internett.
+O
+Det beskriver hvordan man kan øke strømstyrken slik at flere får tilgang.
+O
+Det beskriver hvordan man kan gruppere internett i hensiktsmessige biter.
+
+Q
+2
+Dersom tekststreng 'Hallo' i ASCII representeres som følgende tall heksadesimalt: 48 61
+6c 6c 6f, hvordan representerer man på samme måte 'Morna'?
+O
+4e 65 69 64 61
+O
+4e 54 4e 55 21
+O
+4d 6f 72 6e 61
+O
+55 66 6g 7h 61
+
+Q
+1
+En fordel med vannfallsmodellen kan være:
+O
+Enklere å håndtere øyeblikkelige krav fra kunder.
+O
+Enklere å følge fremgang i forhold til prosjektplan for prosjektleder.
+O
+Systemet reflekterer en gradvis bedre forståelse av brukernes behov.
+O
+Gir raskere levering og kortere tid til å ta i bruk fungerende deler av systemet.
+
+Q
+0
+Hvor mange bytes trengs for å lagre et 24-bits bilde med 1280x1024 piksler uten
+komprimering?
+O
+Ca. 3,8MB
+O
+Ca. 1,2MB
+O
+Ca. 24MB
+O
+Ca. 24GB
+
+Q
+0
+Hva er den første aktiviteten i ”requirement engineering”-prosessen i følge læreboka?
+O
+Gjennomførbarhetsstudie.
+O
+Kravinnhenting og analyse.
+O
+Kravspesifisering.
+O
+Validering av krav.
+
+Q
+3
+Hva er akseptansetesting?
+O
+Teste hvordan ulike deler av systemet fungerer sammen.
+O
+Teste at hver enkelt funksjon i systemet fungerer som den skal.
+O
+Teste at operativsystemet aksepterer systemet på plattformen.
+O
+Teste med kundedata for å sjekke om systemet møter kundens behov.
+
+Q
+0
+Hvilken av følgende teknikker er en tapsløs komprimering?
+O
+Run-length encoding.
+O
+Analog-to-digital conversion.
+O
+JPEG-encoding.
+O
+Check-sum generation.
+
+Q
+0
+Hva er det Boehm’s spiralmodell inneholder, som man ikke finner i vannfallsmodellen eller
+inkrementell utvikling?
+O
+Risikoanalyse.
+O
+Testing/Validering.
+O
+Kravspesifisering.
+O
+Vedlikehold.

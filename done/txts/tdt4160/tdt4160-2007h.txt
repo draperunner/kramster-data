@@ -1,0 +1,188 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4160 Datamaskiner grunnkurs
+Eksamen 2007 Høst
+MC
+
+Q
+2
+Hvilken av disse påstandene om RISC er ikke sann?
+O
+RISC-maskiner har som regel flere registre enn CISC-maskiner.
+O
+RISC har som regel fast instruksjonslengde.
+O
+RISC har som regel flere adresseringsmodi enn CISC.
+O
+RISC har egne LOAD/STORE instruksjoner.
+
+Q
+2
+Hvilket av disse typene er ikke en form for avbildning i hurtigbuffer (eng: cache)?
+O
+Sett-assosiativ avbildning
+O
+Direkte avbildning
+O
+Kumulativ avbilding
+O
+Fullt assosiativ avbildning
+
+Q
+1
+Hva er hensikten med hurtigbuffer (eng: cache)?
+O
+Å øke minnekapasiteten til maskinen.
+O
+Å senke den gjennomsnittlige aksesstiden til minnet.
+O
+Å skille mellom instruksjoner og data
+O
+Å sørge for at alle prosessorer i en superdatamaskin har like data.
+
+Q
+0
+Hvilket element er ikke en egenskap ved en seriell buss?
+O
+En seriell buss krever at enhetene har en felles klokke.
+O
+Overfører et bit om gangen.
+O
+Kan være raskere enn en parallell buss.
+O
+Benyttes av f.eks USB og Firewire.
+
+Q
+3
+Hvilken av disse metodene er ikke en metode for å kontrollere I/O – enheter?
+O
+Avbruddstyrt I/O
+O
+Programstyrt I/O
+O
+Direct Memory Access (DMA)
+O
+Serielle registre
+
+Q
+0
+Organisasjonen av en prosessor deles ofte i:
+O
+Styreenhet og utførende enhet
+O
+Register og aritmetisk-logisk enhet (eng: ALU)
+O
+Minne og styreenhet
+O
+Register og minne
+
+Q
+2
+Hvilket av disse utsagnene om minne er ikke sant?
+O
+Dynamisk RAM (DRAM) bruker kondensatorer for å lagre informasjon, og krever
+derfor oppfriskning med jevne mellomrom
+O
+Statisk RAM (SRAM) bruker transistorer for å lagre informasjon, og krever derfor ikke
+oppfriskning.
+O
+Statisk RAM bruker mindre areal enn dynamisk RAM per bit.
+O
+Dynamisk RAM er som oftest organisert i en matrise med kolonner og rader.
+
+Q
+2
+Hvilken påstand om three-state buffer er ikke sann?
+O
+Three-state buffer brukes ofte i busser for å unngå at flere enheter driver bussen
+samtidig.
+O
+Når et three-state buffer kobler en enhet av bussen kalles denne tilstanden for ’Z’.
+O
+Three-state buffer kan bare brukes på serielle busser.
+O
+Utgangen til et three-state buffer er enten 0,1 eller Z.
+
+Q
+3
+Hvilken av disse påstandene er ikke sann om arbitrering?
+O
+Arbitrering styrer hvem som kan bruke bussen til enhver tid.
+O
+Arbitrering kan være sentral eller desentralisert.
+O
+"Daisy chaining" er en form for arbitrering.
+O
+Arbitrering er ikke nødvendig dersom bussen er asynkron.
+
+Q
+0
+Vektorisert avbrudd vil si at:
+O
+At man har flere avbruddsrutiner, en for hvert avbrudd som kan komme.
+O
+At man bruker vektor-registre for å behandle avbruddet.
+O
+At avbruddshåndteringsrutinen får inn en vektor som første parameter.
+O
+Flere avbrudd bruker samme avbruddsrutine.
+
+Q
+0
+Hvilket utsagn om forgreningspredikering (eng: branch prediction) er ikke riktig?
+O
+Forgreningspredikering er bare viktig for mikrokontrollere.
+O
+Forgreningspredikering prøver å forutse om et hopp blir utført eller ikke.
+O
+Forgreningspredigering benytter seg ofte av historiebits.
+O
+Moderne forgreningspredikering er svært nøyaktig.
+
+Q
+3
+Hvilken av disse påstandene er ikke sann om samlebånd?
+O
+Man kan benytte høyere klokkefrekvens med samlebånd enn uten.
+O
+Samlebånd krever at man tar spesielle hensyn til avhengigheter mellom instruksjoner.
+O
+Samlebåndet er bare så raskt som det tregeste steget i samlebåndet.
+O
+At en maskin bruker samlebånd må spesifiseres på ISA-nivå.
+
+Q
+0
+Hva er det ISA ikke spesifiserer?
+O
+Hvilke mikroinstruksjoner som finnes
+O
+Hvilke registre som er tilgjengelig for programmereren..
+O
+Hvilke datatyper som skal støttes av maskinvaren.
+O
+Hvilke instruksjoner/opkoder som finnes.
+
+Q
+3
+Hvilket av disse er ikke en adresseringsmodi?
+O
+Direkte adressering
+O
+Register adressering
+O
+Register-indirekte adressering
+O
+Hurtigbuffer (eng: cache) adressering
+
+Q
+0
+Når man kaller en prosedyre kan man lagre returadressen på flere forskjellige måter.
+Hvilken av disse metodene gir størst fleksibilitet?
+O
+Å lagre returadressen på stakken.
+O
+Å lagre returadressen i et spesielt register.
+O
+Å lagre returadressen i et spesielt minneområde.
+O
+Å lagre returadressen i et spesielt minneområde, et område for hver funksjon.

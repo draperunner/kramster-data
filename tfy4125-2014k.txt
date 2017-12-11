@@ -1,0 +1,314 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TFY4125 Fysikk
+2014 Kont
+MC
+
+Q
+E
+1. En partikkel beveger seg langs en bane som er gitt av \(\mathbf{r} = (5.0 m/s)t \mathbf{\hat{i}} + (et + ft^2)\).
+Vinkelen mellom partikkelens bevegelsesretning (gitt av \(\mathbf{v}\)) og x-aksen er gitt av grafen
+i figur 1. Bestem konstanten \(e\) (i m/s) og \(f\) (i m/s²).
+A. e = 2, f = 0.8
+B. e = −1, f = 0.3
+C. e = 3, f = −2
+D. e = 0.3, f = 3
+E. e = 1, f = −0.2
+EXPLANATION
+Ved å derivere posisjonsvektoren finner vi hastighetsvektoren.
+$$ \mathbf{v} = \frac{d\mathbf{r}}{dt} = (5m/s)\mathbf{\hat{i}} + (e + 2ft)\mathbf{\hat{j}} $$
+
+Q
+2. En bil akselerer med en akselerasjon a(t) = αt − βt 3 . Her er konstantene α = 3.0 m/s 3
+og β = 0.10 m/s 5 . Anta at bilen er i ro ved t = 0. Hva er farten til bilen ved t = 3.0 s?
+A. 3.0 m/s
+B. 7.1 m/s
+C. 11 m/s
+D. 21 m/s
+E. 16 m/s
+
+Q
+3. For at en kule skal rulle rent (uten å skli) nedover et skråplan må det være en viss
+friksjon f r som gir kulen et dreiemoment. Om vi bytter ut en kule med radius R 1 med
+en kule med radius R 2 > R 1 (samme massetetthet slik at massen øker) så vil denne
+kraften
+A. øke.
+B. minke.
+C. forbli uendret.
+D. øke for friksjonskoeffisient over 0.5, ellers minke.
+E. minke for friksjonskoeffisient over 0.5, ellers øke.
+
+Q
+4. Anta at vi har en kompakt kule med masse m og radius R (treghetsmomentet til en
+kompakt kule er I = mR 2 ). Kula skal rulle rent (uten å skli) ned et plan som har
+en friksjonskoeffisient på 0.50. Hva er den størst vinkelen θ skråplanet kan ha før kula
+begynner å skli?
+A. 15 ◦
+B. 60 ◦
+C. 45 ◦
+D. 70 ◦
+E. 33 ◦
+
+Q
+5. En kompakt kule (I = mR 2 ) ruller ned en bane som ender i en sirkelformet loop med
+radius R (se figur 2). Friksjonen er stor nok til å sørge for at kulen ruller rent langs hele
+banen. Anta at rullingen er perfekt (ingen deformasjon av objektene) slik at friksjonen
+ikke gjør noe friksjonsarbeid. Hvor høy må h minst være for at kulen ikke skal dette
+ned når den når toppen av loopen?
+A. 88R/19
+B. 16R/5
+C. 33R/7
+D. 14R/9
+E. 27R/10
+
+Q
+6. En masse i enden av en idell fjær (F = −kx) svinger med en frekvens på 6,0 Hz. Om
+vi dobler massen, hva blir da svingefrekvensen?
+A. 6,0 Hz
+B. 4,2 Hz
+C. 3,0 Hz
+D. 1,5 Hz
+E. 0.6 Hz
+
+Q
+7. Anta at vi har et basseng som har frosset på overflaten. Avstanden fra toppen av
+islaget til bunnen er 2,0 m. Luften over isen har en temperatur på −5,0 ◦ C og bunnen
+av bassenget holder en temperatur på 4,0 ◦ C. Anta at vi har en likevektssituasjon (dvs
+konstant varmestrøm gjennom hele bassengets dybde). Hva er tykkelsen på islaget?
+Varmeledningskoeffisientene til vann og is er henholdsivs κ v = 0,56 W/mK og κ i = 2,25
+W/mK. (Hint: Ved grensen mellom vann og is antar vi en temperatur på 0 ◦ C.)
+A. 0.34 m
+B. 0.88 m
+C. 0.14 m
+D. 0.66 m
+E. 1.7 m
+
+Q
+8. En astronaut befinner seg plutselig i det tomme verdensrom, langt fra alle galakser.
+Astronatuen har en temlig dårlig isolert romdrakt slik at draktens overflate holder
+en temperatur på 20 ◦ C. Anta at romdrakten har en emissivitet på e = 0.5. Anta at
+overflatearealet av astronauten er 1.2 m 2 . Hvor mye varme mister astronauten i form
+av stråling per tid?
+A. 88 W
+B. 1.3 W
+C. 33 W
+D. 15 kW
+E. 0.25 kW
+
+Q
+9. Vi har tre partikler som ligger på en rekke med lik avstand d mellom seg (se figur 3).
+Partiklene har en ladning q 1 = 2Q, q 2 = −Q og q 3 = Q. Dersom vi flytter q 3 litt mot
+høyre, hva vil skje med den potensiell energien til systemet?
+A. Øker.
+B. Minker.
+C. Forblir uendret.
+D. Kommer an på avstanden d.
+E. Elektrostatiske krefter er ikke-konservative og vi kan derfor ikke definere en
+potensiell energi.
+
+Q
+10. En jernbaneskinne er 10 m lang ved en vintertemperatur på -10 ◦ C. Hvor lang er den
+ved en sommertemperatur på 20 ◦ C. Lengdeutvidelseskoeffisienten for stål er α = 1,1 ·
+10 −5 K −1 .
+A. 3.3 mm
+B. 0.14 mm
+C. 1.7 cm
+D. 28 mm
+E. 0.9 mm
+
+Q
+11. Figur 4 viser en reversible termodynamisk prosess. Virkegassen er en ideell en-atomig
+gass. Prossesn fra B til C er beskrevet av følgende likning
+V − (1 m 3 )
+p(V ) = (200 kPa) + (100 kPa) sin π
+(2 m 3 )
+Hvor stort arbeidet gjøres av gassen i prosessen fra B til C?
+A. 0.13 MJ
+B. 1.3 MJ
+C. 0.76 MJ
+D. 0.53 MJ
+E. 2.1 MJ
+
+Q
+12. Hvor mye varme tilføres systemet fra A til B?
+A. 0.80 MJ
+B. 0.24 MJ
+C. 1.6 MJ
+D. 0.15 MJ
+E. 1.1 MJ
+
+Q
+13. Anta at vi har en ideell lang spole med tverrsnittsareal A. For en ideell lang spole gjel-
+der at magnetfeltet inne i spolen er homogent over tverrsnittet og er gitt av B = μ 0 in,
+hvor i er strømmen i spolen, og n er tettheten av vindinger (vindinger per lengdeen-
+het). Utenfor spolen er magnetfeltet neglisjerbart. En leder er tvunnet N ganger rundt
+spolen. Hva er den gjensidige induktansen mellom spolen og lederen?
+A.
+B.
+C.
+D.
+E.
+
+Q
+14. Anta at vi har kretsen som illustrert i figur 5 . Bryteren lukkes ved t = 0. Hva er
+strømmen gjennom kondensatoren når bryteren har vært lukket lenge?
+A. 0
+B. V /R
+C. V /R + RC
+D. V /2R
+E. ∞
+
+Q
+15. Hvor stor strøm går gjennom motstanden med en resistans på 30 kΩ i figur 6.
+A. 2.9 mA
+B. 1.8 mA
+C. 0.56 mA
+D. 0.27 mA
+E. 0.013 mAy
+
+Q
+16. En pingpong ball har en masse m og en radius r. Anta at en enkel pingpong ball
+som roterer rundt en akse gjennom sentrum kan sees på som et kuleskall som har
+2mr 2
+. Anta nå at vi har tre pingpong-baller som er limt
+et treghetsmoment på I =
+3
+sammen på en rekke. Hva er treghetsmomentet til dette objektet rundt y-aksen som
+går gjennom ballen på enden og er vinkelrett på aksen gjennom alle ballen (se figur 7).
+A. 22 mr 2
+B. 12 mr 2
+C. 2 mr 2
+D. 1/3 mr 2
+E. 1/12 mr 2
+
+Q
+17. En kule blir skutt gjennom en trekloss som ligger over et hull i et bord. Kula treffer
+klossen med en hastighet på 300 m/s og kommer ut med en hastighet på 100 m/s.
+Anta at klossen flytter seg neglisjerbart før kula har gått igjennom. Kula veier m =
+100 g og klossen veier M = 5.0 kg. Hvor høyt over bordet vil treklossen løfte seg (figur
+8)?
+A. 0.30 m
+B. 0.82 m
+C. 1.3 m
+D. 2.0 m
+E. 2.6 m
+
+
+Q
+18. Hvor stort volum opptar en mol av en ideell gass ved en temperatur på 300 K et trykk
+på 0.50 MPa.
+A. 5.0 · 10 −3 m 3
+B. 3.0 · 10 −6 m 3
+C. 3.5 · 10 −2 m 3
+D. 7.3 · 10 −4 m 3
+E. 1.2 · 10 −5 m 3
+
+Q
+19. En bil (2000 kg) treffer en elg (500 kg) i 80 km/t, anta at rett etter støttet fortsetter
+bilen og elgen i 60 km/t som ett objekt. Hvor mange prosent av bilens kinetiske energi
+har gått til deformering av elg og bil?
+A. 10 %
+B. 15 %
+C. 20 %
+D. 30 %
+E. 35 %
+
+Q
+20. En kloss er festet til en fjær som sitter i en vegg og kan bevege seg friksjonsløst langs
+et horisontalt bord. Anta en ideell fjær (F = −kx). Klossen blir påvirket av en ekstern
+kraft F x . Figur 9 viser den kinetiske energien til klossen som funksjon av posisjon, hvor
+x = 0 i fjærens likevektsposisjon (før kraften F x virker). Hvor stor er kraften F x ?
+A. 1 N
+B. 2 N
+C. 5 N
+D. 10 N
+E. 20 N
+
+Q
+21. Manuel Neuer (tysk fotballkeeper) sparker ut en ball fra mål. Ballen har en utgangsfart
+på 30 m/s, med en vinkel på 30 grader over horisontalen. Ballen blir påvirket av en
+luftmotstand på F = −bv. Hvilken av følgende kodesnutter i alternativene nedenfor
+skal byttes ut med *** i koden nedenfor for at variablene x og y gir den riktige banen
+til fotballen. (se figur 10 for resultat med og uten luftmotstand).
+import math as mth
+import numpy as np
+T = 2.7 #Total tid
+N = 10000 #Antall datapunkter
+h = T/(N-1) #Tidssteg
+g = 9.8 #Tyngdens akselerasjon
+b = 0.1 #Luftmotstand koeffisient
+m = 0.43 #Massen til en fotball
+v0 = 30 #utgangsfart
+vx = np.zeros(N)
+vy = np.zeros(N)
+x = np.zeros(N)
+y = np.zeros(N)
+phi= 30*mth.pi/180
+vx[0] = v0*mth.cos(phi)
+vy[0] = v0*mth.sin(phi)
+for i in range(0,N-1):
+***
+x[i+1] = vx[i]*h + x[i]
+y[i+1] = vy[i]*h + y[i]
+10A. vx[i+1] = h*(-b/m*vx[i])
+vy[i+1] = h*(-b/m*vy[i]-g)
+B. vx[i+1] = h*(-b/m*vx[i]) - vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g) - vy[i]
+C. vx[i+1] = h*(-b/m*vx[i]) + h*vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g) + h*vy[i]
+D. vx[i+1] = h*(-b/m*vx[i]) + vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g) + vy[i]
+E. vx[i+1] = h*(-b/m*vx[i]+g) + vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g) + vy[i]
+11Figur 11: Fotballens bane med og uten spin. Den vertikale linjen representerer et fotballmål
+og man tydelig se verdien av litt top-spin.
+
+Q
+22. Lionel Messi (en argentiske fotballspiller av moderat kaliber) sparker en ball slik at den
+roterer forover (toppen av ballen roterer med bevegelsesretningen, top-spin). Rotasjo-
+nen forårsaker Magnus-effekten (oppkalt etter Heinrich Gustav Magnus, ikke forfatte-
+ren av dette eksamenssettet) som gir en kraft gitt av F = sv hvor v er hastigheten til
+ballen s er en koeffisient som kvantiserer effekten. Kraften virker vertikalt på bevegel-
+sesretningen, mot den siden av ballen som roterer bort fra bevegelsesretningen (altså
+primært nedover i dette tilfellet). Det virker også en kraft fra luftmotstand på ballen
+gitt av F = −bv. Hvilken av følgende kodesnutter i alternativen skal byttest ut med
+*** i koden nedenfor for at variablene x og y gir den korrekte posisjonen til ballen. (se
+figur 11 for eksempel med og uten Magnus-effekten - et tenkt mål er tegnet inn).
+T = 1.0 #Total tid
+N = 10000 #Antall datapunkter
+h = T/(N-1) #Tidssteg
+g = 9.8 #Tyngdens akselerasjon
+b = 0.1 #Luftmotsand koeffisient
+m = 0.43 #Massen til en fotball
+s = 0.08 #spinkoeffisient
+v0 = 25 #utgangsfart
+ang = 19.0 #utgangsvinkel
+vx = np.zeros(N)
+vy = np.zeros(N)
+12x = np.zeros(N)
+y = np.zeros(N)
+phi= ang*mth.pi/180 #utgangsvinkel i radianer
+vx[0] = v0*mth.cos(phi) #utgangshastighet
+vy[0] = v0*mth.sin(phi)
+for i in range(0,N-1):
+***
+x[i+1] = vx[i]*h + x[i]
+y[i+1] = vy[i]*h + y[i]
+#-------------------------------------
+A. vx[i+1] = h*(-b/m*vx[i]+g+s*vy[i]) + vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g-s*vx[i]) + vy[i]
+B. vx[i+1] = h*(-b/m*vx[i]+s*vy[i]) + vx[i]
+vy[i+1] = h*(-b/m*vy[i]-s*vx[i]) + vy[i]
+C. vx[i+1] = h*(-b/m*vx[i]+s*vy[i]) + vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g-s*vx[i]) + vy[i]
+D. vx[i+1] = h*(-b/m*vx[i]+s*vy[i])
+vy[i+1] = h*(-b/m*vy[i]-g-s*vx[i])
+E. vx[i+1] = h*(-b/m*vx[i]+s*vy[i]) + h*vx[i]
+vy[i+1] = h*(-b/m*vy[i]-g-s*vx[i]) + h*vy[i]
+1315
+C V
+molekyler)
+avg
+nCdT
+32 R
+F
+Elektrisitet

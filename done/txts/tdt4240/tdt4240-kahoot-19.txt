@@ -1,0 +1,11 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 19: Requirements
+ASR is an abbreviation for... §§ 0 §§ Architecturally Significant Requirement §§ Architectural Software Requirement §§ Architectural Significant Re-design §§ Architectural Silly Ruthlessness
+Which Design Decision Category fits requirements addressing... "Named technologies, changes to technologies (planned and unplanned)." §§ 3 §§ Data Model §§ Coordination Model §§ Binding Time Decisions §§ Choice of Technology
+Which Design Decision Category fits requirements addressing... "Names of external elements, protocols, sensors or actuators (devices), middleware, network configurations." §§ 1 §§ Data Model §§ Coordination Model §§ Binding Time Decisions §§ Choice of Technology
+Which Design Decision Category fits requirements addressing... "Plans for teaming, processors, families of processors, evolution of processors, network configuration." §§ 0 §§ Mapping among Architectural Elements §§ Allocation of Responsibilities §§ Binding Time Decisions §§ Data Model
+Which Design Decision Category fits requirements addressing... "Processing steps, information flows, major domain entities, access rights, persistence, evolution requirements" §§ 3 §§ Mapping among Architectural Elements §§ Allocation of Responsibilities §§ Binding Time Decisions §§ Data Model
+Which Design Decision Category fits requirements addressing... "Extension of or flexibility of functionality, regional distinctions, language distinctions, portability, calibrations, configurations." §§ 2 §§ Mapping among Architectural Elements §§ Allocation of Responsibilities §§ Binding Time Decisions §§ Coordination Model
+What is QAW an abbreviation for? §§ 2 §§ Quantity Architecture Workshop §§ Quasi Allergy Wizard §§ Quality Attribute Workshop §§ Quality Architecture Work
+What is the main goal of the Quality Attribute Workshop (QAW)? §§ 1 §§ Design, assess, and evaluate quality attribute scenarios §§ Generate, prioritize and refine quality attribute scenarios §§ Teach piglets to swim §§ Present quality attributes to software architects

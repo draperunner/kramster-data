@@ -1,0 +1,303 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2009 Fall
+
+Q
+0
+Is the same key used for both authentication and encryption in WEP?
+O
+Yes
+O
+No
+O
+Yes, if 802.1X authentication is not used
+O
+The same key is never used twice
+
+Q
+0
+How does WEP detect replay?
+O
+There is no replay detection
+O
+By the intialization vector (TV)
+O
+By the integrity check value (ICV)
+O
+By the random nonce value (RNV)
+
+Q
+1
+How long is the IV used in TKIP?
+O
+24 bits
+O
+48 bits
+O
+64 bits
+O
+128 bits
+
+Q
+1
+Which protocol encapsulates the EAP messages transported between the supplicant and authenticator in WPA/RSN?
+O
+EAP-TLS
+O
+EAPOL
+O
+802.11
+O
+802.1X
+
+Q
+3
+What is the purpose of the first phase of PEAP?
+O
+The supplicant provides the identity to the authentication server
+O
+The supplicant and authentication server negotiate the EAP method to be used
+O
+The supplicant encrypt and communicate the password to the authenticator
+O
+Supplicant establishes an authenticated secrecy channel to the authentication server
+
+Q
+0
+Which 802.11 frame type is cryptographically protected by the 802.11w standard?
+O
+Management frames
+O
+Control frames
+O
+Data frames
+O
+Beacon frames
+
+Q
+2
+How is the 128 bits start value of the counter for CCMP encryption initialized in RSN?
+O
+By a random IV
+O
+By the concatenation of IV and the extended IV
+O
+By the concatenation of flag/priority bits, packetnumber, source-address, and a constant
+O
+By source address, destination address and the MIC value of the MPDU
+
+Q
+0
+What is the key size of AES as used in RSN?
+O
+128 bits
+O
+192 bits
+O
+256 bits
+O
+512 bits
+
+Q
+3
+Does EAP-SIM provide mutual authentication?
+O
+No, it uses the regular GSM authentication
+O
+Yes, it uses the regular UMTS authentication
+O
+Yes, by the regular GSM authentication and the authentication token from the AuC
+O
+Yes, by the regular GSM authentication and a nonce in the encrypted AP response
+
+Q
+2
+What is the purpose of the EAPOL 4-way handshake?
+O
+To exchange a fresh pairwise temporal key (PTK) from the pairwise master key (PMK)
+O
+To exchange a fresh pairwise message key (PMK) from the pairwise transient key (PTK)
+O
+To exchange a fresh pairwise transient key (PTK) from the pairwise master key (PMK) with bilateral key agreement and group key transfer
+O
+To exchange a fresh pairwise message key (PMK) from the pairwise trusted key (PTK) generated in the 4-way key agreement including group key distribution
+
+Q
+0
+What are the four types of EAPOL messages used in WPA/RSN?
+O
+Start, Key, Packet, Logoff
+O
+Request, Authenticate, Result, Stop
+O
+Identity, Challenge, Response, Accept
+O
+Logon, Name, Password, Logoff
+
+Q
+0
+What is the purpose of the sequence number (SQN) used in 3G/UMTS networks?
+O
+The USIM can detect replay of authentication messages
+O
+The VLR/SGSN can detect replay of authentication messages
+O
+The UE can verify the MAC values by using f1
+O
+The HLR/AuC can generate distinct session keys
+
+Q
+1
+List the message authentication code types used in UMTS
+O
+MIC, MAC
+O
+MAC-A, MAC-I, MAC-S
+O
+IK, AK
+O
+AUTIN, AUTS
+
+Q
+0
+What are the three most important security services in GSM?
+O
+User authentication, radio channel confidentiality, and temporary identities
+O
+Subscriber Identity Module, Visiting Location Register, and Authentication Centre
+O
+User identification, end-to-end encryption, and symmetric key exchange
+O
+The cryptographic algorithms A3, A5 and A8
+
+Q
+1
+What are the variables of the authentication token (AUTN) used in UMTS networks?
+O
+\(SQN \oplus AK, XRES, MAC\)
+O
+\(SQN \oplus AK, AMF, MAC\)
+O
+\(SQN, AMF, MAC, RAND\)
+O
+\(SQN \oplus AK, AMF, MAC, RAND\)
+
+Q
+3
+Which UTRAN layers provide encryption?
+O
+MAC layer and RRC layer
+O
+RLC layer and RRC layer
+O
+PHY layer and MAC layer
+O
+MAC layer and RLC layer
+
+Q
+2
+Which UTRAN layer provides integrity protection?
+O
+MAC layer
+O
+RLC layer
+O
+RRC layer
+O
+PHY layer
+
+Q
+0
+What is a call session control function (CSCF)?
+O
+A SIP server or proxy used in IMS
+O
+A Mobile Switching Centre (MSC) with IMS support
+O
+A GPRS Support Node (GSN) with IMS support
+O
+A Real-time Transport Protocol (RTP) session controller used in IMS
+
+Q
+2
+What is the length of the cipher key CK used in UMTS?
+O
+56 bits
+O
+64 bits
+O
+128 bits
+O
+256 bits
+
+Q
+0
+How many rounds does the KASUMI cipher use?
+O
+8
+O
+10
+O
+12
+O
+16
+
+Q
+1
+What kind of cipher is KASUMI?
+O
+Stream cipher
+O
+Feistel cipher
+O
+Substitution-permutation cipher
+O
+Nonlinear feedback shiftregister cipher
+
+Q
+3
+Why is the UICC normally easily removable from the mobile station?
+O
+The USIM holds an expiration date and, like credit cards, must be replaced
+O
+The failure rate of the integrated circuit cards (UICCs) are high because the issuers (mobile operators) want to optimize cost against subscription duration
+O
+End-to-end UMTS key-card plugs into the USIM slot for key distribution and management
+O
+The UE manufacturing and lifecycle can be managed independently from the personalization and subscription process
+
+Q
+0
+Why must the USIM implementation be tamper-proof?
+O
+To facilitate the mobile operator with secure computation and storage at the UE side
+O
+To protect the proprietary crypto-algorithms of the mobile operator
+O
+To protect the subscriber against unauthorized modification of the subscription parameters
+O
+To provide the subscriber with a PIN-protected access to the UMTS service
+
+Q
+0
+How is a oneway hash function useful in digital forensic investigations?
+O
+For fast recognition of known file content
+O
+For reconstructing the hash tables of deleted files
+O
+For juridical determination of incriminating file content
+O
+For legally sound presentation of the digital evidence
+
+Q
+3
+What is the purpose of the MILENAGE functions in UMTS?
+O
+Block cipher family of functions that build the algorithms for integrity code and the encryption process
+O
+Transformation of keys for the inter-operation of GSM and UMTS basestations and net works
+O
+Pseudorandom generators that output the initializing values for the cryptographic computations
+O
+Algorithms for computing the cryptographic variables needed in the mutual authentication protocols

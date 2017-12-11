@@ -1,0 +1,284 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2007 Fall
+
+Q
+3
+Which wireless technology has only limited reliability according to the speed of the
+movement of the mobile equipment:
+O
+GSM
+O
+GPRS
+O
+UMTS
+O
+Bluetooth
+O
+WiFi
+
+Q
+4
+Which wireless technology offers the highest transmission rates:
+O
+GSM
+O
+GPRS
+O
+UMTS
+O
+Bluetooth
+O
+WiFi
+
+Q
+0
+What type of the attack is the attack guided by the following motivation: "The attacker wants to steal information, damage your system because of a grievance, or alter your system to acquire a tangible reward":
+O
+Profit or revenge
+O
+Profit
+O
+Revenge
+O
+Gaming
+O
+Ego
+
+Q
+1
+Which one of the following attacks is NOT classified as a wireless attack:
+O
+Snooping
+O
+Meet in the middle
+O
+Modification
+O
+Masquerading
+O
+Denial of Service
+
+Q
+1
+What is "one-time password"?
+O
+You use one unique password for all your logons and connections.
+O
+Each and every time you logon or connect, you use a new password.
+O
+You use passwords with a time stamp in them.
+O
+A password that you use for generating the master key.
+O
+A password that you use for generating the session key.
+
+Q
+1
+In the wireless communication terminology what the abbreviation MAC stands for?
+O
+Message Authentication Code
+O
+Media Access Control
+O
+Mobile Authentication Code
+O
+Medium Accessibility Coding
+O
+Military Air Command
+
+Q
+1
+According to the IEEE 802 standard, what is the right ordering of the layers:
+O
+MAC Layer, IP Layer, TCP Layer, LLC Layer, Application Layer
+O
+MAC Layer, LLC Layer, IP Layer, TCP Layer, Application Layer
+O
+LLC Layer, MAC Layer, IP Layer, TCP Layer, Application Layer
+O
+LLC Layer, MAC Layer, TCP Layer, IP Layer, Application Layer
+O
+MAC Layer, LLC Layer, TCP Layer, IP Layer, Application Layer
+
+Q
+0
+If a station moves only within BSS, then this type of mobility is known as:
+O
+No transition mobility
+O
+BSS transition
+O
+Limited BSS transition
+O
+ESS transition
+O
+Limited ESS transition
+
+Q
+2
+If station or AP sends a notice for association termination, then that service is known as:
+O
+Association
+O
+Reassociation
+O
+Disassociation
+O
+Deassociation
+O
+Quitassociation
+
+Q
+0
+The original 802.11 standard operated on the following frequencies:
+O
+2.4 GHz
+O
+2.4 - 5.0 GHz
+O
+900 MHz
+O
+1.2 GHz
+O
+900 MHz – 1.3 GHz
+
+Q
+4
+The maximal data rate per channel in the original 802.11 standard was:
+O
+54 Mbps
+O
+16 Mbps
+O
+11 Mbps
+O
+4 Mbps
+O
+2 Mbps
+
+Q
+0
+How many IVs are available in WEP?
+O
+\(2^4\)
+O
+\(2^{64}\)
+O
+\(2^{128}\)
+O
+0
+O
+24
+
+Q
+4
+What is true for WEP?
+O
+Mobile station and the access point get a session key from the LAN
+O
+Mobile station have a master key and produces a session key for the access point
+O
+Mobile station sends a key to the access point
+O
+Mobile station have a different key than the access point
+O
+Mobile station shares key with access point
+
+Q
+4
+In Wi-Fi what is the "gold standard"?
+O
+That was the first certification standard that came from Motorola.
+O
+That was the second security standard that came from an alliance of hardware producers.
+O
+The pin connection in the mobile equipment has to be made by gold.
+O
+The pin connection in the mobile equipment has to be made by gold or silver.
+O
+To obtain the Wi-Fi certification - the product has to be compatible with the set of "gold standard" products.
+
+Q
+3
+What encryption algorithm is used in WPA?
+O
+RC4 with 40 bits key
+O
+RC4 with 104 bits key
+O
+AES with 128 bits key
+O
+RC4 with 128 bits key
+O
+AES with 256 bits key
+
+Q
+4
+What is the length of the user's secret key in GSM technology?
+O
+There is no such a security in GSM
+O
+56 bits
+O
+64 bits
+O
+96 bits
+O
+128 bits
+
+Q
+3
+In GSM, when a mobile is switched on, it registers its current location in a
+O
+Authentication Centre
+O
+Roaming Data Center
+O
+Visitor Location Register
+O
+Home Location Register
+O
+Nearest Base Station
+
+Q
+4
+"Protect against someone tracking the location of the user or identifying calls made to or from the user by eavesdropping on the radio path" is the following GSM security feature:
+O
+Encryption
+O
+Handover
+O
+Authentication
+O
+Confidentiality
+O
+Anonymity
+
+Q
+0
+In UMTS what kind of protection provides the "Protection mode 2" of MPSec?
+O
+Both integrity protection and encryption.
+O
+Just integrity protection.
+O
+Just encryption.
+O
+Just message authentication.
+O
+No protection
+
+Q
+2
+What is the crucial protocol in IMS?
+O
+DH key-exchange
+O
+AuC protocol
+O
+Session Initiation Protocol
+O
+The Proxy CSCF
+O
+The Interrogating CSCF

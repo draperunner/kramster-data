@@ -1,0 +1,512 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL1050 Innføring i idrettsfysiologi
+2017 Vår
+MC
+
+Q
+d
+Høydetrening etter prinsippet «Live high-train low» har etter fire uker
+O
+3 % større effekt på \(\mathrm{\dot{V}O_{2max}}\) sammenliknet med konvensjonell utholdenhetstrening ved
+havnivå.
+O
+7% større effekt på \(\mathrm{\dot{V}O_{2max}}\) sammenliknet med konvensjonell utholdenhetstrening ved
+havnivå.
+O
+11% større effekt på \(\mathrm{\dot{V}O_{2max}}\) sammenliknet med konvensjonell utholdenhetstrening
+ved havnivå.
+O
+Lik effekt på \(\mathrm{\dot{V}O_{2max}}\) som konvensjonell utholdenhetstrening ved havnivå.
+
+Q
+c
+I «Live high-train low»-studien av Siebenmann et al. (2012) ble hemoglobinmasse
+målt. Metoden som ble brukt var
+O
+Blodprøve fra armen, og deretter sentrifugering.
+O
+Blodprøve fra låret, og deretter sentrifugering.
+O
+Inn- og utpusting av en gassblanding som inneholdt karbonmonoksid.
+O
+Gjennomlysning av huden ved hjelp av infrarød spektroskopi.
+
+Q
+c
+Maksimal hjertefrekvens (\(\mathrm{HR_{max}}\) ) kan påvirkes av trening. I et forsøk med 60- og 20-åringer som
+trente intervaller i 8 uker (Wang et al., 2014) skjedde følgende:
+O
+\(\mathrm{HR_{max}}\) økte hos både eldre og yngre
+O
+\(\mathrm{HR_{max}}\) gikk ned hos både eldre og yngre
+O
+\(\mathrm{HR_{max}}\) gikk ned hos yngre og forble uendret hos eldre
+O
+\(\mathrm{HR_{max}}\) gikk opp hos yngre og forble uendret hos eldre
+
+Q
+d
+Trening med høy intensitet (85-95% av \(\mathrm{HR_{max}}\)) er vist å være effektivt for å bedre
+\(\mathrm{\dot{V}O_{2max}}\) . Dersom man skal oppnå samme treningsmengde i sonen med 15x15
+intervaller som 4x4 intervaller må antallet intervaller for 15x15 være:
+O
+4
+O
+8
+O
+15
+O
+47
+
+Q
+a
+\(\mathrm{\dot{V}O_{2max}}\) synker med alder typisk
+O
+1% pr år
+O
+3% pr år
+O
+5% pr år
+O
+10% pr år
+
+Q
+c
+Høy muskulær styrke og god utholdenhet reduserer risikoen for tidlig død med...?
+O
+20%
+O
+40%
+O
+60%
+O
+80%
+
+Q
+b
+Utholdenhetstrening og maksimal styrketrening ble for CAD-pasienter vist å
+O
+Øke slagvolum like mye
+O
+Bedre «walking efficiency» like mye
+O
+Bedre utnyttingsgraden like mye
+O
+Øke \(\mathrm{\dot{V}O_{2max}}\) like mye
+
+Q
+a
+Maksimal styrketrening
+O
+Forbedret dynamisk RFD omtrent dobbelt så mye som ved konvensjonell
+(hypertrofi) styrketrening
+O
+Forbedret dynamisk RFD like mye som ved konvensjonell (hypertrofi) styrketrening
+O
+Forbedret dynamisk RFD omtrent halvparten som ved konvensjonell (hypertrofi)
+styrketrening
+O
+Forbedret ikke RFD
+
+Q
+c
+I følge McDonagh og Davies (1984), hvilken motstand er minstemotstand for å oppnå
+styrketreningseffekt?
+O
+Kroppsvekt
+O
+33% av 1RM
+O
+66% av 1RM
+O
+99% av 1RM
+
+Q
+a
+Hvilken skaleringseksponent anbefales det å bruke når det er snakk om styrke?
+O
+0.67
+O
+0.27
+O
+0.87
+O
+0.75
+
+Q
+a
+Hjertets minuttvolum hos en ung mann med maksimalt oksygenopptak på 50-60
+ml⋅ kg⁻¹ ⋅ min⁻¹ er ca.:
+O
+25-30 L
+O
+15-20 L
+O
+10-15 L
+O
+35-40 L
+
+Q
+a
+Styrketrening for nevrale tilpasninger trenes på følgende måte:
+O
+4 repetisjoner, 4 serier med langsom eksentrisk bevegelse og eksplosiv
+konsentrisk bevegelse
+O
+4 repetisjoner, 4 serier med hurtig eksentrisk bevegelse og langsom konsentrisk
+bevegelse
+O
+10-12 repetisjoner, 4 serier med eksplosiv bevegelse
+O
+10-12 repetisjoner, 4 serier med langsom bevegelse
+
+Q
+a
+Styrketrening er vist å
+O
+Redusere type IIx muskelfibre
+O
+Øke type IIx muskelfibre
+O
+Redusere type IIa muskelfibre
+O
+Øke type I muskelfibre
+
+Q
+d
+Hvorfor er det viktig å bruke øvelser som belaster hele (eller i alle fall store deler av)
+kroppen når man skal trene effektiv utholdenhetstrening?
+O
+Fordi det er viktig å trene alle musklene
+O
+Fordi man da fordeler belastningen ut over flere muskler slik at man unngår skader
+O
+Fordi små muskelgrupper trenes bedre når de trenes sammen med store muskelgrupper
+O
+Fordi de store muskelgruppene utfordrer hjertets pumpekapasitet
+
+Q
+b
+Hva er hypertrofi?
+O
+Flere aktin og troponin proteintråder i parallell
+O
+Flere aktin og myosin proteintråder i parallell
+O
+Flere transkripsjoner av proteinene myoglobin gir flere muskelfibre i parallell
+O
+Økt tykkelse i proteinstrukturer som igjen gir en økt tykkelse i bindevev
+
+Q
+a
+70% av \(\mathrm{\dot{V}O_{2max}}\) tilsvarer:
+O
+Høyere intensitet enn 70% av \(\mathrm{HR_{max}}\)
+O
+Lavere intensitet enn 70% av \(\mathrm{HR_{max}}\)
+O
+Akkurat samme intensitet som 70% av \(\mathrm{HR_{max}}\)
+O
+70% av \(\mathrm{\dot{V}O_{2max}}\) kan ikke sammenlignes med 70% av \(\mathrm{HR_{max}}\)
+
+Q
+b
+Muskulær styrke er relatert til
+O
+Muskelens volum
+O
+Muskelens tverrsnitt
+O
+Muskelens lengde
+O
+Alle tre ovenfor
+
+Q
+c
+Hva ble gjort i studiet til Helgerud et al. (2007) for å sikre at de fire treningsgruppene
+hadde omtrent det samme omfanget av trening til tross for forskjeller i treningens
+varighet?
+O
+De trente alle 3 ganger pr uke
+O
+De svarte på spørreskjema om graden av anstrengelse
+O
+De brukte like mye energi i løpet av treningsøkten
+O
+Pustefrekvensen etter avsluttet trening var den samme'
+
+Q
+c
+Følgende utsagn er korrekt om laktat:
+O
+Det er et avfallsstoff som pustes ut i ekspirasjonen
+O
+Det er et avfallsstoff som skilles ut i urinen
+O
+Det kan benyttes som energi ved skjelettmuskelarbeid
+O
+Det kan benyttes som energi i fettoksidering
+
+Q
+c
+Ved bedret maksimalt oksygenopptak vil følgende tilpasninger finne sted i hvile:
+O
+Slagvolum går ned, hjertefrekvens går ned
+O
+Slagvolum går ned, hjertefrekvens går opp
+O
+Slagvolum går opp, hjertefrekvens går ned
+O
+Slagvolum går opp, hjertefrekvens går opp
+
+Q
+a
+«Hennemans size principle» sier at:
+O
+De langsomme motorenhetene rekrutteres før de hurtige motorenhetene
+O
+De hurtige motorenhetene rekrutteres før de langsomme motorenhetene
+O
+De små muskelgruppene rekrutteres før de store muskelgruppene
+O
+De store muskelgruppene rekrutteres før de små muskelgruppene
+
+Q
+a
+Maksimalt oksygenopptak målt som mL ∙ min⁻¹ ∙ kg⁻¹:
+O
+Overvurderer den som har lav kroppsvekt
+O
+Undervurderer den som har lav kroppsvekt
+O
+Hverken over eller undervurderer den som har lav kroppsvekt
+O
+Har mindre betydning om du er overvektig
+
+Q
+b
+Effektiv maksimal styrketrening bedrer:
+O
+Anaerob terskel i % av \(\mathrm{\dot{V}O_{2max}}\)
+O
+Arbeidsøkonomi
+O
+\(\mathrm{\dot{V}O_{2max}}\)
+O
+Ingen av delene
+
+Q
+a
+Maksimal styrketrening fører til følgende endring i kroppsvekt etter 24 treningsøkter:
+O
+Ingen endring
+O
+10% økning
+O
+15 % økning
+O
+20% økning
+
+Q
+c
+Hvordan trene maksimalt oksygenopptak på en effektiv måte?
+O
+60 min på 60% av maksimal puls
+O
+4x4 sekunder i 40 minutter, 90-95% av makspuls
+O
+3-8 minutters intervaller, 90-95% av maksimal puls
+O
+Kortintervall (15/15sek), 85% av maksimal puls
+
+Q
+d
+Hva er hovedårsaken til endringer i muskelstyrke som følge av maksimal
+styrketrening:
+O
+Overgang fra type I til type II muskelfibre ved muskelaktivering
+O
+Økt aktivering som følge av flere sarcomerer
+O
+Økt achetylcholinsensitivitet i reseptorene i motor endeplatene
+O
+Økt fyringsfrekvens og økt rekruttering av motorenheter
+
+Q
+a
+Hva er hovedfunksjonen til det store kretsløpet?
+O
+Forsyne perifert vev med oksygenrikt blod
+O
+Transportere oksygenfattig blod tilbake til hjertet
+O
+Transportere oksygenfattig blod til lungene
+O
+En kombinasjon av faktorene ovenfor
+
+Q
+d
+Type I muskelfibre har følgende karakteristikker:
+O
+Hvit, glykolytisk, hurtig kontraherende
+O
+Hvit, oksidativ, hurtig kontraherende
+O
+Rød, glykolytisk, langsomt kontraherende
+O
+Rød, oksidativ, langsomt kontraherende
+
+Q
+d
+Hvor mange repetisjoner bør kroppsbyggere bruke i sin styrketrening for å øke
+tverrsnittet?
+O
+1-3
+O
+4
+O
+6-8
+O
+10-12
+
+Q
+d
+Hva kan du si om to idrettsutøvere som løper sammen og har samme hjertefrekvens?
+O
+De har samme maksimale oksygenopptak
+O
+De har samme maksimale hjertefrekvens
+O
+De har samme løpsøkonomi
+O
+De trenger ikke å ha noen av kombinasjonene ovenfor
+
+Q
+d
+For høye kraftkontraksjoner som varer i 1-2 sekund, så er den innledende energikilden:
+O
+Phosphocreatinelagre
+O
+Myoglobinlagre
+O
+Glykolyselagre
+O
+ATPlagre
+
+Q
+a
+Langkjøring ga følgende økning i \(\mathrm{\dot{V}O_{2max}}\) hos friske mannlige studenter som trente i 2
+måneder:
+O
+0%
+O
+5%
+O
+10%
+O
+15%
+
+Q
+d
+Hva står RFD for?
+O
+Rate of force distance.
+O
+Ratio of force distance.
+O
+Reduced force development.
+O
+Rate of force development.
+
+Q
+b
+I en studie som sammenliknet to intervalltreningsformer med langkjøring og
+terskeltrening ble laktatterskel målt på følgende måte:
+O
+Hastighet som korresponderte til en ventilatorisk terskel der respiratorisk kvotient var
+lik 1.0
+O
+Hastighet som korresponderte til en laktatverdi 1.5mmol·L-1 høyere enn
+oppvarmingsverdi
+O
+Hastighet som korresponderte til en laktatverdi lik 4.0 mmol·L-1
+O
+Laktatterskel ble ikke målt fordi denne kan ikke trenes
+
+Q
+a
+Et treningsmål om å løfte sin egen kroppsvekt i benkpress eller det doble av
+kroppsvekten i 90 graders knebøy er:
+O
+Greit for en lett person og vanskelig for en tung person
+O
+Er like vanskelig for en lett og en tung person
+O
+Er greit for en tung person og vanskelig for en lett person
+O
+Er like greit for en lett og en tung person
+
+Q
+c
+Q – eller hjertets minuttvolum – er bestemt av følgende faktorer:
+O
+SV og VC
+O
+HRmax og VEmax
+O
+HRmax og SV
+O
+HDL, LDL, CK
+
+Q
+d
+Følgende signifikante endringer ble funnet etter maksimal styrketrening hos
+distanseløpere
+O
+CR↓, tMAS↑, RFD↓
+O
+CR↑, tMAS↓, RFD↑
+O
+CR↑, tMAS↑, RFD↓
+O
+CR↓, tMAS↑, RFD↑
+
+Q
+d
+Når en KOLS-pasient forbedrer lungefunksjonen med maksimal styrketrening, hvorfor
+skjer det?
+O
+Forbedret oksygenopptak
+O
+Forbedret anaerob terskel
+O
+Forbedret arbeidsøkonomi
+O
+Styrking av respirasjonsmusklene
+
+Q
+c
+I reviewet til Hoff og Helgerud (2004) om fysisk trening i fotball blir en studie av to
+juniorlag omtalt. Treningsgruppen økte sitt maksimale oksygenopptak fra 58 til 64
+ml∙kg⁻¹∙min⁻¹. Dette medførte følgende i en fotball kamp:
+O
+87.6% økt løpsdistanse i kampen, 20% bedre løpsøkonomi, 7% flere sprinter
+O
+7% bedre løpsøkonomi, 24% mer involvering med ball, 15.4% flere sprinter
+O
+1.7 km økt løpsdistanse i kampen, 100% flere sprinter, 7% bedre løpsøkonomi
+O
+20% økt løpsdistanse i kampen, 23.8% bedre løpsøkonomi, 7% mer involvering med
+ball
+
+Q
+c
+Hvilke faktorer korrelerer (samvarierer) best med antall løpte meter i en fotballkamp:
+O
+Løpsøkonomi
+O
+Anaerob terskel
+O
+Maksimalt oksygenopptak
+O
+Maksimal hjertefrekvens

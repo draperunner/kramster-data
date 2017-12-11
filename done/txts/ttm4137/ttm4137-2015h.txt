@@ -1,0 +1,307 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4137 Wireless Security
+2015 Fall
+
+Q
+0
+What is the purpose of the EAPOL 4-way handshake?
+O
+Authenticated key agreement for session keys
+O
+User authentication
+O
+Negotiation of radio parameters
+O
+Distribution of long term keys
+
+Q
+3
+How does WEP provide replay protection?
+O
+By using a sequence counter
+O
+By using an integrity check value
+O
+By using a frame specific encryption key
+O
+WEP does not provide replay protection
+
+Q
+1
+How many messages are exchanged in a group key handshake?
+O
+1
+O
+2
+O
+3
+O
+4
+
+Q
+2
+What are the five input values to the CCMP Decryption block?
+O
+Key, Data, Nonce, PN, AAD
+O
+Key, Data, Nonce, MAC1, MAC2
+O
+Key, Data, Nonce, MIC, AAD
+O
+Key, Data, Nonce1, Nonce2, IV
+
+Q
+0
+What is a mutable field in CCMP?
+O
+A header field that is not integrity protected because it can be modified in transit
+O
+A header field that is integrity protected because it will not be modified in transit
+O
+A header field indicating if the frame has been modified in transit
+O
+A header field that specifies whether or not a frame can be modified in transit
+
+Q
+3
+What is the major weakness in WEP, exploited by the PTW attack used in the lab?
+O
+Weak IVs
+O
+IV reuse
+O
+Short encryption key
+O
+Correlation between keystream and RC4 key
+
+Q
+1
+How are EAP messages transported between the authenticator and the authentication server in RSN?
+O
+Encapsulated in EAPOL
+O
+Encapsulated in RADIUS
+O
+Encapsulated in 802.1X
+O
+Encapsulated in TLS
+
+Q
+0
+Which frame types are cryptographically protected by 802.11i?
+O
+Data frames only
+O
+Data and Management frames
+O
+Data and Control frames
+O
+Data, Management and Control frames
+2
+TTM4137 Final Exam, Dec. 17, 2015
+
+Q
+0
+Which standard actually enabled practical DoS attacks on 802.11i TKIP?
+O
+802.11e Quality of Service Enhancements
+O
+802.11h Spectrum and Transmit Power Management Extensions
+O
+802.11i MAC Security Enhancements
+O
+802.11k Radio Resource Measurement
+
+Q
+2
+Does Windows 10 Wi-Fi Sense allow sharing of 802.11i keys?
+O
+No, Wi-Fi Sense only shares SSIDs
+O
+No, Wi-Fi Sense only shares location information for open hotspots
+O
+Yes, the PSK
+O
+Yes, the PTK
+
+Q
+1
+Does Windows 10 Wi-Fi Sense enforce access control to wireless networks?
+O
+Yes, by using 802.1X
+O
+Yes, by using the Windows Filtering Platform on the client
+O
+Yes, by transmitting an Access Control List to the AP
+O
+No, Wi-Fi Sense does not enforce access control
+
+Q
+2
+Does GSM provide mutual authentication?
+O
+Yes, but only between the SIM and the home network
+O
+Yes, but only between the SIM and the visited network
+O
+No, the SIM does not authenticate the network
+O
+No, the network does not authenticate the SIM
+
+Q
+3
+How is backward key separation achieved during handovers over X2 connections in EPS?
+O
+X2 handovers in EPS do not support backward key separation
+O
+The target eNB receives a fresh key from the MME
+O
+The source eNB securely deletes the key after transmitting it to the target eNB
+O
+The source eNB applies a one-way function to the key before transmitting it to the target eNB
+
+Q
+2
+How is the EPS key derivation function constructed?
+O
+AES-CBC
+O
+AES-CCM
+O
+HMAC-SHA256
+O
+HMAC-MD5
+
+Q
+0
+How long are the cipher key (CK) and integrity key (IK) used in UTRAN, and how are they obtained if a GSM SIM is used to access a UTRAN?
+O
+CK 128 bits, IK 128 bits, obtained using a conversion function
+O
+CK 256 bits, IK 256 bits, obtained using a conversion function
+O
+CK 128 bits, IK 128 bits, distributed from the AuC to the SIM
+O
+CK 256 bits, IK 256 bits, distributed from the AuC to the SIM
+
+Q
+3
+What is cryptographic network separation (in EPS)?
+O
+All network entities have separate cryptographic keys
+O
+Communication between different core networks is protected by IPSec
+O
+The cryptographic network is separated from the core network
+O
+The derived keys are specific to the serving network
+
+Q
+1
+Which values are sent from the AuC to the VLR/SGSN during 3G/UMTS authentication?
+O
+RAND, XRES, Kc, AUTN
+O
+RAND, XRES, CK, IK, AUTN
+O
+RAND, XRES, CK, IK, AK
+O
+RAND, XRES, CK, IK, SQN
+3
+TTM4137 Final Exam, Dec. 17, 2015
+
+Q
+3
+Which UMTS entities implement the functions f1-f5, f1* and f5*?
+O
+UE and VLR
+O
+UE and AuC
+O
+USIM and VLR
+O
+USIM and AuC
+
+Q
+2
+Why does EPS provide a more complex key hierarchy than UMTS and GSM?
+O
+To support more cryptographic algorithms
+O
+For backward compatibility with UMTS and GSM
+O
+To support cryptographic key separation and enable more frequent key renewal
+O
+To support other types of access networks
+
+Q
+1
+Will 3G USIMs work with EPS UE handsets?
+O
+Yes, but only after a firmware update
+O
+Yes, because the ME computes the EPS keys
+O
+No, because USIMs do not support generation of EPS keys
+O
+No, because EPS uses different AKA functions
+
+Q
+0
+Does EPID have a mechanism for key revocation?
+O
+Yes, using a revocation list
+O
+Yes, using the Online Certificate Status Protocol
+O
+No, EPID does not need a mechanism for key revocation
+O
+No, because the designers of EPID considered key compromise a low risk
+
+Q
+3
+What is the purpose of the EPID join procedure?
+O
+To prove membership of a group
+O
+To join a network
+O
+To join two network messages into one
+O
+To assign a private key to a device
+
+Q
+1
+Which three entities participate in the WPS configuration process?
+O
+Supplicant, Authenticator, Authentication Server
+O
+Enrollee, Access Point, Registrar
+O
+Client, Access Point, Verifier
+O
+Station, Authenticator, Registrar
+
+Q
+3
+How many messages are exchanged in the WPS in-band registration protocol?
+O
+2
+O
+4
+O
+6
+O
+8
+
+Q
+0
+Which protocol state will an 802.11 STA be in after having received a deauthentication notification message?
+O
+State 1
+O
+State 2
+O
+State 3
+O
+State 4

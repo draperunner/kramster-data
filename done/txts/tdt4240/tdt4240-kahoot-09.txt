@@ -1,0 +1,9 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 09: Design patterns II
+What pattern can be used to ensure that single and multiple objects can be treated similarly? §§ 1 §§ Abstract Factory §§ Composite §§ Singleton §§ Template Method
+What pattern can be used to implement/maintain several almost identical pieces of code? §§ 3 §§ Abstract Factory §§ Composite §§ Observer §§ Template Method
+What pattern can be used to ensure that a change of one object influences other objects? §§ 2 §§ Abstract Factory §§ Composite §§ Observer §§ Template Method
+What pattern can be used to ensure a single instance of a class? §§ 3 §§ Abstract Factory §§ Composite §§ Observer §§ Singleton
+What are the keywords in the short pattern definition? §§ 0 2 3 §§ Context §§ Observation §§ Problem §§ Solution
+What do you call a collection of patterns that build on each other to generate a system? §§ 2 §§ Architectural Pattern §§ Idioms §§ Pattern Languages §§ Pattern Styles

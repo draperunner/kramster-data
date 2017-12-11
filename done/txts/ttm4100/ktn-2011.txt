@@ -1,0 +1,53 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4100 Communication Services and Networks
+2011 Spring
+A server program requests and receives services from a client program. §§ 1 §§ True §§ False
+Packet switching is always better than circuit switching. §§ 1 §§ True §§ False
+The application-layer message and the transport-layer header information together constitute the transport-layer segment. §§ 0 §§ True §§ False
+The total nodal delay is given by the sum of the processing delay, transmission delay and propagation delay. §§ 1 §§ True §§ False
+Store-and-forward transmission means that the switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link. §§ 0 §§ True §§ False
+Each router has a forwarding table that maps destination addresses to outbound links. §§ 0 §§ True §§ False
+Tier-1 ISPs are directly connected to each of the other Tier-1 ISPs. §§ 0 §§ True §§ False
+Transport Layer and Network Layer are always executed together. §§ 1 §§ True §§ False
+IP is a connection-oriented protocol. §§ 1 §§ True §§ False
+Internet DNS uses TCP. §§ 1 §§ True §§ False
+Web cashing can reduce the delay in receiving a requested object of a webpage. §§ 0 §§ True §§ False
+FTP uses TCP as its underlying transport protocol. §§ 0 §§ True §§ False
+HTTP decides how a Web page is interpreted by a Web browser. §§ 1 §§ True §§ False
+When a user requests a Web page, many TCP connections may be generated. §§ 0 §§ True §§ False
+File distribution using client-server architecture. Upload rate: server is 10Mbps and each client 1 Mbps. Download rate: each client is 10Mbps. There are 100 clients and the file is 12,5 Mbytes. The minimum distribution time is about 100 s. §§ 1 §§ True §§ False
+In BitTorrent, suppose Alice provides chunks to Bob throughout a 15-second interval. Then, Bob should provide chunks to Alice in the same interval. §§ 1 §§ True §§ False
+P2P cannot be used for instant messaging. §§ 1 §§ True §§ False
+A host can have more than one DNS name. §§ 0 §§ True §§ False
+In a POP3 transaction, the user agent issues commands, and the server responds to each command with a reply. §§ 0 §§ True §§ False
+SMTP is used to transfer mail from the sender's mail server to the recipient's mail server, and it is also used to transfer mail from the sender's user agent to the sender's mail server. §§ 0 §§ True §§ False
+A transport-layer protocol can provide reliable data transfer even if the underlying network layer is unreliable. §§ 0 §§ True §§ False
+Suppose Host A sends two TCP segments back to back to Host B over a TCP connection. The first segment has sequence number 100; the second has sequence number 200. Then, there are 100 bytes in the first segment. §§ 0 §§ True §§ False
+In Go-back-N, the sender is allowed to transmit multiple packets (when available) without waiting for an acknowledgement from the receiver. §§ 0 §§ True §§ False
+The throughput of a TCP connection is typically a function of its round-trip time. §§ 0 §§ True §§ False
+When TCP is used, the TCP port number of the receiver cannot be different from the TCP port number of the sender. §§ 1 §§ True §§ False
+UDP is a connectionless transport protocol. §§ 0 §§ True §§ False
+Suppose Host A is sending a large file to Host B over a TCP connection. If the sequence number for a segment of this connection is n, then the sequence number for the subsequent segment will necessarily be n+1. §§ 1 §§ True §§ False
+Suppose Host A is sending a large file to Host B over a TCP connection. The number of unacknowledged bytes that A sends cannot exceed the size of the receive buffer at B. §§ 0 §§ True §§ False
+Suppose a process in Host C has a UDP socket with port number 5678. If both Host A and Host B each send a UDP segment to Host C with destination port number 5678, then the process in Host C cannot know that these two segments are originated from two different hosts. §§ 1 §§ True §§ False
+TCP uses end-to-end congestion control. §§ 0 §§ True §§ False
+The IP address 192.32.216.9 in binary notation is: 11000000 00100000 11011000 00001001 §§ 0 §§ True §§ False
+A Class C IP subnet, which has a CIDR address of the form a.b.c.d/24, can accommodate about 500 hosts. §§ 1 §§ True §§ False
+Virtual circuit is connection-oriented. §§ 0 §§ True §§ False
+With IP, the order of packets received may be different from the order of the same packets sent. §§ 0 §§ True §§ False
+Hosts and routers can use ICMP to communicate network-layer information to each other. §§ 0 §§ True §§ False
+The job of routing is to determine good routes from senders to receivers through the network. §§ 0 §§ True §§ False
+In a decentralized routing algorithm, the calculation of the least-cost path is carried out in an iterative, distributed manner. §§ 0 §§ True §§ False
+The link-state (LS) routing algorithm is a decentralized routing algorithm. §§ 1 §§ True §§ False
+With DHCP, a host may be assigned an IP address that is different each time the host is connected to the network. §§ 0 §§ True §§ False
+The IPv6 address space is much larger than the IPv4 address space. §§ 0 §§ True §§ False
+If all links in the Internet were to provide reliable delivery service, the TCP reliable delivery service would be redundant and hence not needed. §§ 1 §§ True §§ False
+Two-dimensional parity checks can detect and correct a single bit error. §§ 0 §§ True §§ False
+CRC (Cyclic Redundancy Check) detects all errors. §§ 1 §§ True §§ False
+Switched Ethernet uses mulitcast link. §§ 1 §§ True §§ False
+The maximum efficiency of slotted ALOHA is higher than the maximum efficiency of pure ALOHA. §§ 0 §§ True §§ False
+Each adapter connected to a LAN has a unique MAC address. §§ 0 §§ True §§ False
+Like IP addresses, MAC addresses are also hierarchical. §§ 1 §§ True §§ False
+ARP (address resolution protocol) maps between IP and MAC addresses on different LANs. §§ 1 §§ True §§ False
+With CSMA/CD, when a collision is detected, the transmitting node stops its transmission and uses some protocol to determine when it should attempt to transmit the next time. §§ 0 §§ True §§ False
+In a CDMA protocol, each bit being sent is encoded by multiplying the bit by a signal (the code) that changes at a much faster rate than the original sequence of data bits. §§ 0 §§ True §§ False

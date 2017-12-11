@@ -1,0 +1,604 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2011 Kont
+MC
+
+Q
+1
+En av påstandene under om betydningen av innovasjoner er IKKE korrekt etter pensum. Hvilken?
+O
+Innovasjoner kan gi oss mange strategiske fordeler, for eksempel at vi gjennom å innovere kan endre konkurransemekanismene i vårt marked fra pris til kvalitet eller omvendt
+O
+Innovasjon er et nytt fenomen som dukket opp på 60-tallet da innføring av ny elektronikk akselererte en rivende teknologisk utvikling.
+O
+Innovasjonsoppgaver, som har til hensikt å utvikle virksomheten langs en eller flere dimensjoner, er minst like viktige som driftsoppgaver, som har til hensikt å utnytte eksisterende løsninger og ressurser på best mulig måte
+O
+Innovasjon er i forskningen den faktoren som klarest og mest konsistent er knyttet til økonomisk suksess for bedrifter
+
+Q
+3
+En av påstandene under er IKKE korrekt om Discontinuities slik begrepet diskuteres i pensum. Hvilken?
+O
+Discontinuities er definert som noe som skjer utenfor en enkelt bedrift sin kontroll, men som samtidig har et potensiale for å endre reglene for hvordan denne bedriftens (og andre bedrifters) forretningsdrift gjøres.
+O
+Discontinuities kan representere store muligheter for en bedrift.
+O
+Utviklingen av transistoren, innføringen av datalagringsdirektivet og askeskyene fra Island representerer tre ulike typer av Discontinuities, og det finnes mange flere typer
+O
+En Discontinuity opptrer sjelden alene. De kommer vanligvis i grupper.
+
+Q
+3
+Hvilken av de fire fasene under er IKKE en del av den innovasjonsmodellen vi benytter i dette emnet?
+O
+Search:  der vi ser etter muligheter for innovasjoner
+O
+Implement:  der vi skal sette utvalgte ideer ut i livet
+O
+Capture:  der vi ser på hvordan vi skal kunne utnytte ideene
+O
+Evaluate:  der vi vurderer ideenes vellykkethet ut fra prøvedrift
+
+Q
+0
+Det sies i pensum at store og små bedrifter har ulike fordeler og ulemper i forhold til å drive innovasjoner. Hvilke av fordelene under gjelder normalt for store bedrifter, og ikke for små?
+O
+ at bedriften har en klar, langsiktig strategi
+O
+at bedriften har en uformell kultur
+O
+at bedriften har raske beslutningsprosesser
+O
+at alle i bedriften vet hva som skjer til enhver tid
+
+Q
+1
+En av påstandene nedenfor er feil når det gjelder ferdigheter bedrifter trenger for å lykkes med innovasjonsprosesser. Hvilken?
+O
+Choosing og Learning er to av mange ferdigheter bedrifter trenger for å kunne nyttiggjøre seg innovasjonsprosesser
+O
+De ferdighetene som er nyttige til å drive en bedrift, er de samme som er viktige til å drive innovativt arbeid
+O
+Forskning tyder på at det er vanskelig å si generelt hvilke ferdigheter som trengs for å lykkes med innovasjon. Det vil ofte være svært bedriftstilpasset hvilke ferdigheter som behøves, avhengig av situasjonen til bedriften og hvilke omgivelser den har.
+O
+En av de viktigste ferdighetene som støtter innovasjon er av mange sagt å være evnen til å kunne være fleksibel og omstille seg. Dette fordi eksisterende rutiner og tenkemåter er en av de største hindre som må overkommes når man skal drive med innovativt arbeid.
+
+Q
+3
+Tidd og Bessant (2009) deler risikobildet inn i tre kategorier. Hvilke?
+O
+1. Risiko knyttet til markedsadopsjon, 2. Risiko knyttet til produksjon og 3. Risko knyttet til logistikk.
+O
+1. Usikkerhet, 2. Risiko, 3. Usikkerhet og risikostyring.
+O
+1. Usikkerhet relatert til entreprenøren, 2. Usikkerhet relatert til muligheten, 3. Usikkerhet relatert til gjennomføringsevne.
+O
+1. Estimering av sannsynlighet for teknisk og kommersiell suksess, 2. Psykologisk og sosiologisk persepsjon av risiko og 3. Politisk influering
+
+Q
+0
+Hvilken av følgende påstander om finansiering av teknologibedrifter med vekstpotensial er korrekt?
+O
+Bankene vil normalt sett ikke engasjere seg finansielt i de tidlige fasene ved utviklingen av en teknologibedrift.
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.
+O
+Venturekapitalfond er den mest vanlige typen investor i nye teknologibedrifter.
+
+Q
+0
+Hvilken av følgende påstander om venturekapitalfond er korrekt?
+O
+Venturekapitalfond er ofte spesialisert i forhold til fase eller bransje.
+O
+Dette er offentlige fond som skal støtte opp om etablering av bedrifter.
+O
+Dette er privatpersoner som går sammen og investerer direkte i nye teknologibedrifter
+O
+Venturekapitalfond investerer alltid i mange bransjer og et stort antall  porteføljebedrifter for å diversifisere risikoen til fondet.
+
+Q
+1
+Hva er rekkefølgen på når disse aktørene normalt investerer?
+O
+Gründer, såkornfond, venturekapitalfond, familie og venner, Business Angels.
+O
+Gründer, familie og venner, Business Angels, såkornfond, venturekapitalfond
+O
+Venturekapitalfond, såkornfond, Business Angels, gründer, familie og venner
+O
+Gründer, familie og venner, såkornfond, venturekapitalfond, Business Angels
+
+Q
+1
+Hvilken av følgende påstander om såkalte business angels er korrekt?
+O
+Er som hovedregel passive eiere.
+O
+Er aktive eiere som tilfører bedriften knappe ressurser.
+O
+Vil som regel eie majoriteten av aksjene i bedriften.
+O
+Mottar ofte offentlig støtte for å bistå bedrifter i tidlig fase.
+
+Q
+2
+Porter (1980) bruker begrepene innovation leadership og â€œinnovation followership. Hva legger han i dette?
+O
+Man må lede innovasjonsutviklingen, man kan ikke følge etter andre.
+O
+Man vil spare mye ressurser på å følge etter first mowers.
+O
+Leadership henviser til det å være først i markedet, mens followership handler om å imitere lederne gjennom imitasjon.
+O
+Leadership henviser til handlingsrommet som ligger i å kunne velge markedsstrategi, men man ikke har det valget dersom man er en follower.
+
+Q
+2
+Teece og Pisano (1994) bruker begrepet dynamiske kapabiliteter. Hvilke kriterier mener de må ligge til grunn for at kapabilitetene kan omtales som strategiske?
+O
+De må være dynamiske, de må være verdifulle for bedriften og de må være skalerbare.
+O
+De må være unike, dynamiske og vanskelig å kopiere.
+O
+De må være knyttet til kundenytte, unike og vanskelige å imitere.
+O
+De må være sjeldne, de må kunne brukes i ett internasjonalt marked, og de må være kunnskapsbaserte.
+
+Q
+3
+Hamel og Prahalad (1990) sine ideer om kjernekompetanse kan oppsummeres slik:
+O
+Én kjernekompetanse – ett produkt som er markedsledende
+O
+Kjernekompetansen må være 1. Verdifull, 2. Sjelden, 3. Vanskelig å imitere, og 4. Innbakt i bedriftens organisasjon.
+O
+Kjernekompetanse finner man i bedriftens ledergruppe.
+O
+1. Varig konkurransekraft ligger i bedriftens kjernekompetanse. 2. Kjernekompetansen brukes i flere produkter. 3. Organisatorisk kompetanse er vesentlig. 4. Kjernekompetanse krever fokus. 5. Bedrifter kan ses på som en samling av kompetanse.
+
+Q
+0
+Hvilken av følgende påstander om mulighetsanalyser av teknologibaserte forretningsideer er korrekt?
+O
+Mulighetsanalyser innebærer en innledende vurdering av tekniske, markedmessige, økonomiske og organisatoriske forhold.
+O
+Mulighetsanalyser er en fullstendig og gjennomgripende gjennomgang av tekniske, markedmessige, økonomiske og organisatoriske forhold.
+O
+Grunnlaget for en mulighetsanalyse har man først etter å ha utarbeidet en god forretningsplan.
+O
+Det viktigste i en mulighetsanalyse er gode teknologivurderinger.
+
+Q
+1
+I følge Brush et al. (2001) og deres ressurspyramide må følgende fire elementer ligge til grunn før man kan oppnå unike konkurransefordeler:
+O
+Generiske ressurser, spesifikke ressurser, kapabiliteter og nettverkskapabiliteter (generic resources, specific resources, capabilities and network capabilities).
+O
+Generiske ressurser, kapabiliteter, kjernekompetanser og strategiske aktiva (generic resources, capabilities, core competences and strategic assets).
+O
+Generiske ressurser, økonomiske ressurser, patenter og dynamiske kapabiliteter (generic resources, economic resources, patents and dynamic capabilities.)
+O
+Generiske ressurser, nettverkskapabiliteter, spesifikke ressurser og patenter (generic resources, network capabilities, specific resources and patents).
+
+Q
+0
+Tidd og Bessant (2009) beskriver to ytterpunkter for hvordan man kan organisere innovasjon (R&D) globalt. Hvilke?
+O
+Spesialisert eller integrert.
+O
+Innkjøp av innovative løsninger eller intern utvikling.
+O
+Sammen med global partner eller egen intern utvikling.
+O
+Produktorientert eller generisk.
+
+Q
+0
+Prahalad (2006) bruker begrepet bottom of the pyramid (BoP Markets). Hva mener han med det?
+O
+Marked bestående av populasjon som lever under fattigdomsgrensen.
+O
+Markeder som har så lav kjøpekraft at lønnsomheten vil være dårlig.
+O
+Markeder som adopterer innovasjon sist (geografisk eller demografisk)
+O
+Markeder som danner grunnlag for lønnsomhet
+
+Q
+2
+I boken til Tidd og Bessant (2009) brukes begrepene exploitation og exploration. Hva mener de med dem?
+O
+Exploitation handler om å bruke sjeldne ressurser, mens exploration handler om å kombinere sjeldne ressurser.
+O
+Exploitation handler om å utnytte andres ressurser, mens exploration handler om å utnytte egne ressurser.
+O
+Exploitation handler om å bruke og videreutvikle de ressursene de har, mens exploration handler om å ta i bruk ressurser som ligger utenfor deres domene.
+O
+Exploitation handler om å bruke og videreutvikle de ressursene de har, mens exploration handler om å bruke den kunnskapen de har.
+
+Q
+3
+I følge Mitchell og Hamilton (1988) er det tre overlappende kategorier av innovasjon som store bedrifter må finansiere. Hvilke?
+O
+1. Produktinnovasjon, 2. Markedsinnovasjon og 3. Organisasjonsinnovasjon.
+O
+1. Markedsinnovasjon, 2. Prosessinnovasjon og 3. Produktinnovasjon.
+O
+1. Nettverksbygging, 2. Teknologiutvikling og 3. Kunnskapsbygging.
+O
+1. Kunnskapsbygging, 2. Strategisk posisjonering og 3. Business investment
+
+Q
+1
+Innenfor strategilitteraturen har det lenge pågått en diskusjon mellom tilhengere av rasjonalisme og inkrementalisme. Hvilket av alternativene under knyttes til rasjonalisme?
+O
+Prøving og feiling.
+O
+Å bestemme seg for handlinger basert på en grundig analyse.
+O
+Anerkjennelsen av kompleksiteten til omgivelsene.
+O
+Evnen til raskt å reagere på eksterne og interne forandringer.
+
+Q
+3
+Hva er den generelle sammenhengen mellom organisasjonens måloppnåelse og organisasjonens uoffisielle aspekter?
+O
+Organisasjonens uoffisielle aspekter utfyller de offisielle, og bidrar således positivt til måloppnåelse.
+O
+Organisasjonens uoffisielle aspekter bryter med de offisielle og bidrar derfor negativt til måloppnåelse.
+O
+Organisasjonenes uoffisielle aspekter er ikke godkjent av ledelsen, og bidrar derfor negativt til måloppnåelse.
+O
+De uoffisielle aspektene kan bidra både positivt og negativt til måloppnåelse. Det er ingen entydig sammenheng mellom de to.
+
+Q
+2
+Hvilken av disse er ifølge Tidd og Bessants (2009) liste ikke en komponent i innovative organisasjoner?
+O
+Kreativt klima.
+O
+Eksternt fokus.
+O
+Fravær av byråkrati.
+O
+Høy involvering i innovasjonsprosessen.
+
+Q
+0
+Hvilken av disse er ifølge Watson (2008; K1) en nødvendig betingelse for produktivt samarbeid?
+O
+At organisasjonens oppgaver blir utført på et tilstrekkelig høyt nivå til at organisasjonen kan fortsette i fremtiden.
+O
+At alle medlemmene av organisasjonen deler et felles mål.
+O
+At favorisering av enkeltpersoner på bakgrunn av sosial status, kjønn eller familierelasjoner ikke forekommer.
+O
+Enhetlig ledelse, dvs. at hver person bare har én sjef.
+
+Q
+0
+Ledelse kan ifølge Watsons (2006; K2) overordnede rammeverk forstås som:
+O
+handlinger, funksjon og formell rolle (posisjon).
+O
+planlegging, gjennomføring og kontroll.
+O
+kunnskap, tekniske ferdigheter og sosial intelligens.
+O
+rolle, kommunikasjon og overtalelse.
+
+Q
+3
+At mellomledere har en fragmentert arbeidsdag (arbeidsdagen består av en rekke aktiviteter og interaksjoner av kort varighet), kan ifølge pensumtekstene best forklares med:
+O
+At mellomlederne lider av mental overbelastning (forvirring).
+O
+At organisasjonens formelle systemer for planlegging som oftest er dårlig designet, slik at lederne må bruke mesteparten av tiden på reaktiv brannslukking.
+O
+At flesteparten av medarbeiderne ønsker å bli sett av lederen i løpet av en arbeidsdag.
+O
+At lederne har behov for å bygge og kontinuerlig vedlikeholde et nettverkt som gir dem tilgang til informasjon og kanaler for å øve innflytelse.
+
+Q
+3
+Hvilken av Minitzbergs seks organisasjonstyper har kreativitet som sin fremste styrke?
+O
+Divisjonalisert struktur.
+O
+Maskinbyråkrati.
+O
+Fagbyråkrati.
+O
+Adhockrati.
+
+Q
+0
+Hva menes med mønster av overbærenhet (indulgency pattern)?
+O
+At ledere ignorerer ansattes regelbrudd i bytte mot at ansatte gjør en ekstrainnsats når de blir spurt om det.
+O
+At ledere ignorerer ansattes regelbrudd, slik at de ansatte i praksis bestemmer hvordan arbeidet utføres.
+O
+At ansatte lar lederen fremstå i et positivt lys, selv når lederen har gjort feil som de ansatte må rydde opp i.
+O
+At ulike divisjons- eller avdelingsledere allierer seg for systematisk å innskrenke topplederens reelle myndighet i organisasjonen. Avdelingslederne er overbærende med hverandre for å holde alliansen samlet.
+
+Q
+1
+Høy involvering i innovasjonsprosessen (HII) er typisk mest positivt for:
+O
+Organisasjonens evne til radikal innovasjon.
+O
+Organisasjonens evne til kontinuerlig forbedring.
+O
+Prosessforbedringer, men ikke produktforbedringer.
+O
+Produktforbedringer, men ikke prosessforbedringer.
+
+Q
+1
+Hvilken påstand om teamarbeid og mål har ikke støtte i pensumlitteraturen?
+O
+I effektive team har medlemmene den samme oppfatningen av teamets mål.
+O
+I innovative team bør målene være uklare, siden uklarhet mobiliserer kreativ energi.
+O
+Å bidra til innovasjoner er et naturlig mål for team i lærende organisasjoner.
+O
+Innovasjonsaktivitetene som gjennomføres i team bør være forankret i organisasjonens strategiske målsetninger for innovasjon.
+
+Q
+2
+Hva innebærer det at innovasjonsprosesser er grenseoverskridende (boundary spanning)?
+O
+At de resulterer i innovasjoner som bryter grensen for hva deltakerne trodde det var teknologisk mulig å oppnå.
+O
+At de resulterer i innovasjoner som bryter grensen for hva organisasjonens kunder (kjøperne av den konkrete innovasjonen) trodde det var teknologisk mulig å oppnå.
+O
+At innovasjonsprosessen involverer organisasjonens kunder, leverandører eller andre aktører i organisasjonens nettverk.
+O
+At innovasjonsprosessen involverer representanter fra ulike nasjonale eller regionale kontor
+
+Q
+2
+Det viktigste med gruppekreativitet er at vi:
+O
+kan utvikle våre ferdigheter innenfor gruppearbeid
+O
+kan gjøre en jobb raskere
+O
+kan gjøre en jobb billigere
+O
+kan få til bedre og mer varierte løsninger
+
+Q
+0
+Samvirke kan foregå på ulike nivåer. En av påstandene nedenfor er ikke i samsvar med pensum når det gjelder samvirke om innovasjon. Hvilken?
+O
+Samvirke på gruppenivå oppnås best når hvert enkelt individ er kreativt i seg. På den måten oppnås effektivitet selv om ikke alle individene er like godt trenet i gruppearbeid
+O
+Samvirke på avdelingsnivå kan være spesielt nyttig i forhold til tverrfaglige oppgaver
+O
+Samvirke på bedriftsnivå er viktig fordi mange bedrifter i dag er spesialiserte på sin del av verdikjeden, og derfor ikke kan forventes å ha full oversikt over de ulike kunnskapselementene i et komplekst produkt
+O
+Samvirke på alle nivåer er viktig for å kunne være innovativ, men på ulike måter for de ulike nivåene.
+
+Q
+1
+Nedenfor har vi klippet fire utsagn fra bedriften IT-NORGE sin strategi når det gjelder samarbeid med andre bedrifter. Tre av disse kan gjenkjennes som viktige årsaker til at det å være en del av et fungerende innovasjonsnettverk er viktig for enkeltbedrifter, men IKKE den fjerde. Hvilken?
+O
+Samarbeid gir oss mulighet til å få tilgang til kompetanse vi ikke har i egen bedrift
+O
+Samarbeid gir oss mulighet til å utnytte ledig kapasitet i produksjonen
+O
+Samarbeid gir oss mulighet til å dele kostnadene ved innovasjon med våre samarbeidspartnere
+O
+Samarbeid gir mulighet til kollektiv læring
+
+Q
+1
+Nedenfor er fire utfordringer som i følge pensum oppstår når man skal lede arbeide innenfor et innovasjonsnettverk. En av dem er ikke korrekt i forhold til pensum. Hvilken?
+O
+Det å håndtere free-riders
+O
+Det å sikre at egen bedrifts økonomiske interesser blir ivaretatt
+O
+Det å håndtere prosesser som skal kjøres av personer vi ikke formelt har autoritet over
+O
+Det å finne passende incentiver for prosessen som har aksept i alle parter som deltar i prosessen
+
+Q
+2
+Hvilken av følgende fire grupper vil i henhold til forskning presentert i pensum i størst grad fungere som utviklingspartner for en bedrift som ønsker å drive med produktutvikling?
+O
+Myndighetene
+O
+Leverandørene
+O
+Kundene
+O
+Universiteter, høyskoler og/eller forskningsstiftelser
+
+Q
+3
+En bedrifts totale kostnader er gitt ved TC = 3 000 000 + 200 * Q<sup>0.5</sup>, der Q er mengden. Hva er bedriftens marginalkostnad (også kalt grensekostnad) når mengden er 10 000?
+O
+3 020 000
+O
+20 000
+O
+200
+O
+1
+
+Q
+0
+Ledelsen i et monopol finner ut at marginalinntekten (også kalt grenseinntekten) er 10 % høyere enn marginalkostnaden (også kalt grensekostnaden). Hva tilsier dette om hva bedriften bør gjøre for å øke profitten?
+O
+Øke produsert mengde.
+O
+Øke produsert mengde med akkurat 10 %.
+O
+Redusere produsert mengde.
+O
+Redusere produsert mengde med akkurat 10 %.
+
+Q
+3
+Anta at etterspørselen er lineær slik at prisen er en lineær, synkende funksjon av mengden for alle positive priser og mengder, dvs. i hele det relevante området. Hva kan vi da si om effekten av økt mengde på etterspørselselastisiteten?
+O
+Ingenting – etterspørselselastisiteten kan være både synkende og økende i det relevante området.
+O
+Etterspørselselastisiteten er da konstant og uavhengig av produsert mengde.
+O
+Absoluttverdien til etterspørselselastisiteten er da økende i produsert mengde i det relevante området.
+O
+Absoluttverdien til etterspørselselastisiteten er da synkende i produsert mengde i det relevante området.
+
+Q
+3
+Anta at etterspørselen i markedet er gitt ved P = a - bQ, der P er prisen, Q er mengden og a og b er positive konstanter. Hva er da et korrekt uttrykk for marginalinntekten (også kalt grenseinntekten), MR?
+O
+MR = b
+O
+MR = 2b
+O
+MR = a - bQ
+O
+MR = a - 2bQ
+
+Q
+1
+Alle bedriftene i et frikonkurransemarked har marginalkostnader (også kalt grensekostnader) på 1 000. Etterspørselen er gitt ved P = 10 000 - Q, der P er prisen og Q er mengden. Hva blir total mengde tilbudt i dette markedet?
+O
+10 000
+O
+9 000
+O
+4 500
+O
+2 500
+
+Q
+2
+Et monopol har marginalkostnader (også kalt grensekostnader) på 1 000. Etterspørselen er gitt ved P = 10 000 - Q, der P er prisen og Q er mengden. Hva blir total mengde tilbudt i dette markedet?
+O
+10 000
+O
+9 000
+O
+4 500
+O
+2 500
+
+Q
+0
+Se bort fra selskapsskatt! Et selskap er finansiert av en del gjeld og en del egenkapital. Totalkapitalrentabiliteten er \(r_A\), egenkapitalrentabiliteten er \(r_E\) og gjeldsavkastningen er \(r_D\). Hva er da en korrekt implikasjon av at \(r_E > r_A\)?
+O
+\(r_E > r_D\) og \(r_D < r_A\)
+O
+\(r_E > r_D\) og \(r_D > r_A\)
+O
+\(r_E < r_D\) og \(r_D > r_A\)
+O
+\(r_E < r_D\) og \(r_D < r_A\)
+
+Q
+2
+Et selskap har en gjeldsandel på 20 %. Hva er da selskapets gjeldsgrad?
+O
+80 %
+O
+50 %
+O
+25 %
+O
+20 %
+
+Q
+1
+Hva er nåverdien av å få 1 000 000 om ti år dersom kapitalkostnaden er 10 %?
+O
+Ca 0.
+O
+Ca 385 000.
+O
+Ca 500 000.
+O
+Ca 1 000 000.
+
+Q
+2
+Et prosjekt innebærer en investering på 1 200 000 nå. Etter ett år gir det en sikker netto kontantstrøm på 1 000 000. Etter to år gir det enten en negativ netto kontantstrøm på 1 000 000 eller en positiv netto kontantstrøm på 1 500 000. Sannsynligheten for å få den negative kontantstrømmen det andre året er 40 %. Det risikojusterte avkastningskravet er 6 %. Hva blir nettonåverdien til prosjektet?
+O
+Ca 500 000.
+O
+Ca 300 000.
+O
+Ca 190 000.
+O
+Ca 0.
+
+Q
+0
+I kapitalverdimodellen inngår en størrelse som kalles for beta. Hvilken type risiko er det den fanger opp?
+O
+Ikke-diversifiserbar risiko.
+O
+Diversifiserbar risiko.
+O
+Totalrisiko.
+O
+Konkursrisiko.
+
+Q
+1
+En forward-kontrakt på en aksje betyr at det avtales en gitt pris mellom to aktører for omsetning av aksjen en gang i framtida. Betaling for og overføring av aksjen skjer altså til avtalt pris en dag i framtida. En aksje med beta på 2 er verdt akkurat 100 nå. Risikofri rente er 3 %. Forventet markedsavkastning er 8 %. Anta at kapitalverdi­modellen holder, se bort fra risikoen for at en av partene misligholder sin del av avtalen og ikke ta hensyn til eventuelt utbytte! Hva er korrekt aksjepris i en forwardkontrakt som innebærer at aksjen skal omsettes om ett år?
+O
+100
+O
+103
+O
+108
+O
+113
+
+Q
+2
+Gjelden til en bedrift har en beta på 0,2. Forventet markedsrisikopremie er 5 %. Forventet risikofri rente er 3 %. Hva er forventet avkastning på bedriftens gjeld i følge kapitalverdimodellen?
+O
+3,0 %
+O
+3,4 %
+O
+4,0 %
+O
+5,0 %
+
+Q
+0
+Kostnaden til totalkapitalen etter skatt, også kalt WACC, kan skrives som WACC = \(\frac{D}{V}(1-T_C)r_D+\frac{E}{V}rE\). Her er D verdien av gjeld, E er verdien av egenkapital, V er total verdi av aktiva, rD er gjeldsavkastning, rE er egenkapitalavkastning og Tc er selskapsskattesatsen. Anta at WACC skal brukes i en nettonåverdiberegning. Hvordan skal da kontantstrømmen beregnes?
+O
+Etter skatt som om prosjektet var egenkapitalfinansiert.
+O
+Før skatt, men etter rentekostnader.
+O
+Før skatt og før rentekostnader.
+O
+Etter skatt gitt faktisk gjeldsandel og med skattefordelen av rentekostnadene.
+
+Q
+3
+Anta ingen selskapsskatt, ingen konkurskostnader og perfekte kapitalmarkeder. En bedrift har ingen gjeld og avkastningen på egenkapitalen forventes å være 10 %. Anta nå at bedriften tar opp gjeld og betaler hele beløpet ut som utbytte slik at den ender opp med like mye gjeld som egenkapital. Forventet avkastning på gjelden er 5 %. Hva blir nå forventet egenkapitalavkastning?
+O
+0 %
+O
+5 %
+O
+10 %
+O
+15 %

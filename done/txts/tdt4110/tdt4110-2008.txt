@@ -1,0 +1,204 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2008 Høst
+
+Q
+2
+I setningen "På Værnes regnet det forrige uke følgende: 6mm 3mm 12mm 4mm 0mm 8mm 6mm" vil delen "På Værnes regnet det forrige uke følgende:" være:
+O
+Informasjon
+O
+Data
+O
+Metadata
+
+Q
+0
+Det finnes flere forskjellige typer lagring av data i en datamaskin. Hvilket av alternativene rangerer disse typene fra raskest til tregest?
+O
+Registre -> cache -> primærminnet -> sekundærminnet
+O
+Registre -> primærminnet -> sekundærminnet -> cache
+O
+Cache -> registre -> primærminnet -> sekundærminnet
+
+Q
+2
+Binærtallet 10110100 tilsvarer hvilken verdi i ti-tallsystemet (desimaltallsystemet)?
+O
+64
+O
+134
+O
+180
+
+Q
+1
+Når du sitter hjemme og leser nyheter på nettsidene til Adresseavisa så vil din
+datamaskin typisk være hva når det gjelder datakommunikasjon?
+O
+Tjener
+O
+Klient
+O
+Bruker
+
+Q
+1
+En tjenestenivåavtale (Service Level Agreement, SLA) vil ofte inneholde en rekke QoS-parametere (Quality of Service). Hva beskriver disse parametrene?
+O
+Funksjonelle krav
+O
+Ikke-funksjonelle krav
+O
+Ruter-kapasitet
+
+Q
+0
+Du jobber som programmerer i firmaet Opptur. Hvem eier opphavsretten til programvaren du utvikler?
+O
+Opptur
+O
+Du
+O
+IT-bransjeforeningen Abelia
+
+Q
+1
+Hvor mange bits trenger du for å kode de 29 bokstavene i vårt alfabet ved enkel koding der alle bokstavene er representert med samme antall bits?
+O
+4
+O
+5
+O
+6
+
+Q
+1
+Gitt en sortert liste på 4000 verdier. Hvor mange sammenligninger må vi i verste fall gjøre for å søke etter en verdi som ikke finnes i lista ved bruk av binærsøk?
+O
+8
+O
+12
+O
+48
+
+Q
+2
+Hvor mange forskjellige verdier kan representeres ved hjelp av 8 bits?
+O
+128
+O
+255
+O
+256
+
+Q
+1
+Hva får man når man multipliserer binærtallene 1011 og 11001 med hverandre?
+O
+101111001
+O
+100010011
+O
+110011011
+
+Q
+1
+Hva er fordelen med inkrementell utviklingsmetode sammenliknet med vannfallsmetoden?
+O
+Med inkrementell utvikling fullføres faser som f.eks. kravspesifikasjon helt ferdig før man går videre
+O
+Med inkrementell utvikling deles prosjektet opp i mindre deler hvor man utfører flere faser (som kravspesifisering, design, koding) for hver del
+O
+Med inkrementell utvikling begynner man å skrive koden først, og deretter dokumenterer man kravene og lager designet
+
+Q
+2
+Hvilken av disse enhetene benytter seg av IP-adresser for å videreformidle informasjon på nettverket?
+O
+Nav (Hub)
+O
+Svitsj (Switch)
+O
+Ruter (Router)
+
+Q
+1
+Hvilken av de følgende er en lovlig IP-addresse?
+O
+116.259.241.13
+O
+8.7.9.2
+O
+12.234.12.104.77
+
+Q
+1
+Hva er hovedoppgaven til en navnetjener?
+O
+Oversetter IP-adresser til domenenavn
+O
+Oversetter domenenavn til IP-adresser
+O
+Holder rede på variabelnavn når et program kjører
+
+Q
+2
+Hva betyr synbarhet ved programmering av funksjoner/metoder?
+O
+Alle variabler kommer tydelig frem ved listing
+O
+Variabler kan nåes fra hovedkoden
+O
+Samme navn kan brukes på variabler i forskjellige funksjoner/metoder
+
+Q
+0
+Hvorfor komprimeres data?
+O
+For at det skal ta mindre plass
+O
+For at det skal kunne gjøres tilgjengelig for alle på Internett
+O
+For at data ikke skal kunne leses av uvedkommende
+
+Q
+0
+Hva er en protokoll?
+O
+Et sett av kommunikasjonsregler
+O
+Et program som oversetter programmeringskode til kode som kan kjøres på en datamaskin
+O
+Hovedkomponenten i en vanlig datamaskin
+
+Q
+1
+Hva defineres ikke som sensitiv informasjon iflg. Personopplysningsloven?
+O
+Rasemessig eller etnisk bakgrunn, eller politisk, filosofisk eller religiøs oppfatning
+O
+Eksamensresultater
+O
+Medlemskap i fagforeninger
+
+Q
+1
+Når det gjelder webdesign så er CSS’s oppgave å stå for
+O
+Struktur av innhold
+O
+Presentasjon av innhold
+O
+Overføre innholdet til datamaskinen din
+
+Q
+2
+Gitt at du har en databasetabell med 12 poster og en med 20 poster. Hva blir det kartesiske produktet?
+O
+20
+O
+32
+O
+240

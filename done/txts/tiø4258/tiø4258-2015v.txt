@@ -1,0 +1,398 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2015 Vår
+MC
+
+Q
+3
+Hvilket av disse utsagnene er feil om «product-push»?
+O
+Product-push er motstykket til Order-pull
+O
+Product-push er normalt teknologidrevet fordi det tar utgangspunkt i nyutviklet teknologi
+O
+Product-push tar ikke utgangspunkt i et eksisterende kundebehov
+O
+Product-push er en ide om at produktet selger seg selv, vi trenger bare lage det
+
+Q
+2
+Hva kan VRIO-rammeverket hjelpe deg med?
+O
+Å skaffe finansiering til din oppstartsbedrift
+O
+Å klargjøre kriterier for valg av organisasjonsstruktur
+O
+Å analysere bedriftens ressursmessige forutsetninger for å oppnå konkurransekraft.
+O
+Å sette sammen et godt team rundt forretningsideen
+
+Q
+0
+Hvilket av disse utsagnene er feil om betydningen av verdikjeder for entreprenører?
+O
+Verdikjeder sier noe om hvilke verdivalg andre bedrifter har gjort
+O
+Verdikjeder gir oss en mulighet til å finne en «plass» i kjeden for vår bedrift
+O
+Verdikjeder hjelper oss med å vurdere en fornuftig arbeidsdeling mellom vår bedrift og andre
+bedrifter
+O
+Verdikjeder kan gjøres enda nyttigere ved å legge inn pengestrømmer for å konkretisere modellen
+
+Q
+2
+Hvilken type oppstartsbedrift har vanligvis størst behov for tilgang på kapital?
+O
+«Levebrødsbedrifter»
+O
+«Portalbedrifter»
+O
+«Vekstbedrifter»
+O
+«Hobbybedrifter»
+
+Q
+3
+Hvilken av utsagnene nedenfor er IKKE karakteristisk for Business Angels?
+O
+De er private enkeltpersoner eller grupper
+O
+De investerer normalt i bedrifter som interesserer dem
+O
+De investerer normalt moderat med penger (100.000-2,5 mill)
+O
+De venter normalt til etter at et venturekapitalfond har investert, slik at de vet at ideen er
+levedyktig.
+
+Q
+0
+Hva er arbeidsdeling?
+O
+Prosessen som etablerer og kontrollerer graden av spesialisering i organisasjonen.
+O
+Fordelingen av ansvar og oppgaver mellom ledelse og ansatte
+O
+Utfallet av interne klassekamper mellom ledelse og ansatte
+O
+Prosessen som fordeler mennesker og ressurser i forhold til deres posisjon i organisasjonens hierarki
+
+Q
+2
+Hvordan påvirker standardiseringsnivået graden av vertikal differensiering?
+O
+Høy grad av standardisering reduserer ledelsens mulige kontrollspenn, noe som igjen sikrer en lavere grad av vertikal differensiering
+O
+Høy grad av standardisering gjør det lettere for ledere på høyere nivå i hierarkiet å fungere bedre
+på grunn av mindre fokus på gjensidig tilpasning, og følgelig er det mulig å ha en større grad av vertikal differensiering
+O
+En lav grad av standardisering gjør det lettere for ansatte og ledere som utfører komplekse og usikre oppgaver å basere
+seg mer på gjensidig tilpasning, og dette reduserer behovet for vertikal differensiering
+O
+En lav grad av standardisering gjør det mulig for ledere å kontrollere flere hierarkiske nivå, siden
+de kan gripe inn og gi tilpassede retningslinjer for hver operasjon eller prosess som er påtatt
+
+Q
+0
+Hva er fordelen med en matrisestruktur?
+O
+Bruken av kryssfunksjonelle team reduserer funksjonelle barrierer og bidrar til å løse utfordringen
+med overdrevent subenhetsfokus
+O
+Plasseringen av ansatte i kryssfunksjonelle team sikrer delt forståelse av individuelle oppgaver,
+noe som reduserer rolleusikkerhet
+O
+Et klart hierarki reduserer konflikt mellom produktteam og funksjoner
+O
+Produktteamenes selvstyre tillater en minimal intervensjon fra ledelsen
+
+Q
+0
+Hva er kjernedimensjonene i jobbkarakteristikamodellen?
+O
+Ferdighetsvariasjon, oppgaveidentitet, oppgaveviktighet, autonomi og tilbakemeldinger
+O
+Oppgaveidentitet, motivasjon, oppgavevariasjon, utvikling av ferdigheter og tilbakemelding
+O
+Motivasjon, tilbakemeldinger, ferdighetsviktighet og oppgaveidentitet
+O
+Ferdighetsviktighet, autonomi, ferdighetsvariasjon, oppgaveviktighet og tilbakemeldinger
+
+Q
+1
+En bedrift har totalkostnader gitt ved funksjonen TC(Q) der Q er mengden. Hva er da et korrekt uttrykk for marginalkostnaden?
+O
+\(Q\)
+O
+\(\frac{dTC}{dQ}\)
+O
+\(Q \frac{dTC}{dQ}\)
+O
+\(\frac{TC(Q)}{Q}\)
+
+Q
+1
+En bedrift produserer en mengde slik at marginalkostnadene er lik gjennomsnittskostnadene. Hva er da sannsynligvis tilfellet?
+O
+Marginalkostnadene er null.
+O
+Gjennomsnittskostnadene er minimale.
+O
+Variable kostnader er null.
+O
+Variable kostnader er minimale.
+
+Q
+2
+Etterspørselen til en bedrift er gitt ved funksjonen P(Q) der P er prisen og Q er mengden. Hva er da
+en korrekt tolkning av \(Q \frac{dP}{dQ}\)?
+O
+Marginalinntekt, dvs. ekstra inntekt ved salg av en ekstra enhet.
+O
+Marginalprofitten, dvs. ekstra profitt ved salg av en ekstra enhet.
+O
+Inntektstapet som følge av prisreduksjon med sikte på å selge en ekstra enhet.
+O
+Økningen i solgt mengde per enhet prisreduksjon.
+
+Q
+0
+En bedrift har tilpasset seg slik at marginalinntekten er positiv. Hva kan vi da generelt si om etterspørselen i tilpasningspunktet?
+O
+Etterspørselen er elastisk.
+O
+Etterspørselen er uelastisk.
+O
+Etterspørselselastisiteten er null.
+O
+Tallverdien til etterspørselselastisiteten er én.
+
+Q
+2
+En bedrift i et frikonkurransemarked har marginalkostnader gitt ved MC = 0,2Q + 80 der Q er
+mengden. Den har faste kostnader på 1 000. Dersom prisen i markedet er 120, hva blir optimal profitt
+for bedriften?
+O
+1 000
+O
+2 000
+O
+3 000
+O
+4 000
+
+Q
+0
+Etter å ha analysert kostnader og etterspørsel finner ledelsen i et monopol ut at både marginalinntekt
+og marginalkostnad er positive tall, men marginalinntekten er mindre enn marginalkostnaden. Hva
+kan bedriften da gjøre for å øke profitten?
+O
+Redusere mengden og øke prisen.
+O
+Øke mengden og redusere prisen.
+O
+Øke både pris og mengde.
+O
+Redusere både pris og mengde.
+
+Q
+0
+
+Etterspørselen i et duopolmarked der bedriftene opptrer i tråd med Cournot-modellen er gitt ved
+P = 100 - Q der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader på 10.
+Mengdene til bedriftene er \(Q_i\) og \(Q_j\). Reaksjonsfunksjoner uttrykker bedriftens beste svar på den
+andres strategivalg. Hva blir et korrekt uttrykk for reaksjonsfunksjonen til bedriftene?
+O
+\(Q_i = \frac{90-Q_j}{2}\)
+O
+\(Q_i = \frac{100-10}{3}\)
+O
+\(Q_i = \frac{110-Q_j}{2}\)
+O
+\(Q_i = \frac{90+Q_j}{2}\)
+
+Q
+1
+Etterspørselen i et duopolmarked der bedriftene opptrer i tråd med Coumot-modellen er gitt ved
+P = 100 - Q der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader på 10.
+Hvilken mengde vil hver bedrift tilby ved likevekt?
+O
+20
+O
+30
+O
+40
+O
+50
+
+Q
+3
+Egenkapitalen og gjelden til en bedrift har samme verdi. Hva kan vi da si om sammenhengen mellom
+gjeldsgrad og gjeldsandel?
+O
+Ingenting egentlig – vi må kjenne total verdi av aktiva for å si noe om gjeldsandel.
+O
+Gjeldsgrad er lik gjeldsandel.
+O
+Gjeldsandelen er lik to ganger gjeldsgraden.
+O
+Gjeldsgraden er lik to ganger gjeldsandelen.
+
+Q
+3
+Se bort fra skatt. Hva kan vi si generelt om sammenhengen mellom totalkapitalrentabilitet,
+egenkapitalrentabilitet og gjeldsavkastningen?
+O
+Dersom totalkapitalrentabiliteten er mindre enn gjeldsavkastningen, er egenkapitalrentabiliteten
+mindre enn null.
+O
+Dersom totalkapitalrentabiliteten er større enn null, er egenkapitalrentabiliteten større enn
+gjeldsavkastningen.
+O
+Dersom totalkapitalrentabiliteten er mindre enn gjeldsavkastningen, er egenkapitalrentabiliteten
+større enn totalkapitalrentabiliteten.
+O
+Dersom totalkapitalrentabiliteten er større enn gjeldsavkastningen, er egenkapitalrentabiliteten
+større enn totalkapitalrentabiliteten.
+
+Q
+3
+Et investeringsprosjekt innebærer en investering nå på \(I\). Forventet kontantstrøm i periode \(t\) i de \(N\)
+periodene prosjektet vil vare er \(k_t\). Diskonteringsrenten for periode \(t\) er \(r_t\). Hva blir et korrekt uttrykk
+for prosjektets nettonåverdi?
+O
+\(-I+\frac{k}{r}\)
+O
+\(-I+ \sum\limits_{t=1}^N \frac{k_t}{(1-r_t)^t}\)
+O
+\(-I+ \sum\limits_{t=1}^N \frac{k_t}{1+r_t^t}\)
+O
+\(-I+ \sum\limits_{t=1}^N \frac{k_t}{(1+r_t)^t}\)
+
+Q
+2
+Hva er en korrekt definisjon på begrepet internrente?
+O
+Internrenten er avkastningskravet til totalkapitalen etter skatt.
+O
+Internrenten er avkastningen til investeringene som er gjort internt i selskapet.
+O
+Internrenten er den diskonteringsrenten som gir nettonåverdi lik null.
+O
+Internrenten er renten på gjelden som er tatt opp internt i selskapet.
+
+Q
+3
+Et investeringsprosjekt innebærer en investering nå på 100 000 000 og en forventet positiv
+kontantstrøm om fem år på 200 000 000. Dersom avkastningskravet er 10 % årlig, hva blir forventet
+nettonåverdi for prosjektet?
+O
+81 818 182
+O
+50 262 960
+O
+36 602 691
+O
+24 184 265
+
+Q
+0
+Et investeringsprosjekt vil kunne gi kontantstrøm i to år. Det er imidlertid usikkerhet knyttet til
+mulige kontantstrømmer. Bedriften regner med at det er 20 % sannsynlighet for at det går dårlig slik
+at det blir tap første år. Da blir det en negativ kontantstrøm på 2 000 000 og prosjektet avsluttes.
+Dersom det ikke går dårlig første året, er forventet positiv kontantstrøm om ett år 10 000 000 og
+prosjektet videreføres inn i det andre året. I så fall regner de med at det er like sannsynlig at det vil gi
+0 som at det vil gi 10 000 000 to år fra nå. Hva er forventet nåverdi av kontantstrømmen når
+avkastningskravet er 10 % per år?
+O
+10 214 876
+O
+11 404 959
+O
+15 537 190
+O
+18 545 455
+
+Q
+3
+Hva er den mest korrekte definisjonen av altemativkostnaden til kapital i forbindelse med
+nettonåverdiberegninger knyttet til mulige investeringsprosjekter i bedrifter?
+O
+Den forventede avkastningen i aksjemarkedet.
+O
+Den forventede avkastningen til selskapets totalkapital etter skatt.
+O
+Den forventede avkastningen eierne har på sine investeringsporteføljer.
+O
+Den beste alternative, forventede avkastningen eierne kan få i markedene med tilsvarende risiko
+som prosjektet.
+
+Q
+1
+Hva kan vi si generelt om hvordan en risikoavers investor vil prioritere mellom alternative
+investeringer som kan tas inn i porteføljen?
+O
+Investoren vil alltid foretrekke investeringen med lavest mulig standardavvik.
+O
+I valget mellom to investeringer med samme forventede avkastning og samme standardavvik, vil
+investoren foretrekke den med lavest korrelasjon med porteføljen.
+O
+I valget mellom to investeringer med samme forventede avkastning og samme standardavvik, vil
+investoren foretrekke den med høyest korrelasjon med porteføljen.
+O
+Investoren vil alltid foretrekke investeringen med høyest forventet avkastning.
+
+Q
+0
+Hva er en korrekt definisjon av markedsrisikoen til en portefølje?
+O
+Det er den delen av risikoen som ikke kan diversifiseres bort ved å legge til flere verdipapirer i
+porteføljen.
+O
+Standardavviket til markedsavkastningen.
+O
+Det er den risikoen investoren velger å ta fordi det koster for mye å diversifisere ytterligere.
+O
+Forskjellen mellom forventet avkastning i markedet og risikofri rente.
+
+Q
+3
+Beta til aksjen til et selskap er 3. Markedsrisikopremien er 5 % og risikofri rente er 2 %. Anta at
+Capital Asset Pricing Model, dvs. kapitalverdimodellen, er korrekt. Hva er da forventet avkastning til
+aksjen?
+O
+5 %
+O
+7 %
+O
+11 %
+O
+17 %
+
+Q
+0
+La \(\beta_A\) være beta for selskapets aktiva, la \(\beta_E\) være beta for selskapets egenkapital og la \(\beta_D\) være beta
+for selskapets gjeld. Markedsverdien av selskapets gjeld er \(D\) og markedsverdien av selskapets
+egenkapital er \(E\). Hva blir da et korrekt uttrykk for beta til selskapets aktiva?
+O
+\(\beta_A = \frac{D}{D+E}\beta_D + \frac{E}{D+E}\beta_E\)
+O
+\(\beta_A = \frac{D}{D+E}\beta_D - \frac{E}{D+E}\beta_E\)
+O
+\(\beta_A = \frac{D}{E}\beta_D + \frac{E}{D}\beta_E\)
+O
+\(\beta_A = \frac{E}{D}\beta_D + \frac{D}{E}\beta_E\)
+
+Q
+2
+Avkastningen til et selskaps egenkapital er 8 %. Avkastningen til selskapets gjeld er 4 %.
+Gjeldsandelen er 40 %. Selskapsskattesatsen er 25 %. Hva blir avkastningskravet til totalkapitalen
+etter skatt, dvs. WACC?
+O
+4,0 %
+O
+5,5 %
+O
+6,0 %
+O
+8,0 %

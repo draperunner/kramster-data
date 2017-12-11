@@ -1,0 +1,305 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2010 Fall
+
+
+Q
+3
+Is the same key used for both authentication and encryption in WEP?
+O
+Yes, if 802.1X authentication is not used
+O
+The same key is never used twice
+O
+No
+O
+Yes
+
+Q
+1
+What is the major weakness in WEP, exploited by the PTW attack used in the lab?
+O
+Too short IV
+O
+No protection against message replay
+O
+The integrity check value
+O
+The IV is part of key stream
+
+Q
+2
+What is EAP?
+O
+Extensible Authentication Protocol is a set of encapsulation messages for mutual authentication methods
+O
+Extensible Authentication Protocol is a set of encapsulation messages for smartcard-based authentication methods
+O
+Extensible Authentication Protocol is a set of encapsulation messages for upper-layer authentication methods
+O
+Extensible Authentication Protocol is a set of authentication server methods
+
+Q
+0
+How are EAP messages transported between the authenticator and the authentication server in RSN?
+O
+EAP messages are encapsulated in TCP/IP
+O
+EAP messages are encapsulated in EAP-TLS
+O
+EAP messages are encapsulated in VPN
+O
+EAP messages are encapsulated in 802.1x
+
+Q
+0
+Which security method is used in the first phase of PEAP
+O
+TLS
+O
+EAPOL
+O
+802.1x
+O
+LEAP
+
+Q
+1
+The Pairwise Transient Key (PTK) is a collection of several keys. List these keys and their
+length when CCMP is used.
+O
+EAPOL MIC Key (128), EAPOL Encr Key (128), Data Encr Key (128), Data MIC Key (128)
+O
+EAPOL MIC Key (128), EAPOL Encr Key (128), Data Encr/MIC Key (128)
+O
+EAPOL MIC Key (128), EAPOL Encr Key (256), Data Encr Key (128), Data MIC Key (128)
+O
+EAPOL MIC Key (128), EAPOL Encr Key (128), Data Encr/MIC Key (256)
+
+Q
+2
+What is Michael in WPA/RSN?
+O
+The encryption algorithm in TKIP
+O
+The key mixing algorithm of RC4
+O
+The message integrity code of TKIP
+O
+The replay protection algorithm of TKIP
+
+Q
+2
+What is the purpose of the EAPOL 4-way handshake?
+O
+To compute a fresh pairwise temporal key (PTK) from the pairwise master key (PMK)
+O
+To compute a fresh pairwise master key (PMK) from the pairwise transient key (PTK)
+O
+To compute a fresh pairwise transient key (PTK) from the pairwise master key (PMK) after both parties have verified the PMK
+O
+To compute a fresh pairwise message key (PMK) from the pairwise trusted key (PTK) generated in the 4-way key agreement
+
+Q
+2
+How does the counter mode operation of a block cipher E() work?
+O
+\(C = E(i) \oplus i\)
+O
+\(C = E(i) \oplus M \oplus i\)
+O
+\(C_i = E(i) \oplus M_i\)
+O
+\(C = E(i) \oplus M\)
+
+Q
+3
+How is the IEEE 802.11 CCMP nonce input constructed?
+O
+The values of the Pairwise Transient Key, the NonceA, and the NonceB
+O
+The values of the Pairwise Temporal Key, the Source Address, and the Destination Address
+O
+The values of the fields Packet Number, Address1, Flag of the MPDU
+O
+The values of the fields Packet Number, Address2, Priority of the MPDU
+
+Q
+0
+Does GSM provide mutual authentication?
+O
+No
+O
+Yes
+O
+Operator dependent
+O
+In cooperation with UMTS
+
+Q
+0
+How is the subscriber identity protected from radio channel eavesdropping in GSM?
+O
+By the network providing temporary subscriber identities to the SIMs
+O
+By storing the subscriber identity in the SIM only
+O
+By storing the 128-bit secret key (\(K_{IMSI}\)) in the SIM and distributed only to trusted VLRs
+O
+By using the IMEI instead of the IMSI
+
+Q
+1
+Which information is sent from the AuC to the VLR/SGSN during 3G/UMTS authentication?
+O
+IMSI
+O
+RAND, AUTN, XRES, CK, IK
+O
+RAND, AUTN
+O
+RAND, AUTN, XRES, Kc
+
+Q
+3
+Which UTRAN layers provide encryption?
+O
+MAC layer and RRC layer
+O
+RLC layer and RRC layer
+O
+PHY layer and MAC layer
+O
+MAC layer and RLC layer
+
+Q
+2
+What happens if the result of the UTRAN algorithm negotiation is that the user equipment (UE) and the network do not have a common encryption algorithm?
+O
+UTRAN provides a new encryption algorithm as an app
+O
+The connection is shut down immediately by UTRAN
+O
+UTRAN may establish the connection without encryption
+O
+UTRAN does not use encryption algorithm negotiation
+
+Q
+2
+Can the security header in MAPsec be encrypted? Why/why not?
+O
+No, because the header consists of {SPI || Original Component ID || TVP}
+O
+Yes, because the header consists of {SPI || Original Component ID || TVP}
+O
+No, because the MAPsec header must be processed at the receiving end
+O
+Yes, because an IPsec tunnel is set up
+
+Q
+3
+Which CSCF handles SIP registration requests and informs the Home Subscription Server (HSS)?
+O
+All
+O
+P-CSCF
+O
+I-CSCF
+O
+S-CSCF
+
+Q
+0
+Which three modes does the confidentiality algorithm in UMTS support?
+O
+RLC-Transparent, RLC-Unacknowledged, RLC-Acknowledged
+O
+RRC-Transparent, RRC-Unacknowledged, RRC-Acknowledged
+O
+RLC-Transparent, RRC-Unacknowledged, RLC-Acknowledged
+O
+RRC-Transparent, RLC-Unacknowledged, RRC-Acknowledged
+
+Q
+2
+In which mode of operation is KASUMI used for constructing the 3GPP f8 key stream generator?
+O
+Combining Counter-mode and ECB-mode
+O
+Combining Counter-mode and CCM-mode
+O
+Combining Counter-mode and OFB-mode
+O
+Combining Counter-mode and CBC-mode
+
+Q
+1
+What are the three functional requirements for UMTS authentication?
+O
+Mutual authentication between USIM and HSS, securing the radio channel communication, and end-to-end confidentiality
+O
+Mutual authentication between USIM and AuC, securing the radio channel communication, and user identity confidentiality
+O
+Confidentiality and privacy for the subscriber, and mutual authentication for the service provider
+O
+AV generation at AuC, key transport to the RNC, and the SQN synchronization
+
+Q
+1
+What was the underlying assumption for the MILENAGE security analysis?
+O
+No assumptions were made
+O
+The kernel function must be a robust block cipher
+O
+AES must be used as the kernel function
+O
+The kernel function must be a oneway function
+
+Q
+2
+Which part of the IEEE 802.16 MAC PDU is encrypted?
+O
+Both the header and the payload part
+O
+The payload part and some fields of the header
+O
+The payload part
+O
+The header part
+
+Q
+0
+Which WiMAX entity is generating the Traffic Encryption Key (TEK)?
+O
+The Base Station
+O
+The AAA Server
+O
+The Access Service Network
+O
+The Network Service Provider
+
+Q
+2
+Why can the USIM be removed from the rest of the UE?
+O
+The USIM holds an expiration date and, like credit cards, must be replaced
+O
+The failure rate of the integrated circuit cards (UICCs) are high because the issuers (mobile operators) want to optimize cost against subscription duration
+O
+The UE manufacturing and lifecycle can be managed independently from the personalization and subscription process
+O
+End-to-end UMTS key-card plugs into the USIM slot for key distribution and management
+
+Q
+0
+What is Internet Key Exchange (IKE)?
+O
+The security association set up protocol in the IPsec protocol suite
+O
+The key exchange subprotocol of the Transport Layer Security protocol
+O
+The key transformation protocol for the inter-operation of GSM and UMTS
+O
+The security association center in the IMS system

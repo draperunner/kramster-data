@@ -1,0 +1,940 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL1010 Medisin for ikke-medisinere
+2008 Høst
+MC
+
+Q
+2
+Når en celle genererer et aksjonspotensial, skyldes det en rask økning av Na+ -
+konsentrasjonen intracellulært. Hvilken prosess forårsaker denne effekten? / Når ein
+celle genererer eit aksjonspotensial, skyldes det vi en rask auke av Na+ -
+konsentrasjonen intracellulært. Kva for prosess forårsakar denne effekten? / When a
+cell generates an action potential, this is due to a rapid increase in intracellular Na + .
+What process causes this effect?
+O
+Osmose / Osmosis
+O
+Aktiv transport / Active transport
+O
+Facilitert diffusjon / Facilitated diffusion
+O
+Endocytose / Endocytosis
+
+Q
+1
+Når mitral- (bicuspidal-) klaffen lukkes, høres et klikk, en hjertetone. Når høres denne
+i relasjon til EKG? / Når mitral- (bicuspidal-) klaffen blir lukka, kan ein høre eit klikk,
+ein hjartetone. Når kommer denne i relasjon til EKG? / When the mitral (bicuspid)
+valve closes, there is a click, a heart sound. When can this be heard in relation to the
+ECG?
+O
+P-takken /The P-wave
+O
+Q-takken / The Q
+wave
+O
+Midt I QT-intervallet / In the middle of the QT-interval
+O
+T-takken / The T-wave
+
+Q
+0
+Omtrent hvor stor andel av vannmengden som skilles ut i glomeruli blir igjen i den
+ferdige urinen? / Omtrent kor stor del av vassmengda som blir skilt ut glomeruli blir
+igjen i den ferdige urinen? / About how large part of the water that is excreted in the
+glomeruli remains as urinein the finished product?
+O
+Ca 1%
+O
+Ca 10%
+O
+Ca 25%
+O
+Ca 50%
+
+Q
+1
+Hvordan overføres et aksjonspotensiale fra en hjertemuskelcelle til neste? / Korleis
+blir eit aksjonspotensiale overført frå ein hjertemuskelcelle til neste? / How is an
+action potential transmitted from one heart muscle cell to the next?
+O
+Ved frigjøring av kjemisk signalsubstans som trigger depolarisering i neste
+muskelcelle / By release of chemical signal substance triggering
+depolarisation in the next muscle cell
+O
+Ved direkte vandring av aksjonspotensialet fra en muskelcelle til neste / By
+direct passage of the action potential fom one muscle cell to the next
+O
+Via spesialiserte celler som danner myelinskjeder mellom muskelcellene, og
+får aksjonspotensialet til å hoppe over lengre avstander / Via spesialiserte
+celler som dannar myelinskjeder mellom muskelcellene, og får
+aksjonspotensialet til å hoppe over lengre avstander / Via specialised
+cellsforming myelin sheaths between the muscle cells, causing the action
+potential to jump over a longer distance
+O
+Ved direkte depolarisering av ordinære bindevevsceller som ligger mellom
+muskelcellene / By direct depolarisation of ordinary connective tissue lying
+between the muscle cells
+
+Q
+0
+Hvordan ernæres kompakt beinvev? Korleis ernærast kompakt beinvev? / How is the
+compact bone supported with nutrients?
+O
+Fra blodårer i sentralkanalene i beinvevet / Frå blodårar i sentralkanalene i
+beinvevet / From blood vessels in the central canals of the bone tissu
+O
+Ved diffusjon fra periost / By diffusion from the periosteum
+O
+Ved diffusjon fra beinmargen / By diffusion from the medullary cavity
+O
+Ved aktiv transport fra celle til celle gjennom osteocyttutløperne / By active
+transport from cell to cell via the osteocyte processes.
+
+Q
+3
+Krebs syklus er en biokjemisk kjedereaksjon som er grunnlaget for det meste av
+energiproduksjonen. Hvor i cellen foregår denne prosessen? / Krebs syklus er en
+biokjemisk kjedereaksjon som er grunnlaget for det meiste av energiproduksjonen.
+Kor i cellen går denne prosessen føre seg? / Krebs’ cycle is a biochemical process
+that is the basis for most of the energy production. Where in the cell does this process
+take place?
+O
+Cytoplasma / The cytoplasm
+O
+Glatt endoplasmatisk reticulum / Smooth endoplasmatic reticulum
+O
+Golgi apparatet / The Golgi apparatus
+O
+Mitokondriene / The mitochondria
+
+Q
+1
+Intravenøst narkotikamisbruk med bruk av urene sprøyter kan føre til at en kan
+injisere bakterier intravenøst. Disse kan slå seg ned i indre organer og gi infeksjon. Ut
+fra kunnskap om sirkulasjonen, hvilket organ er det mest sannsynlige målorgan for en
+slik infeksjon? / Intravenøst narkotikamisbruk med bruk av urene sprøyter kan føre til
+at en kan injisere bakteriar intravenøst. Disse kan slå seg ned i indre organ og gje
+infeksjon. Ut frå kunnskap om sirkulasjonen, kva for organ er det mest sannsynlege
+målorgan for ein slik infeksjon? / Intravenous drug abuse with polluted syringes can
+result in intravenous injection of bacteria. The bacteria can settle in internal organs
+and result in infection. From a knowledge of the circulation, which organ is the most
+likely target organ for such an infection?
+O
+Lever / Liver
+O
+Lunge / Lung
+O
+Nyre / Kidney
+O
+Hjerne / Brain
+
+Q
+0
+Hvor produseres antidiuretisk hormon? / Kor blir antidiuretisk hormon produsert /
+Where is antidiuretic hormone produced?
+O
+Hypofysen / The pituitary
+O
+Parathyroidea / The Parathyroid
+O
+Thyroidea / The thyroid
+O
+Binyrene / The adrenal glands
+
+Q
+3
+Hvordan transporteres det meste av karbondioksydet fra periferien til lungene? /
+Korleis blir det meste av karbondioksydet transportert frå periferien til lungene? /
+How is the main part of the carbon dioxide transported from the periphery to the
+lungs?
+O
+Som fysikalsk oppløst gass / As physically dissolved gas
+O
+Bundet til albumin / Bound to albumin
+O
+Bundet til hemoglobin / Bound to hemoglobin
+O
+Som bikarbonat / As bicarbonate
+
+Q
+1
+Ved diabetes kan det finnes glukose i urinen som tegn på at blodsukkeret er økt. Hva
+er mekanismen for dette? / Ved diabetes kan det finnast glukose i urinen som teikn på
+at blodsukkeret er auka. Kva er mekanismen for dette? / In diabetes is glucose found
+in the urine as a sign of elevated blood sugar. What is the mechanism for this?
+O
+Glukose filtreres normalt ikke ut i urinen, kun ved økt blodsukker / Glukose
+filtrerast normalt ikkje ut i urinen, berre ved auka blodsukker / Glucose is
+normally not filtrated in the urine,only in elevated blood sugar.
+O
+Ved økt blodsukker overstiger urinkonsentrasjonen av glukose evnen til
+reabsorbsjon / Ved auka blodsukker overstig urinkonsentrasjonen av glukose
+evna til reabsorbsjon / In elevated blood sugar, the renal capacity for
+reabsorption is exceeded by the urine concentration of glucose
+O
+Ved økt blodsukker transporteres glukose aktivt ut i urinen / Ved auka
+blodsukker transporterast glukose aktivt ut i urinen / In elevated blood sugar
+the excess amount of sugar is actively secreted in the urine
+O
+Ved økt blodsukker blir epitelet i urinveiene permeabelt for glucose / Ved
+auka blodsukker blir epitelet i urinveiene permeabelt for glukose / In elevated
+blood sugar the epithelium becomes permeable for glucose
+
+Q
+2
+Deler av synsnerven krysser (skifter over til motsatt side) i synsnervekrysningen.
+Denne ligger nær hypofysen. En svulst i hypofysen kan trykke på
+synsnervekrysningen. Da er de fibrene som krysser over til motsatt side mest utsatt for
+skade. Hva slags synsfeltutfall vil i så fall dette gi? / Deler av synsnerven kryssar
+(skifter over til motsatt side) i synsnervekrysningen. Denne ligger nær hypofysen. En
+svulst i hypofysen kan trykke på chiasma. Da er de fibrane som kryssar over til
+motsatt side mest utsett for skade. Kva slag synsfeltutfall vil i så fall dette gje? / Parts
+of the optic nerve cross over to the opposite side in the optic chiasm. A tumour in the
+hypophysis may press on the chiasm. In that case, the fibres that are crossing over,
+are most vulnerable to damage. What kind of visual defect will this give?
+O
+Tap av synsfeltet på høyre side / Tap av synsfeltet på høgre side / Loss of right
+visiual field
+O
+Tap av synsfeltet på venstre side / Tap av synsfeltet på venstre side / Loss of
+left visiual field
+O
+Tap av temporalt (ytre) synsfelt på begge sider / Loss of temporal (outer)
+visual field on both eyes
+O
+Tap av nasalt (indre) synsfelt på begge sider / Loss of nasal (inner) visual field
+on both eyes
+
+Q
+3
+Hvor sitter insulinreceptorene? / Kor sit insulinreceptorane? / Where are the insulin
+receptors situated?
+O
+Cellekjernen / The cell nucleus
+O
+Cytoplasma / The cytoplasm
+O
+Mitochondriene / The mitochondria
+O
+Cellemembranen / The cell membrane
+
+Q
+1
+Hva slags muskelkontraksjon brukes når en løfter en gjenstand opp fra gulvet? / Kva
+slag muskelkontraksjon blir brukt når ein løfter ein gjenstand opp frå golvet? / What
+kind of muscle contraction is used when an object is lifted from the floor?
+O
+Isometrisk / Isometric
+O
+Konsentrisk / Concentric
+O
+Eksentrisk / Eccentric
+O
+Antagonistisk / Antagonistic
+
+Q
+0
+Hva betyr leukocytose? / Kva tydar leukocytose? / What is leucocytosis?
+O
+Høyt antall hvite blodceller / Høgt antall kvite blodceller / High number of
+white blood cells
+O
+Lavt antall blodplater / Lågt antall blodplatar / Low number of platelets
+O
+Kvalme / Nausea
+O
+Tap av myelin rundt axonet / Tap av myelin omkring axonet / Loss of myelin
+around the axon
+
+Q
+1
+Hva er leddflatene i hofteleddet kledd med? / Kva er leddflatene i hofteleddet kledd
+med? / What are the articular surfaces in the hip joint covered with?
+O
+Synovialhinne / synovial membrane
+O
+Brusk / Cartilage
+O
+Kompakt bein / Compact bone
+O
+Flerlaget plateepitel / Squamus epithelium
+
+Q
+0
+Anaerob respirasjon bryter ned glukose til melkesyre, og danner en liten mengde
+ATP. Hvor i cellen foregår denne prosessen? / Anaerob respirasjon bryter ned
+glukose til mjølkesyre, og dannar ein liten mengde ATP. Kor i cellen går denne
+prosessen føre seg? / Anaerobic respiration is a process where glucose is metabolised
+to lactic acid, producing a small amount of ATP. Where in the cell does this process
+take place?
+O
+Cytoplasma / The cytoplasm
+O
+Glatt endoplasmatisk reticulum / Smooth endoplasmatic reticulum
+O
+Golgi apparatet / The Golgi apparatus
+O
+Mitokondriene / The mitochondria
+
+Q
+2
+Tykktarmskreft er en vanlig kreftform som vanligst sprer seg med blodbanen. Hvor
+vil da dattersvulstene (metastasene) da vanligvis dukke opp først? / Tjukktarmskreft
+er en vanlig kreftform som vanlegast spreier seg med blodbanen. Kor vil då
+dottersvulstane (metastasene) da vanlegvis dukke opp først? / Cancer of the colon is a
+common type of cancer that usually spreads with the blood. Where will the daughter
+tumours (metastases)usually occur?
+O
+Hjernen / The brain
+O
+Lungene / The lungs
+O
+Levra / The liver
+O
+Milten / The spleen
+
+Q
+2
+Ved nyresvikt får en lavere nivå av aktivt vitamin D. Hvordan vil dette virke på
+calcium og PTH-nivået i blod? / Ved nyresvikt får ein lågare nivå av aktivt vitamin
+D. Korleis vil dette virke på calcium og PTH-nivået i blod? / In renal failure will
+there be lower levels of active vitamin D. How will that influence the levels of calcium
+and PTH?
+O
+Ca 2+ ↑ / PTH↑
+O
+Ca 2+ ↑ / PTH↓
+O
+Ca 2+ ↓ / PTH↑
+O
+Ca 2+ ↓ / PTH↓
+
+Q
+3
+Hvilken påstand er korrekt? / Kva for påstand er korrekt? / What statement is correct?
+O
+Translasjon beskriver produksjon av DNA fra RNA / Translasjon beskriv
+produksjon av DNA frå RNA / Translation describes production of DNA from
+RNA
+O
+Translasjon beskriver produksjon av RNA fra DNA / Translasjon beskriv
+produksjon av RNA fra DNA / Translation describes production of RNA from
+DNA
+O
+Transkripsjon beskriver produksjon av DNA fra RNA / Transkripsjon beskriv
+produksjon av DNA frå RNA / Trancription describes production of DNA
+from RNA
+O
+Transkripsjon beskriver produksjon av RNA fra DNA / Transkripsjon beskriv
+produksjon av RNA frå DNA / Trancription describes production of RNA
+from DNA
+
+Q
+2
+Hvor er sanseorganet for hodets posisjon i rommet lokalisert? / Kor er sanseorganet
+for hodets statiske posisjon i rommet lokalisert? / Where are the sense organ for the
+static position of the head in space located?
+O
+Sneglehuset / The cochlea
+O
+Buegangene / The semicircular canals
+O
+Vestibylen / The vestibulum
+O
+Cochlearnerven / The cochlear nerve
+
+Q
+1
+Hva består cytoskjelettet av? / Kva består cytoskjelettet av? / What does the
+cytoskeleton consist of?
+O
+Fosfolipider / Phospholipids
+O
+Aminosyrer / Amino acids
+O
+Glykogen / Glycogen
+O
+Kolesterol / Cholesterol
+
+Q
+3
+Hvilken av disse funksjonene foregår i tykktarmen? / Kva for av disse funksjonene
+går føre seg i tjukktarmen/ Which of these functions takes place in the colon (large
+intestine)?
+O
+Absorbsjon av aminosyrer / Absorbtion of amino acids
+O
+Absorbsjon av karbohydrater / Absorbtion of carbohydrates
+O
+Absorbsjon av lipider / Absorbtion of lipids
+O
+Absorbsjon av vann / Absorbtion of water
+
+Q
+0
+I 2500 meters høyde er partialtrykket av oksygen omtrent redusert med 25%. Over
+denne høyden synker oksygenmetningen i blodet, slik at respirasjonen også blir
+påvirket av oksygentrykket. Hva skjer med blodets pH? / I 2500 meters høgde er
+partialtrykket av oksygen omtrent redusert med 25%. Over denne høgda synk
+oksygenmetningen i blodet, slik at respirasjonen også blir påverka av oksygentrykket.
+Kva skjer med blodets pH? / At an altitude of 2500 metres the partial pressure of
+oxygen is reduced by about 25%. Over this altitude the oxygen saturation of the blood
+is reduced, so the respiration will also be affected by the oxygen pressure. What
+happens to the pH of the blood?
+O
+pH stiger fordi vi lufter ut mer CO 2 / pH stiger fordi vi lufter ut meir CO 2 / pH
+increases because we eliminate more CO 2
+O
+pH synker fordi vi lufter ut mer CO 2 / pH synker fordi vi lufter ut meir CO 2 /
+pH decreases because we eliminate more CO 2
+O
+pH stiger fordi vi lufter ut mindre CO 2 / pH increases because we eliminate
+less CO 2
+O
+pH synker fordi vi lufter ut mindre CO 2 / pH decreases because we eliminate
+less CO 2
+
+Q
+0
+Hva kjennetegner best sykdommen KOLS? / Kva kjenneteikne best sykdommen
+KOLS / What best describes the disease COPD best?
+O
+Kronisk betennelse i bronkiolene / Chronic inflammation of the bronchioles
+O
+Kronisk redusert oksygenmetning / Kronisk reduksjon av oksygenmetninga /
+Chronic decrease in oxygen saturation
+O
+Redusert hemoglobinnivå pga hypoksi / Reduksjon av hemoglobinnivået
+grunna hypoksi / Reduced haemoglobin level due to hypoxia
+O
+Kronisk betennelse i trachea / Chronic inflammation of the trachea
+
+Q
+2
+Hemolytisk sykdom hos et foster eller nyfødt skyldes rhesus blodtypesystemet.
+Hvilken kombinasjon av rhesusblodtyper må foreligge for at denne tilstanden skal
+oppstå? / Hemolytisk sjukdom hos et foster eller nyfødt skyldes rhesus
+blodtypesystemet. Kva for ein kombinasjon av rhesusblodtyper må vere til stades for
+at denne tilstanden skal oppstå? /Haemolytic disease of the newborn is due to the
+rhesus blood type system. Which combination of blood types has to exist to induce this
+disease?
+O
+Både mor og barn er rhesus negative / Both mother and child are rhesus
+negative
+O
+Mor er rhesus positiv, barnet rhesus negativt / Mother is rhesus positive, child
+is rhesus negative
+O
+Mor er rhesus negativ, barnet rhesus positivt / Mother is rhesus negative, child
+is rhesus positive
+O
+Både mor og barn er rhesus positive / Both mother and child are rhesus
+positive
+
+Q
+1
+Sekretoriske vesikler er en vanlig metode for en celle til å skille ut aktive substanser.
+Hvilken organelle danner sekretoriske vesikler? / Sekretoriske vesiklar er en vanlig
+metode for en celle til å skilje ut aktive substansar. Kva for organelle dannar
+sekretoriske vesiklar? / Secretory vesicles is a common method for a cell to excrete
+active substances. Which organelle produces secretory vesicles?
+O
+Cellekjernen / The cell nucleus
+O
+Golgi apparatet / The Golgi apparatus
+O
+Kornet endoplasmatisk retikulum / Rough endoplasmatic reticulum
+O
+Mitokondriene / The mitochondria
+
+Q
+2
+Allerede lukten og smaken av mat kan stimulere deler av magesekken til å produsere
+gastrin. Hva er hovedeffekten av gastrin? / Allereie lukta og smaken av mat kan
+stimulere deler av magesekken til å produsere gastrin. Kva er hovudeffekten av
+gastrin? / Already the smell and taste of food can stimulate parts of the stomach to
+secrete gastrin. What is the function of gastrin?
+O
+Bryter ned protein / Bryt ned protein / Breaks down protein
+O
+Bryter ned karbohydrat / Bryt ned karbohydrat / Breaks down carbohydrates
+O
+Stimulerer produksjonen av saltsyre / Stimulates the production of
+hydrochloric acid
+O
+Stimulerer produksjonen av pancreasenzym / Stimulates the production of
+pancreatic enzymes
+
+Q
+3
+Hvor sitter hovedsenteret for autonom kontroll av respirasjonen? / Kor sitter senteret
+for autonom kontroll av respirasjonen / Kor sitter hovudsenteret for autonom kontroll
+av respirasjonen? / Where is the centre for autonomous control of the respiration
+located?
+O
+Hjernebarken / The cerebral cortex
+O
+Thalamus
+O
+Hypothalamus
+O
+Den forlengede marg / medulla oblongata
+
+Q
+0
+Vi har flere typer muskelvev. Hvor finnes glatt muskelvev? / Vi har fleire typar
+muskelvev. Kor finns glatt muskelvev? / There are several types of muscle tissue?
+Where is smooth muscle located?
+O
+Konstriktiv muskulatur i hulorganer / Constrictive muscle in hollow organs
+O
+I hjertet / I hjartet / In the heart
+O
+I ansiktsmuskulatur / I ansiktet sin muskulatur / In facial muscles
+O
+I respirasjonsmusklene / In the respiratory muscles
+
+Q
+0
+Hvilke tre av disse funksjonene foregår alle i levra? / Kva for tre av disse funksjonane
+skjer alle i levra? / Which of these three functions are all functions f the liver?
+O
+Lagring av karbohydrat, utskillelse av galle, syntese av plasmaproteiner /
+Lagring av karbohydrat, utskilling av galle, syntese av plasmaprotein / Storage
+of carbohydrates, secretion of bile, plasma protein synthesis
+O
+Utskillelse av galle, syntese av plasmaproteiner, produksjon av insulin /
+Utskilleling av galle, syntese av plasmaprotein, produksjon av insulin /
+Secretion of bile, plasma protein synthesis, insulin production
+O
+Lagring av karbohydrat, syntese av plasmaproteiner, produksjon av
+hemoglobin / Lagring av karbohydrat, syntese av plasmaprotein, produksjon
+av hemoglobin / Storage of carbohydrates, plasma protein synthesis,
+hemoglobin production
+O
+Utskillelse av galle, lagring av karbohydrat, produksjon av hemoglobin /
+Utskilling av galle, lagring av karbohydrat, produksjon av hemoglobin /
+Secretion of bile, storage of carbohydrates, hemoglobin production.
+
+Q
+3
+Høyt progesteron og østrogen er nødvendig for normal livmorfunksjon i
+svangerskapet. Hvordan opprettholdes dette i siste trimester? / Høgt progesteron og
+østrogen er nødvendig for normal livmorfunksjon i svangerskapet. Korleis blir dette
+oppretthaldt i siste trimester? / High progesterone and estrogen levels are necessary
+to normal uterine function during pregnancy. How is this maintained during the last
+trimester?
+O
+Placenta stimulerer hypothalamus til å produsere høye nivåer av gonadotropin
+releasing hormone (GnRH) / Placenta stimulerer hypothalamus til å produsere
+høge nivå av gonadotropin releasing hormone (GnRH) / Placenta stimulates
+the hypothalamus to produce high levels of gonadotropin releasing hormone
+(GnRH)
+O
+Placenta stimulerer hypofysen til å produsere høye nivåer av FSH og LH /
+Placenta stimulerar hypofysen til å produsere høge nivå av FSH og LH / The
+Placenta stimulates the hypophysis to secrete high levels of FSH and LH
+O
+Placenta stimulerer ovariene til fortsatt produksjon av østrogen og progesteron
+/ Placenta stimulerer ovaria til fortsett produksjon av østrogen og progesteron /
+The placenta stimulates the ovaries to continued production of estrogen and
+progesterone
+O
+Placenta produserer selv østrogen og progesteron / Placenta produserer sjølv
+østrogen og progesteron / The placenta produces progesterone and estrogen
+itself
+
+Q
+0
+Hva er en av hovedvirkningene av gallesalt i tynntarmen? / Kva er ein av
+hovudverknadene av gallesalt i tynntarmen? / What is one of the main effects of bile
+salts in the small intestine?
+O
+Emulgerer lipid / Emulsify lipids
+O
+Løser opp polysakkarider / Dissolve polysaccharides
+O
+Bryter ned protein til peptider / Break down proteins to peptides
+O
+Nøytraliserer bikarbonat fra pancreas / Neutralise bicarbonate from the
+pancreas.
+
+Q
+2
+Hvilket av disse proteinene deltar i koagulasjonen? / Kva for eit av disse proteina
+deltek i koagulasjonen? / Which of these proteins takes part in the coagulation?
+O
+Albumin
+O
+Gammaglobulin / Gamma globulines
+O
+Trombin / Thrombin
+O
+Hemoglobin / Haemoglobin
+
+Q
+1
+Hva beskriver best aktiv transport over en cellemembran? / Kva beskriv best aktiv
+transport over ein cellemembran? / What describes best active transport over a cell
+membrane?
+O
+Danner ATP / Dannar ATP / Creates ATP
+O
+Forbruker ATP / Forbrukar ATP / Consumes ATP
+O
+Transport fra høy til lav konsentrasjon / Transport frå høg til låg konsentrasjon
+/ Transport from high to low concentration
+O
+Transport fra Golgiapparatet / Transport frå Golgiapparatet / Transport from
+the Golgi apparatus
+
+Q
+2
+Hva skjer når linsen stivner ved normal aldring? / Kva skjer når linsen stivner ved
+normal aldring? / What happens when the lens looses its flexibility in normal ageing?
+O
+Den slipper gjennom mindre lys / It allows less light to pass
+O
+Trykket i øyet øker / Trykket i auet aukar / The pressure in the eye increases
+O
+Øyet mister evnen til å fokusere på nært hold / Auget mister evnen til å
+fokusere på nært hald / The eye looses the ability to focus in close vision
+O
+Øyet vil fokusere lenger bak netthinnen. / Auget vil fokusere lenger bak
+netthinna / The eye will focus further behind the retina
+
+Q
+0
+Diabetes type 2 er en sykdom der den perifere sensitiviteten for insulin er redusert, og
+den gir dermed forhøyd blodsukker. Hva skjer med insulinnivået ved blodet ved ved
+starten av en typisk type 2 diabetes? / Diabetes type 2 er en sjukdom der den perifere
+sensitiviteten for insulin er redusert, og den gir dermed forhøgd blodsukker. Kva skjer
+med insulinnivået ved blodet ved starten av ein typisk type 2 diabetes? / Diabetes type
+2 is a disease where the peripheral sensitivity of insulin is decreased, leading to
+elevated blood sugar. What happens to the level of insulin in the blood at the start of a
+typical type 2 diabetes?
+O
+Øker / Auker / Increases
+O
+Uendret / Uendra / Unchanged
+O
+Avtar / Avtek / Decreases
+O
+Uforutsigbart / Unpredictable
+
+Q
+2
+Preurin produseres i glomeruli. Hvilken prosess foregår i glomeruli? / Preurin blir
+produsert i glomeruli. Kva for prosess foregår i glomeruli? / Pre urine is produced in
+the glomeruli. What process takes place in the glomeruli?
+O
+Podocyttene transporterer vann aktivt ut i Bowman’s kapsel / Podocyttane
+transporterer vatn aktivt ut i Bowman’s kapsel / Active water transport to
+Bowmans capsule by the podocytes
+O
+Passiv diffusjon av vann fordi Na + konsentrasjonen i Bowman’s kapsel er
+høyere enn i kapillærene / Passiv diffusjon av vann fordi Na + konsentrasjonen
+i Bowman’s kapsel er høgare enn i kapillæra / Passive diffusion of water
+because the concentration of Na + is higher in Bowman’s capsule than in the
+capillaries
+O
+Filtrasjon fordi det hydrostatiske trykket i kapillærene er større enn det
+kolloidosmotiske trykket / Filtrasjon fordi det hydrostatiske trykket i
+kapillæra er større enn det kolloidosmotiske trykket / Filtration because the
+hydrostatic pressure in the capillaries (capillary pressure) is greater than the
+osmotic pressure
+O
+Filtrasjon fordi det kolloidosmotiske trykket i kapillærene er større enn det
+hydrostatiske trykket / Filtrasjon fordi det kolloidosmotiske trykket i
+kapillæra er større enn det hydrostatiske trykket / Filtration because the
+osmotic pressure is greater than the hydrostatic pressure in the capillaries
+(capillary pressure)
+
+Q
+0
+Hva er de viktigste sekretene for nedbryting av karbohydrat i tarmen? / Kva er de
+viktigaste sekreta for nedbryting av karbohydrat i tarmen? / What are the most
+important seretions for digestion of carbohydrate in the intestine?
+O
+Amylase og disakkaridase / Amylase and disaccharidase
+O
+Trypsin og amylase / Trypsin and amylase
+O
+Pepsin og lipase / Pepsin and lipase
+O
+Disakkaridase og insulin / Disaccharidases and insulin
+
+Q
+3
+HIV infeksjon reduserer immuniteten fordi den angriper og ødelegger en viss type
+hvite blodlegemer. Hvilken gruppe hører de cellene til? / HIV infeksjon reduserer
+immuniteten fordi den angriper og øydelegg en viss type kvite blodlekam. Kva for
+gruppe høyrer dei cellene til? / HIV infection reduces immunity because it attacks and
+destroys a certain type white blood cells. Which group do those cells belong to?
+O
+Neutrofile granulocytter / Neutrophils
+O
+Makrofager / Macrophages
+O
+B-lymfocytter / B-lymphocytes
+O
+T-lymfocytter / T-lymphocytes
+
+Q
+2
+Normal koagulasjon er avhengig av interaksjon mellom et vitamin og et ion. Hvilket
+vitamin og ion? / Normal koagulasjon er avhengig av interaksjon mellom et vitamin
+og et ion. Kva for vitamin og ion? / Normal coagulation is dependent on the
+interaction between an ion and a vitamin. Which vitamin and which ion?
+O
+Vitamin C – Na +
+O
+Vitamin D – K +
+O
+Vitamin K – Ca 2+
+O
+Vitamin E – Mg 2+
+
+Q
+1
+Kondisjonstrening øker det maksimale oksygenopptaket under arbeid. Hva er det først
+og fremst som trenes hos friske? / Kondisjonstrening aukar det maksimale
+oksygenopptaket under arbeid. Kva er det først og fremst som blir trent hos friske? /
+Endurance training increases tha maximal oxygen uptake during exercise. What is
+primarily the factor that is trained in healthy individuals?
+O
+Lungenes maksimale oksygenopptakskapasitet / Maximal pulmonary oxygen
+uptake capacity
+O
+Hjertets maksimale minuttvolum / Maximal cardiac output
+O
+Blodets maksimale oksygentransportevne / Maximal oxygen transport
+capacity of the blood
+O
+Maksimal utholdende muskelstyrke / Maximal muscle endurance strength
+
+Q
+0
+Når vi sender en ultralydstråle mot et objekt i kroppen, vil lydfrekvensen på det
+reflekterte ekkoet kunne endre seg. Hva er det som avgjør denne frekvensendringen? /
+Når vi sender en ultralydstråle mot et objekt i kroppen, vil lydfrekvensen på det
+reflekterte ekkoet kunne endre seg. Kva er det som avgjør denne frekvensendringa? /
+When we send an ultrasound beam towards an object in the body, the frequency of
+reflected ultrasound may change. What determines this frequency shift?
+O
+Hastigheten til objektet / The velocity of the object
+O
+Avstanden fra proben til objektet / The distance from the probe to the object
+O
+Tettheten til objektet / The density of the object
+O
+Størrelsen til objektet / The size of the object
+
+Q
+2
+Hva er et onkogen? / Kva er et onkogen? / What is an oncogene?
+O
+Et gen som reparerer DNA og fjerner mutasjoner / Eit gen som reparerer DNA
+og fjernar mutasjonar / A gene that repairs DNA and removes mutations
+O
+Et gen som er vekstregulerende og som kan gi celledød / Eit gen som er
+vekstregulerande og som kan gi celledød / A growth regulating gene that can
+induce cell death.
+O
+Et vekstregulerende gen som er mutert / Eit vekstregulerande gen som er
+mutert / A growth regulating gene that is mutated
+O
+Et gen som gir evne til angiogenese / Eit gen som gir evne til angiogenese / A
+gene that gives the ability of inducing angiogenesis
+
+Q
+2
+Antistoff-mediert immunitet er en viktig del av immunforsvaret. Hvor produseres
+antistoff? / Antistoff-mediert immunitet er ein viktig del av immunforsvaret. Kor vert
+antistoff produsert? / Antibody-mediated immunity is an important part of the immune
+defence. Where is antibody produced?
+O
+I neutrofile granulocytter / In the neutrophils
+O
+I T-lymfocytter / In T-lymphocytes
+O
+I B-lymfocytter / In B-lymphocytes
+O
+I makrofager / In macrophages
+
+Q
+2
+Hvor mange kromosomer har en normal human celle? / Kor mange kromosom har ein
+normal human celle? / How many chromosomes are there in a normal human cell?
+O
+38
+O
+42
+O
+46
+O
+50
+
+Q
+1
+Hvis et infarkt rammer sinusknuten vil hjertets rytme ikke lenger styres av den
+normale pacemakeren. Hvilken del av ledningssystemet vil da som regel ta over? /
+Dersom eit infarkt rammer sinusknuten vil hjertets rytme ikkje lengre bli styrt av den
+normale pacemakeren. Kva for del av leidningssystemet vil da som regel ta over? / If
+the sinus node is infarcted, the rythm of the heart will no longer be regulated by the
+normal pacemaker. What part of the conduction system will take over? H08
+O
+Andre deler av atriemuskelfibrene / Other parts of the atrial muscle fibres
+O
+AV – knuten / The AV node
+O
+AV – bunten (His’ bunt) / The AV bundle ( bundle of His)
+O
+Purkinjefibrene / The Purkinje fibres
+
+Q
+0
+En blodåre har en innsnevring i et kort område. Hva skjer med blodstrømmen i denne
+innsnevringen? / Ein blodåre har ei innsnevring i et kort område. Kva skjer med
+blodstraumen i denne innsnevringa? / A blood vessel has a narrowing in a short
+segment. What happens to the blood flow in this narrow segment?
+O
+Blodstrømshastigheten øker / Blodstraumshastigheten auker / The blood
+velocity increases
+O
+Blodstrømshastigheten avtar / Blodstraumshastigheten avtek / The blood
+velocity decreases
+O
+Blodstrømsmengden (flow) øker / Blodstraumsmengda (flow) auker / The
+blood flow increases
+O
+Trykket øker / Trykket auker / The pressure increases
+
+Q
+1
+Hva heter den innerste, tynneste av hjernehinnene? / Kva heter den innerste,
+tynnaste av hjernehinnene? / What is the name of the innermost, thinnest of the
+meninges (brain membranes)?
+O
+Dura mater
+O
+Pia mater
+O
+Arachnoidea
+O
+Hjernebarken / The cerebral cortex
+
+Q
+3
+Kjemoreceptorer er viktige i regulering av respirasjonen. Hvor sitter de? /
+Kjemoreceptorer er viktige i reguleringa av respirasjonen. Kor sitt dei? /
+Chemoreceptors are essential in regulation of respiration. Where are they localized?
+O
+I hjernebarken trachea og hypothalamus/ In the cerebral cortex, trachea and
+hypothalamus
+O
+I hjernestammen, lungene og musklene / In the brainstem, the lungs and the
+muscles
+O
+I musklene, trachea og lungene / In the muscles, trachea and lungs
+O
+I aorta, karotider og hjernestamme / In the aorta, carotids and brainstem
+
+Q
+0
+I ABO blodtypesystemet forekommer naturlige antistoffer i plasma. Hvilken blodtype
+har både anti A og anti B antistoff? / I ABO blodtypesystemet forekjem naturlege
+antistoff i plasma. Kva for blodtype har både anti A og anti B antistoff? / In the ABO
+blood group system, there are naturally occurring antibodies in the plasma. Which
+blood group has both anti A and anti B antibodies?
+O
+Type O
+O
+Type A
+O
+Type B
+O
+Type AB
+
+Q
+1
+En pasient har en svulst I dominante hjernehemisfære. Før operasjonen vil kirurgen
+kartlegge hvor nær svulsten sitter til taleområdet, for å se om det er risiko for å skade
+talefunksjonen. Hvilken metode kan hun bruke da? / En pasient har en svulst I
+dominante hjernehemisfære. Før operasjonen vil kirurgen kartlegge kor nær svulsten
+sitter til taleområdet, for å se om det er risiko for å skade talefunksjonen. Kva for
+metode kan hun bruke da? / A patient has a tumour in the dominant brain hemisphere.
+Before the operation the surgeon wants to see how close the tumour is to the speech
+centre, to see if there is a risk that the operation will harm the speech function. Which
+method can she use?
+O
+Anatomisk MRI / Anatomical MRI
+O
+Funksjonell MRI / Functional MRI
+O
+MR spektroskopi / MR spectroscope
+O
+Molecular imaging
+
+Q
+0
+Hva er sant om odds ratio (OR) / Kva er sant om Odds ratio / What is true about odds
+ratio?
+O
+OR uttrykker grad av sannsynlighet for eksponering / OR expresses
+probability of exposure
+O
+OR=1 er uforenlig med lik eksponering blant syke og kontroller / OR=1 is
+incompatible with equal exposure among patients and controls
+O
+OR>1 tilsvarer økende grad av beskyttelse av eksponeringen / OR>1
+corresponds to an increasing degree of protection during exposure
+O
+OR er et direkte mål på relativ risiko / OR is a direct measure of relative risk
+
+Q
+2
+Hvordan er hormonforstyrrelsene ved hypothyreose? / Korleis er hormon
+forstyrringene ved hypothyreose? / How are the hormonal changes in
+hypothyroidism?
+O
+Thyroxin↑, TSH↑
+O
+Thyroxin↑, TSH↓
+O
+Thyroxin↓, TSH↑
+O
+Thyroxin↓, TSH↓
+
+Q
+2
+Bildet viser et opptak av et hjerte der en enkelt ultralydstråle er brukt til å ta opp ekko
+som skrives ut langs en tidsakse, slik at vi får et diagram av bevegelsen til strukturer i
+hjertet. Hva kalles denne ultralydmodaliteten? / Bildet viser eit opptak av eit hjerte der
+ein enkelt ultralydstråle er brukt til å ta opp ekko som skrives ut langs en tidsakse, slik
+at vi får eit diagram av bevegelsen til strukturer i hjertet. Kva blir denne
+ultralydmodaliteten kalla? / The picture shows an ultrasound recording from a heart
+where a single ultrasound beam is used to record an echo that is printed along a time
+axis, giving a diagrom of the motion of structures in the heart. What is this ultrasound
+modality called?
+O
+A-mode
+O
+B-mode
+O
+M-mode
+O
+Doppler mode
+
+Q
+0
+Plateepitel finnes blant annet i... / Squamous epithelium is among others located in...
+O
+Hud / Skin
+O
+Levra / The liver
+O
+Sentralnervesystemet / Central nervous system
+O
+Blodet / The blood

@@ -1,0 +1,53 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4100 Communication Services and Networks
+2015 Spring
+A protocol defines the format and the order of messages exchanged between two communicating entities. §§ 0 §§ True §§ False
+Packets are transmitted over each communication link at a rate lower than the full transmission rate of the link. §§ 1 §§ True §§ False
+In circuit-switched networks, the resources needed along a path to provide for communication between the end systems are reserved for the duration of the communication session between the end systems. §§ 0 §§ True §§ False
+The propagation delay has nothing to do with the distance between routers. §§ 1 §§ True §§ False
+Store-and-forward transmission means that the switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link. §§ 0 §§ True §§ False
+At each layer, a packet has typically two components: header fields and a payload, where the payload is from the layer up. §§ 0 §§ True §§ False
+Bit errors are more common in wireless links than in wired links. §§ 0 §§ True §§ False
+For a given modulation scheme, the higher the SNR (signal-to-noise ratio), the lower the BER (bit error rate). §§ 0 §§ True §§ False
+HTTP streaming is more widely used than UDP streaming by today's Internet video streaming applications. §§ 0 §§ True §§ False
+Consider a server (S) and a client (C) connected through a router (R) by two communication links: S – R – C. Let r1 denote the rate of the link between the server and the router, and r2 the rate of the link between the router and the client. Then, the server-to-client throughput is (r1+r2). §§ 1 §§ True §§ False
+Web caching can reduce the delay in receiving a requested object of a webpage. §§ 0 §§ True §§ False
+There is no difference between network architecture and network application architecture. §§ 1 §§ True §§ False
+SMTP decides how a Web page is interpreted by a Web browser. §§ 1 §§ True §§ False
+HTTP and FTP run on top of UDP rather than TCP. §§ 1 §§ True §§ False
+A HTTP web server uses persistent connections. The server spawns a separate process for each client that connects to the server. Each of these processes will have different server port numbers. §§ 1 §§ True §§ False
+A company can have the same aliased name for its mail server and for its Web server. §§ 0 §§ True §§ False
+In BitTorrent, if Alice provides chunks to Bob throughout a certain interval, Bob will necessarily return the favor and provide chunks to Alice in this same interval. §§ 1 §§ True §§ False
+In designing a distributed hash table (DHT), there is trade-off between the number of neighbors each peer has to track and the number of messages that the DHT needs to send to resolve a single query. §§ 0 §§ True §§ False
+File distribution using P2P architecture. Upload rate: server is 10Mbps and each client 2 Mbps. Download rate: each client is 10Mbps. There are 100 clients and the file is 12,5Mbytes. The minimum distribution time is about 50 seconds. §§ 0 §§ True §§ False
+In a typical client-server application, the client program must be executed before the server program. §§ 1 §§ True §§ False
+A transport-layer protocol can provide reliable data transfer only when the underlying network layer also provides reliable service. §§ 1 §§ True §§ False
+Suppose Host A sends one TCP segment with sequence number 38 and 4 bytes of data over a TCP connection to Host B. In this same segment, the acknowledgement number is necessarily 41. §§ 1 §§ True §§ False
+In Go-back-N, the sender is not allowed to transmit packets without waiting for an acknowledgement from the receiver. §§ 1 §§ True §§ False
+A TCP sender window can only contain already acknowledged data. §§ 1 §§ True §§ False
+When TCP is used, the TCP port number of the destination must be the same as the TCP port number of the source. §§ 1 §§ True §§ False
+The size of the TCP announced receive window "rwnd" never changes throughout the duration of the connection. §§ 1 §§ True §§ False
+Suppose Host A is sending Host B a large file over a TCP connection. If the sequence number for a segment of this connection is 100, then the sequence number for the subsequent segment will necessarily be 101. §§ 1 §§ True §§ False
+The TCP segment has a field in its header for "rwnd". This field limits throughput performance over a high-speed network. §§ 0 §§ True §§ False
+Suppose Host A is sending a large file to Host B over a TCP connection. The number of unacknowledged bytes that A sends cannot exceed the size of the receiver buffer. §§ 0 §§ True §§ False
+TCP and UDP have different header size. §§ 0 §§ True §§ False
+The IP address 192.32.216.5 in binary notation is: 11000000 00100000 11011000 00000101 §§ 0 §§ True §§ False
+A subnet, which has a CIDR address of the form a.b.c.d/26, can accommodate about 128 hosts. §§ 1 §§ True §§ False
+Virtual circuit is connection-oriented. §§ 0 §§ True §§ False
+Switching in a router forwards data from an input port to an output port. §§ 0 §§ True §§ False
+HOL (head-of-the-line) blocking is a challenge more for input queued switches than for output queued switches. §§ 0 §§ True §§ False
+Normally, routers only look at the network part and not the host part of the IP address. §§ 0 §§ True §§ False
+With DHCP, a host may be assigned an IP address that is different each time the host is connected to the network. §§ 0 §§ True §§ False
+ICMP (Internet control message protocol) messages are carried as IP payload. §§ 0 §§ True §§ False
+The link-state (LS) routing algorithm is a decentralized routing algorithm. §§ 1 §§ True §§ False
+The distance-vector (DV) routing algorithm is a global routing algorithm. §§ 1 §§ True §§ False
+With the two-dimensional parity check scheme, the receiver can detect a double-bit error. §§ 0 §§ True §§ False
+Because a switch isolates one link from another, the different links in the LAN can operate at different speeds. §§ 0 §§ True §§ False
+Checksum methods provide relatively stronger protection against errors as compared to cyclic redundancy check (CRC). §§ 1 §§ True §§ False
+FEC (forward error correction) techniques can increase the number of required sender retransmissions. §§ 1 §§ True §§ False
+E:. Dividing the binary value 10011000 by 1001 gives a remainder of 100. §§ 1 §§ True §§ False
+The maximum efficiency of slotted ALOHA is lower than the maximum efficiency of pure ALOHA. §§ 1 §§ True §§ False
+In the Internet, hosts and routers not only have network-layer addresses but also have link-layer addresses. §§ 0 §§ True §§ False
+ARP (address resolution protocol) maps between IP and MAC addresses. §§ 0 §§ True §§ False
+An adapter's MAC address does not change no matter where the adapter is installed. §§ 0 §§ True §§ False
+With CSMA/CD, when a collision is detected, the transmitting node stops its transmission and uses some protocol to determine when it should attempt to transmit the next time. §§ 0 §§ True §§ False

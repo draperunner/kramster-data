@@ -1,0 +1,222 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4160 Datamaskiner grunnkurs
+Eksamen 2005 Høst
+MC
+
+Q
+3
+Hvilken av de følgende påstandene om Pentium 4 er ikke riktig?
+O
+Pentium 4 er en 32 bits prosessor.
+O
+Pentium 4 har et langt samlebånd (mange steg).
+O
+Pentium 4 er designet med fokus på ytelse vha. høy klokkefrekvens.
+O
+Pentium 4 har instruksjoner med fast lengde og fast format.
+O
+Pentium 4 oversetter instruksjoner til RISC-lignende mikrooperasjoner før utføring.
+
+Q
+1
+Hvilken av de følgende påstandene om UltraSPARC III er ikke riktig?
+O
+UltraSPARC III er en RISC-prosessor.
+O
+UltraSPARC III har relativt få registre, fokusert på hovedlager.
+O
+UltraSPARC III er en 64 bits prosessor.
+O
+UltraSPARC III er en superskalar prosessor.
+O
+UltraSPARC III har nivå-2 hurtigbuffer utenfor prosessorbrikken.
+
+Q
+2
+Hvilken av de følgende påstandene om 8051 er ikke riktig?
+O
+8051 er en mikrokontroller.
+O
+8051 har ingen hurtigbuffer.
+O
+8051 har et fem-stegs samlebånd.
+O
+8051 er designet med fokus på pris, strømforbruk og størrelse.
+O
+8051 har separat minne for instruksjoner og data.
+
+Q
+1
+Hvilken av alternativene under er ikke en årsak til å ha mer enn en buss i en datamaskin?
+O
+Med kun en buss, blir denne gjerne en flaskehals.
+O
+Flere busser gir økt risiko for overflyt.
+O
+Eksterne enheter har gjerne svært forskjellig datarate.
+O
+Jo lengre en buss er, jo lengre tid tar det å overføre data.
+O
+Noen eksterne enheter har seriell dataoverføring, mens andre har parallell.
+
+Q
+0
+Hvilken av alternativene under er en ulempe med direkte adressering?
+O
+Gir gjerne et langt instruksjonsformat.
+O
+Feltlengden begrenser operandstørrelsen.
+O
+Det tar ekstra tid å slå opp i et register før man aksesserer hovedlager.
+O
+Målinstruksjonen ved betingede hoppinstruksjoner ("conditional branches") kan være
+vanskelig å finne.
+O
+Alle alternativer 1-4 er ulemper med direkte adressering.
+
+Q
+1
+Hvilken av de følgende påstandene om samlebånd ("pipeline") er riktig?
+O
+Samlebånd reduserer tiden det tar å utføre en enkelt instruksjon.
+O
+Samlebånd reduserer tiden det tar å utføre en serie med instruksjoner.
+O
+Samlebånd samler først sammen en mengde instruksjoner som så blir utført samtidig.
+O
+Samlebånd øker treffraten på hurtigbuffer.
+O
+Alle alternativer 1-4 er riktige påstander om samlebånd.
+
+Q
+3
+Hvilken av de følgende påstandene om RISC er riktig?
+O
+RISC-prosessorer har instruksjoner som er kompliserte å dekode.
+O
+De fleste instruksjoner i RISC-prosessorer kan aksessere hovedlager.
+O
+En RISC-prosessor utfører instruksjoner vha. mikroprogram.
+O
+RISC-prosessorer har små og enkle instruksjonssett.
+O
+RISC-prosessorer har mange adresseringsmodi.
+
+Q
+2
+Hvilken av de følgende påstandene om multidatamaskin og multiprosessor er riktig?
+O
+Prosessorer i multidatamaskiner deler hovedlager.
+O
+Med mange prosessorer er multiprosessor bedre enn multidatamaskin.
+O
+Både multiprosessor og multidatamaskin er eksempler på MIMD (Multiple Instruction
+Multiple Data).
+O
+En multidatamaskin er det samme som en superskalar prosessor.
+O
+Ingen av alternativene 1-4 er riktige.
+
+Q
+1
+Hvilken av de følgende påstandene om PCI og PCI Express er riktig?
+O
+PCI er ikke egentlig en buss, men punkt-til-punkt-forbindelse.
+O
+PCI er parallell mens PCI Express er seriell.
+O
+Med PCI kan man overføre adresse og data samtidig.
+O
+Både PCI og PCI Express er asynkrone busser.
+O
+PCI Express er en egen overføringsmodus som PCI-bussen bruker når bussmaster har
+spesielt dårlig tid.
+
+Q
+3
+Registeromdøping ("register renaming") er en teknikk som ...
+O
+... gjør det vanskeligere å skrive assemblykode.
+O
+... er unødvendig for CISC-prosessorer.
+O
+... reduserer antall sanne dataavhengigheter.
+O
+... reduserer antall avhengigheter i superskalare samlebånd.
+O
+... ikke kan brukes av prosessorer som støtter registeradressering.
+
+Q
+2
+Prefetch er en teknikk som ...
+O
+... går ut på at betingede hopp ("conditional branch") utføres vha. to instruksjoner (eks:
+Compare/Branch).
+O
+... IA-64 bruker for å bestemme hvilken utførende enhet en instruksjon skal utføres av
+før instruksjonen blir hentet fra hovedlager.
+O
+... går ut på å hente data og/eller instruksjoner fra hovedlager før de trengs.
+O
+... går ut på at flyttall normaliseres før addisjon og subtraksjon utføres.
+O
+... brukes for å redusere tiden fra et register blir lest til ALU kan utføre operasjon på
+registerverdien.
+
+Q
+4
+Hva vil det si at en prosessor er superskalar?
+O
+Den er spesiallaget for heltallsoperasjoner.
+O
+Den bruker 1 klokkesyklus på å utføre en instruksjon.
+O
+Den har et stort og komplisert instruksjonssett.
+O
+Den har både nivå-1 og nivå-2 av hurtigbuffer på prosessorbrikken.
+O
+Den har flere utføringsenheter ("functional units").
+
+Q
+4
+Hva vil det si at en prosessor har støtte for 3-adresseinstruksjoner ("3-address instruction")?
+O
+Den pakker 3 instruksjoner sammen i en pakke med et felt som indikerer begrensninger
+i parallellitet.
+O
+Den har spesielle hoppinstruksjoner som kan medføre hopp til 3 forskjellige adresser alt
+etter resultat av forrige instruksjon.
+O
+Noe slikt eksisterer ikke; det maksimale er 2-adresseinstruksjoner.
+O
+Hver instruksjon har 3 implisitte operander.
+O
+3 eksplisitte operander kan oppgis i instruksjonsformatet.
+
+Q
+2
+Hvor mange forskjellige tall kan man maksimalt representere vha. 32 bit?
+O
+2^31 (= 2 147 483 648)
+O
+2^31 - 1 (= 2 147 483 647)
+O
+2^32 (= 4 294 967 296)
+O
+2^32 - 1 (= 4 294 967 295)
+O
+Dette avhenger av om tallet er et heltall eller et flyttall.
+
+Q
+3
+Hva brukes predikatregistrene i IA-64 til?
+O
+De brukes i forbindelse med forgreningspredikering.
+O
+De brukes i forbindelse med registeromdøping.
+O
+De brukes i forbindelse med registervindu.
+O
+De brukes i forbindelse med betinget utføring ("conditional execution").
+O
+De brukes i forbindelse med samlebånd i programkode ("software pipelining").

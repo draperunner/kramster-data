@@ -1,0 +1,10 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 01: Introduction
+What are the main elements in the definition of software architecture? §§ 0 1 2 3 §§ Set of structures §§ Software elements §§ Relations §§ Properties
+What are the important categories of architectural structures in the book? §§ 1 2 3 §§ Hierarchy §§ Module §§ Component and Connector §§ Allocation
+What SWA category focuses on mapping software structures to the system's environment? §§ 0 §§ Allocation §§ Component and Connector §§ Module §§ None
+What SWA category focuses on dividing systems into implementation units? §§ 2 §§ Allocation §§ Component and Connector §§ Module §§ None
+What SWA category focuses on how each module is implemented in detail? §§ 3 §§ Allocation §§ Component and Connector §§ Module §§ None
+What SWA category focuses on how elements interact in runtime? §§ 1 §§ Allocation §§ Component and Connector §§ Module §§ None
+A structure is architectural if it... §§ 3 §§ Specifies implementation details §§ Specifies programming language §§ Supports large structures §§ Supports reasoning

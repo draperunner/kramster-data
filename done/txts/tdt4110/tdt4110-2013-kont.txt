@@ -1,0 +1,23 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2013 Kont
+Hva er pseudokode? §§ 3 §§ Foreløpig kode som ikke skal brukes i den endelige versjonen av et system §§ En diagramteknikk for a beskrive algoritmer eller programmer §§ De delene av et program som kan være årsak til en feil som er avdekket under testing §§ En måte å beskrive algoritmer som er mindre formell enn regulære programmeringsspråk
+Vi har 43 ulike symboler som vi ønsker å kode digitalt. Hva er det minste antall bits som vi må bruke? §§ 1 §§ 5 §§ 6 §§ 7 §§ 8
+Hvilken av disse aksessteknologiene gir høyest kapasitet? §§ 3 §§ Edge §§ 3G/UMTS §§ HSDPA §§ LTE
+Retningslinjene for algoritmer sier at det lønner seg å skrive en løkke for å utføre en repeterende oppgave hvis oppgaven må utføres §§ 0 §§ mer enn 1 gang §§ 3-5 ganger eller mer §§ 8-10 ganger eller mer §§ 20 ganger eller mer
+Vi skal bruke binærsøking i en datamengde med 1 000 000 sorterte elementer. Hvor mange oppslag må vi vanligvis gjøre? §§ 1 §§ 10 §§ 20 §§ 30 §§ 50
+Analog informasjon er §§ 1 §§ Diskret §§ Kontinuerlig §§ Tilfeldig §§ Digital
+Det er fire grunnleggende aktiviteter som inngår i alle programvareutviklingsprosesser. §§ 0 §§ Spesifikasjon, utvikling, validering, evolusjon §§ Spesifikasjon, analyse, programmering, bruk §§ Forstudie, implementasjon, testing, bruk §§ Forstudie, programmering, simulering, vedlikehold
+Hvor mange negative og positive heltall kan vi representere i 2 byte? §§ 2 §§ 2048 §§ 32768 §§ 65536 §§ 1048576
+Hvorfor kan et WiFi-nettverk påvirke en Bluetooth-forbindelse? §§ 1 §§ WiFi-nettverk har så sterkt signal §§ Bluetooth og WiFi bruker samme frekvensbånd §§ Bluetooth og WiFi bruker samme metode for koding §§ Ved samtidig bruk av WiFi og Bluetooth dannes et fenomen som heter "stående bølger"
+Hvor mange instruksjoner er vanlig i en moderne datamaskin? §§ 2 §§ 3-7 §§ 10-20 §§ rundt 100 §§ tusenvis
+Hva kjennetegner problemløsning etter top-down-prinsippet? §§ 2 §§ Vi løser de vanskeligste problemene først §§ Vi designer før vi programmerer en løsning §§ Vi går fra det generelle til det spesielle §§ Vi løser de enkelte delene av problemet først og bruker disse løsningene som byggeklosser i en generell løsning
+Sortering ved innsetting (insertion sort) bruker omtrent 1 sekund på å sortere 1000 elementer. Hvor lang tid vil det omtrent ta å sortere 10000 elementer? §§ 2 §§ 2 s §§ 10 s §§ 100 s §§ 1000 s
+Hva er pipelining? §§ 1 §§ Lignende operasjoner blir utført i rekkefølge §§ Flere instruksjoner kan være under utførelse samtidig §§ En effektiv organisering av datamaskinens hukommelse §§ En mekanisme for å utveksle data mellom programmer
+Hvor mange symboler kan representeres av en sekvens på K bit? §§ 1 §§ K^2 §§ 2^K §§ K §§ 2
+Et nettverk sin evne til å levere uavbrutt i kontinuerlig tjeneste defineres som §§ 2 §§ Skalerbarhet §§ Tilgjengelighet §§ Pålitelighet §§ Ytelse
+Ved digitalisering av lyd, hva oppnår vi med å bruke flere bits i hver punktprøve (sample)? §§ 3 §§ Vi trenger ikke å punktprøve (sample) like ofte §§ Vi oppfyller kravene i Nyquist-regelen §§ Vi kan representere stereo-lyd §§ Vi får en mer nøyaktig digitalisering
+Det å utgi seg for være noen andre på internett kalles §§ 1 §§ Phishing §§ Spoofing §§ Pharming §§ Aliasing
+Er det horisontale eller vertikale fargebånd som komprimeres bra i GIF-filer? §§ 1 §§ Vertikale §§ Horisontale §§ GIF-filer komprimerer hverken vertikale eller horisontale fargebånd spesielt bra §§ GIF-filer komprimerer både horisontale og vertikale fargebånd veldig bra
+Hente/Utføre-kretsløpet (Fetch/Execute Cycle) i en moderne datamaskin utføres §§ 3 §§ En gang i sekundet §§ Tusenvis av ganger i sekunder §§ Hundretusenvis av ganger i sekundet §§ Ikke oftere enn antall ganger klokken i maskina tikker
+Hva kjennetegner inkrementell programvareutvikling? §§ 2 §§ Utvikler programvaren i de klart avskilte fasene krav, design, implementasjon, testing osv. §§ Utvikler programvaren uten noen plan eller prosess §§ Deler opp systemet i flere mindre deler som blir utviklet del for del §§ Lager en rask prototype basert på eksisterende krav

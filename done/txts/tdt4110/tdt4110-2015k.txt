@@ -1,0 +1,259 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2015 Kont
+MC
+
+Q
+3
+Hva er en protokoll i kontekst av digital kommunikasjon?
+O
+Et sett av regler man kan velge fritt mellom som gjør kommunikasjon effektiv og rask.
+O
+Et internasjonalt lovverk som bestemmer hva man kan gjøre og hva man ikke kan
+gjøre på internett som bruker.
+O
+En stor datafil som inneholder hvordan alle nettverk i verden er koblet sammen.
+O
+Et regelverk som bestemmer hvordan kommunikasjon skal foregå og hvilke
+funksjoner som kan brukes.
+
+Q
+3
+Hva kalles den avsluttende aktiviteten i programvarevalideringsfasen?
+O
+Utviklingstesting.
+O
+Systemtesting.
+O
+Totaltesting.
+O
+Akseptansetesting.
+
+Q
+0
+Hvilken sikkerhetsutfordring er ”pharming”?
+O
+Bruker blir ledet til en falsk versjon av en offisielt nettside.
+O
+Bruker mottar en falsk epost som utgir seg fra å komme fra en avsender du stoler på.
+O
+Bruk av offisielle navn på institusjoner eller personer for å lure til seg konfidensiell
+informasjon.
+O
+Massivt angrep på webtjenere slik at tjenesten ikke blir tilgjengelig for tiltenkte
+brukere.
+
+Q
+2
+Hva står forkortelsen VPN for?
+O
+Virtual Protocol Node.
+O
+Viral Privacy Node.
+O
+Virtual Private Network.
+O
+Volatile Performance Network.
+
+Q
+2
+Hvis man skal sende data over nettet, kan elektrisk støy under transporten føre til at data
+utilsiktet endres. Bruk av en sjekksum (checksum) bakerst i en tallserie som skal overføres vil
+sikre at
+O
+tallene kommer uendret fram til mottager
+O
+mottager kan korrigere eventuelle endringer av tallene under overføring
+O
+mottager kan oppdage, men ikke korrigere, endringer av tallene under overføring
+O
+mottager kan oppdage endring såframt kun ett tall er blitt endret
+
+Q
+3
+DSL-kommunikasjon over telefonlinjer har den egenskapen at
+O
+det dessverre er umulig å bruke vanlig telefon samtidig som noen bruker internettet.
+O
+at man kan bruke vanlig telefon samtidig, men med noe forstyrrelser i lyden.
+O
+at man også kan bruke vanlig telefon med grei lyd, men at data over nettet da går tregt.
+O
+at man kan bruke vanlig telefon samtidig, uten forstyrrelser verken for telefon eller
+internett.
+
+Q
+2
+I forbindelse med pensumstoffet om nettverkskommunikasjon står forkortelsen DSL for
+O
+Data Source Location.
+O
+Domain Support License.
+O
+Digital Subscriber Line.
+O
+Direct Signal Link.
+
+Q
+2
+Binærsøk er mer effektiv enn sekvensielt søk fordi
+O
+binærsøk også virker på sorterte lister, mens sekvensielt søk kun fungerer på usorterte
+lister.
+O
+binærsøk er rekursiv mens sekvensielt søk er iterativ.
+O
+binærsøk eliminerer halve datamengden for hvert oppslag mens sekvensielt søk bare
+eliminerer det ene elementet som ble testet.
+O
+binære søk virker på binærtall mens sekvensielt søk bare virker på tekst.
+
+Q
+0
+Anta at vi har fire mulige algoritmer for å løse et problem, hvorav en er Θ(n 3 ), en er Θ(n 2 ), en
+er Θ(n log n) og en er Θ(2 n ). Hvis vi skulle rangere disse med den mest effektive først, den
+minst effektive sist, blir det:
+O
+Θ(n log n), Θ(n 2 ), Θ(n 3 ), Θ(2 n ).
+O
+Θ(n 2 ), Θ(n log n), Θ(2 n ), Θ(n 3 ).
+O
+Θ(n log n), Θ(n 2 ), Θ(2 n ), Θ(n 3 ).
+O
+Θ(2 n ), Θ(n 3 ), Θ(n log n), Θ(n 2 ).
+
+Q
+0
+Alle eksterne enheter som skal kommunisere med en datamaskin krever en ... for å fungere
+O
+Driver.
+O
+ASCII-tabell.
+O
+Ledning.
+O
+Internett-forbindelse.
+
+Q
+0
+Sekundærminne.
+O
+Husker data etter at strømmen kuttes.
+O
+Er alltid flyktig.
+O
+Er alltid kjappere enn primærminnet.
+O
+Er kun skrivbart.
+
+Q
+0
+129.241.103.4 er et eksempel på
+O
+En IP-adresse.
+O
+En MAC-adresse.
+O
+En datamaskin sitt telefonnummer.
+O
+Et TCP-nummer.
+
+Q
+1
+Ved hjelp av autentisering kan vi
+O
+Gjøre et usikkert nett helt sikkert.
+O
+Forsikre oss om at avsenderen er den han utgir seg for.
+O
+Skjule innholdet i en internett-melding.
+O
+Automatisk rette opp feil i dataoverføringen.
+
+Q
+0
+Hvordan representeres tallet -4 som toer-komplement?
+O
+11111100.
+O
+10000100.
+O
+00110100.
+O
+11111001.
+
+Q
+2
+Syv-bits kode for E er 1000101 og for S 1010011. Hvis man skal legge til en paritetsbit
+(parity bit) til disse to, blir denne paritetsbiten
+O
+0 for både E og S
+O
+0 for E, 1 for S
+O
+1 for E, 0 for S
+O
+1 for både E og S
+
+Q
+1
+I forbindelse med pensumstoffet om nettverkskommunikasjon står forkortelsen ISP for
+O
+Intelligent Security Protection
+O
+Internet Service Provider
+O
+Internet Security Policy
+O
+Information Standard Protocol
+
+Q
+1
+Hastigheten for internettaksess med DSL for en hjemmedatamaskin når det gjelder nedlasting
+(overføre data fra internett til hjemmemaskinen) og opplasting (overføre data fra maskinen til
+internett) er vanligvis
+O
+symmetrisk, dvs. nedlasting og opplasting går like raskt relativt til datamengde
+O
+asymmetrisk, nedlasting går kjappere enn opplasting
+O
+asymmetrisk, opplasting går kjappere enn nedlasting
+O
+asymmetrisk i perioder med mye nett-trafikk, symmetrisk i perioder med liten trafikk
+(for eksempel om natten)
+
+Q
+3
+Alle farger på en skjerm kan lages ved å kombinere fargene:
+O
+Turkis (Cyan), lilla (Magenta), gul (Yellow)
+O
+Sort, hvitt, turkis (Cyan), lilla (Magenta), gul (Yellow)
+O
+Sort, hvitt, rød, gul, blå
+O
+Rød, grønn, blå
+
+Q
+1
+Mindre kretskort som kan plugges i hovedkortet (Motherboard) kalles:
+O
+Mikroprosessor
+O
+Datter-kort
+O
+Barn-kort
+O
+RAM
+
+Q
+1
+Hvilken påstand stemmer om Solid State Drive (SSD)?
+O
+Tregere enn harddisk
+O
+Laget av ”Flash Memory”
+O
+Består av en stabel av metallskiver med en arm som sveiper over/mellom skivene
+O
+Tåler dårlig støt

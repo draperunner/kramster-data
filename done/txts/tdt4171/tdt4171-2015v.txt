@@ -1,0 +1,23 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4171 Artificial Intelligence Methods
+2015 Spring
+The course is about designing rational agents. §§ 0 §§ True §§ False
+Weak AI defines a machine that can act intelligently. §§ 0 §§ True §§ False
+The Turing test is a good robot performance measure. §§ 1 §§ True §§ False
+Strong AI is the same as machine consciousness. §§ 0 §§ True §§ False
+When you throw a dice twice, the probability of getting 6 at least once is 1/6. §§ 1 §§ True §§ False
+Partial observability is not a problem in most cases. §§ 1 §§ True §§ False
+A Boolean random variable is the best way to model temperature. §§ 1 §§ True §§ False
+Conditional probability is the same as prior probability. §§ 1 §§ True §§ False
+Structuring causal knowledge into belief networks is intuitive and helpful for humans. §§ 0 §§ True §§ False
+Independence between variables is common in most applications. §§ 1 §§ True §§ False
+A rational agent does not have to always choose the action that maximizes expected utility. §§ 1 §§ True §§ False
+Humans are always irrational. §§ 1 §§ True §§ False
+Stochastic dominance can often be determined with qualitative reasoning. §§ 0 §§ True §§ False
+You add action nodes, utility nodes and policy nodes to a belief network in order to do rational decision making. §§ 1 §§ True §§ False
+Case-based reasoning is a form of supervised learning. §§ 0 §§ True §§ False
+Neural networks are typically trained with the backpropagation algorithm. §§ 0 §§ True §§ False
+Neural networks accurately represent all the properties of real neurons. §§ 1 §§ True §§ False
+A perceptron can be used to represent any function. §§ 1 §§ True §§ False
+Backpropagation is the same as gradient descent. §§ 0 §§ True §§ False
+The real world is a Partially Observable Markov Decision Process. §§ 0 §§ True §§ False

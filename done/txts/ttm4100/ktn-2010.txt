@@ -1,0 +1,53 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4100 Communication Services and Networks
+2010 Spring
+Without a DNS server, it is not possible to contact web servers. §§ 1 §§ True §§ False
+You have to use a browser ala Opera, Firefox or Internet explorer to retrieve an object from a web server. §§ 1 §§ True §§ False
+Forward error correction is a way to recover from packet loss. §§ 1 §§ True §§ False
+The two parameters that must be specified in order to instantiate a Java "socket" are destination host name/address and destination port number. §§ 0 §§ True §§ False
+Client side delayed playout is data buffering to compensate for network-added jitter. §§ 0 §§ True §§ False
+Network and link layer are always executed together. §§ 1 §§ True §§ False
+Within the same broadcast network, it is the IP network part of the destination address that identifies the receiver. §§ 1 §§ True §§ False
+DHCP can be used to assign default gatway and DNS server address. §§ 0 §§ True §§ False
+ARP is used to find the next hop when forwarding packets. §§ 1 §§ True §§ False
+If an organisation has licenced the network address space designated by 128.39.16.0/20, an IP packet addressed to 128.39.7.10 will not be sent to this organisation. §§ 0 §§ True §§ False
+All internet application protocols are text based. §§ 1 §§ True §§ False
+It is possible for a client to send e-mail over HTTP rather than SMTP. §§ 0 §§ True §§ False
+A HTTP web server uses persistent connections. The server spawns a separate process for each client that connects to the server. Each of these processes will have different server port numbers. oppretter en separat prosess for hver klient som kopler seg opp mot tjeneren. §§ 1 §§ True §§ False
+P2P file distribution. Upload rate server is 10Mbps and peers 1 Mbps. Download rate peers is 10Mbps. There are 100 peers and the file is 12,5 Mbytes. The minimum distribution time is about 100 s. §§ 0 §§ True §§ False
+SIP is used to transfer voice packets between two communicating peers. §§ 1 §§ True §§ False
+A BitTorrent peer A may upload to a peer B even if B is not sending anything to A. §§ 0 §§ True §§ False
+The DNS architecture is centralized around root servers. §§ 1 §§ True §§ False
+There are distributed applications that use neither TCP nor UDP. §§ 0 §§ True §§ False
+A browser will generate header lines dependent on browser type and version. §§ 0 §§ True §§ False
+The value of a DNS resource record of Type = MX is the hostname of the mail server. §§ 1 §§ True §§ False
+It is primarily the characteristics of the applications that determine the complexity of a reliable data transfer protocol. §§ 1 §§ True §§ False
+When a TCP host receives data from the network layer, it can identifiy the appropriate process to pass the data to by using the source port, source IP address and destination port. §§ 0 §§ True §§ False
+A web server using non-persistent connections runs slow-start for each message larger than MSS (maximum segment size). §§ 0 §§ True §§ False
+A TCP transport layer sender window may contain both acknowledged and unacknowledge data. §§ 0 §§ True §§ False
+TCP provides a reliable, simplex service to the application layer. §§ 1 §§ True §§ False
+For every write() to a TCP streamsocket, there must be a corresponding read() at the other end to receive the data. §§ 1 §§ True §§ False
+The maximum data rate between two hosts communicating using TCP depends solely on the bandwidth of the underlying internetwork. §§ 1 §§ True §§ False
+The original TCP (without extensions) is best characterized as a pipelined, go-back-N protocol. §§ 0 §§ True §§ False
+The size of the largest segment a TCP sender will transmit, is limited by the lower layers. §§ 0 §§ True §§ False
+TCP has spesific protocol headers for connection set-up and close. §§ 1 §§ True §§ False
+In theory, packet switching can support more users than circuit switching. §§ 0 §§ True §§ False
+A datagram is a packet that is transferred independently of all other packets. §§ 0 §§ True §§ False
+The primary purpose of a router's main processor is to run management and routing software. §§ 0 §§ True §§ False
+Two primary functions of a router's output adapter are link layer processing and network layer encapsulation. §§ 1 §§ True §§ False
+All routers only look at the network part and not the host part of the IP address. §§ 1 §§ True §§ False
+In a distance-vector routing algorithm each node has a map of the entire network and determines the shortest path from itself to all other nodes in the network. §§ 1 §§ True §§ False
+The distance vector routing algorithm is based on information received only from neighbours. §§ 0 §§ True §§ False
+Two important reasons for organizing the Internet as a hierarchy of networks for the purpose of routing, are scale and administrative autonomy. §§ 0 §§ True §§ False
+The host component of a CIDR address of the form a.b.c.d/23 can contain addresses for appr. 500 hosts. §§ 0 §§ True §§ False
+Network address translation (NAT) is used in the Internet to translate between IP addresses found in separate sub-networks. §§ 1 §§ True §§ False
+A node's LAN address used by the link layer is simply another form of the node's IP address. §§ 1 §§ True §§ False
+A CSMA/CD node constructs a frame, senses the channel idle, and transmits the frame. The node then knows for sure that the frame will arrive at the receiver within the same subnet. §§ 1 §§ True §§ False
+In a switch-based ethernet LAN there are no collision domains. §§ 0 §§ True §§ False
+Detecting collisions in a wireless LAN is not always possible due to collision avoidance. §§ 1 §§ True §§ False
+Wireless 802.11 protocol header includes MAC addresses to both the access point and the first-hop router. §§ 0 §§ True §§ False
+For a given wireless modulation scheme, the higher the SNR (signal to noise ratio) the lower the BER (bit error rate). §§ 0 §§ True §§ False
+In CDMA, the coded signal has a higher bandwidth than the original data being communicated. §§ 0 §§ True §§ False
+The entries in a switch table need to be configured by the network administrator. §§ 1 §§ True §§ False
+Considering the expression D * 2r XOR R as the mathematical representation of data with CRC bits appended. The CRC bit pattern represented by R is determined using modulo 2 arithmetic, wherein R is the remainder when a generator value, G, is divided into D * 2r. §§ 0 §§ True §§ False
+In a CAT-5 UTP ethernet installation all nodes are exactly 100 meters from the hub. The time it takes for a bit to propagate from hub to node for a 10BaseT ethernet is ten times longer than for a 100BaseT ethernet. §§ 1 §§ True §§ False

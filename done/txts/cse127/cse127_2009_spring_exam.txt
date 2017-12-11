@@ -1,0 +1,39 @@
+University of California, San Diego (UCSD)
+CSE127 Introduction to Computer Security
+2009 Spring Exam
+TF
+
+Q
+0
+Alice has a message to send to Bob and she wants to encrypt the message using public-key
+cryptography so that no one other than Bob can read it, she does so by using Bob’s public key.
+O
+True
+O
+False
+
+Q
+1
+Properly used, a MAC can provide both confidentiality and authenticity.
+O
+True
+O
+False
+
+Q
+1
+One advantage of public-key cryptography is that, when properly implemented, it is much faster
+than symmetric key cryptography.
+O
+True
+O
+False
+
+Q
+0
+The SSL protocol is used to both authenticate Web servers and provide confidentiality for client
+transactions with them.
+O
+True
+O
+False

@@ -1,0 +1,15 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 23: Cloud
+Categorize the following characteristics: "Single point of failure" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Fixed Capacity" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "HDFS file system" §§ 0 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Support multi-tenancy" §§ 0 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Location dependent" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "FAT file system" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Heterogeneous clients" §§ 0 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Fixed IP-addresses" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Improved utilization" §§ 0 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Redundancy" §§ 0 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Private hardware" §§ 1 §§ Cloud §§ Not cloud
+Categorize the following characteristics: "Improved scalability" §§ 0 §§ Cloud §§ Not cloud

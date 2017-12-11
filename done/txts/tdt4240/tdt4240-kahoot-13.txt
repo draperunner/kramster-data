@@ -1,0 +1,13 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 13: 4+1 View Model
+What are the keywords in the definition of software architecture in the textbook? §§ 0 1 2 3 §§ Software components §§ Properties §§ Structures §§ Relationships
+A representation of a whole system from the perspective of a related set of concerns is called? §§ 3 §§ Architectural description §§ Architectural pattern §§ Software architecture §§ Architectural view
+What standard is used for software architectural documentation in this course? §§ 1 §§ ISO 900 §§ IEEE 1471 §§ IEEE 1990 §§ ARCH 1400
+What types of views are described in the textbook? §§ 0 1 3 §§ Allocation §§ Component-and-Connector §§ Dynamic §§ Module
+What view mainly addresses the developers and the project managers? §§ 0 §§ Development §§ Logical §§ Process §§ Physical
+What view is most relevant for the end user? §§ 1 §§ Developer view §§ Logical view §§ Process view §§ Physical view
+What view represents an abstraction of the most important requirements? §§ 3 §§ Development §§ Logical §§ Process §§ Scenario
+In what view can ER-modelling typically be used? §§ 1 §§ Development §§ Logical §§ Physical §§ Scenario
+What view has the main focus on non-functional requirements such as availability & scalability? §§ 2 3 §§ Development view §§ Logical view §§ Process view §§ Physical view
+What characteristics should be identified when going from the logical to process view? §§ 0 1 2 3 §§ Autonomy §§ Distribution §§ Persistance §§ Subordination

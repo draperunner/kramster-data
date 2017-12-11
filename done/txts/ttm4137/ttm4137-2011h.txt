@@ -1,0 +1,303 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TTM4137 Wireless Security
+2011 Fall
+
+Q
+1
+What is the major weakness in WEP, exploited by the PTW attack used in the lab?
+O
+The initialization vector is too short
+O
+No protection against message replay
+O
+The integrity check value is too short
+O
+The IV is part of key stream.
+
+Q
+0
+What is the length of the WEP initialization vector (IV)?
+O
+24 bits
+O
+32 bits
+O
+48 bits
+O
+64 bits
+
+Q
+0
+How are EAP messages transported between the authenticator and the authentication server in RSN?
+O
+EAP messages are encapsulated in TCP/IP
+O
+EAP messages are encapsulated in EAP-TLS
+O
+EAP messages are encapsulated in VPN
+O
+EAP messages are encapsulated in 802.1x
+
+Q
+0
+Which cryptographic algorithm is used in counter mode with cipher block chaining message authentication code protocol in CCMP?
+O
+AES
+O
+Michael
+O
+RC4
+O
+KASUMI
+
+Q
+2
+What is the purpose of the EAPOL 4-way handshake?
+O
+To compute a fresh pairwise temporal key (PTK) from the pairwise message key (PMK)
+O
+To compute a fresh pairwise master key (PMK) from the pairwise transient key (PTK)
+O
+To compute a fresh pairwise transient key (PTK) from the pairwise master key (PMK) after both parties have verified the PMK
+O
+To compute a fresh pairwise message key (PMK) from the pairwise trusted key (PTK) generated in the 4-way key agreement
+
+Q
+2
+How does the counter mode operation of a block cipher E() work?
+O
+\(C = E(i) \oplus i\)
+O
+\(C = E(i) \oplus M \oplus i\)
+O
+\(C_i = E(i)  M_i\)
+O
+\(C = E(i) \oplus M\)
+
+Q
+3
+Is the complete MAC PDU encrypted by the CCMP?
+O
+Yes, the CCMP uses a shared key
+O
+Yes, the CCMP header is encrypted
+O
+No, the MAC header is not encrypted
+O
+No, the MAC header and the CCMP header are not encrypted
+
+Q
+0
+Which block cipher mode of operation is used for AES in RSN?
+O
+Counter Mode with Cipher Block Chaining Message Authentication Code
+O
+Counter Mode with Galois Message Authentication Code
+O
+Cipher Block Chaining with Counter Mode Message Authentication Code
+O
+Cipher Block Chaining with Hashed Message Authentication Code
+
+Q
+2
+How is the 128 bits start value of the counter for CCMP encryption initialized in RSN?
+O
+By a random IV
+O
+By the concatenation of IV and the extended IV
+O
+By flag/priority bits, packet number, source-address, and a constant
+O
+By source address, destination address and the MIC value of the MPDU
+
+Q
+2
+Which 802.11 frame type is cryptographically protected by the 802.11w standard?
+O
+Data frames
+O
+Control frames
+O
+Management frames
+O
+Beacon frames
+
+Q
+0
+How is the subscriber identity protected from radio channel eavesdropping in UMTS?
+O
+By the network providing temporary subscriber identities to the USIMs
+O
+By keeping the subscriber identity in the USIM only
+O
+By storing the 128-bit secret key (\(K_{IMSI}\)) in the USIM, and distribute only to trusted VLRs
+O
+By using the IMEI instead of the IMSI
+
+Q
+1
+Which information is sent from the HSS to the MME during the LTE/EPS authentication protocol?
+O
+IMSI, RAND, AUTN, XRES
+O
+RAND, AUTIN, XIRES, \(K_{ASME}\)
+O
+RAND, AUTN, XRES, CK, IK
+O
+RAND, AUTN, XRES, \(K_c\)
+
+Q
+3
+Which UTRAN protocol layers provide encryption?
+O
+MAC layer and RRC layer
+O
+RLC layer and RRC layer
+O
+PHY layer and MAC layer
+O
+MAC layer and RLC layer
+
+Q
+2
+What happens if the result of the UTRAN cryptoalgorithm negotiation is that the user equipment (UE) and the network do not have a common encryption algorithm?
+O
+UTRAN provides a new encryption algorithm as an app download
+O
+The connection is shut down immediately by UTRAN
+O
+UTRAN may establish the connection without encryption
+O
+UTRAN does not use encryption algorithm negotiation
+
+Q
+2
+In which mode of operation is KASUMI used for constructing the 3GPP f8 key stream generator?
+O
+Combining Counter-mode and ECB-mode
+O
+Combining Counter-mode and CCM-mode
+O
+Combining Counter-mode and OFB-mode
+O
+Combining Counter-mode and CBC-mode
+
+Q
+1
+What was the underlying assumption for the MILENAGE security analysis?
+O
+No assumptions were made
+O
+The kernel function must be a secure block cipher
+O
+AES must be used as the kernel function
+O
+The kernel function must be a one-way function
+
+Q
+0
+Why can the USIM be physically removed from the rest of the UE?
+O
+The UE manufacturing and lifecycle can be managed independently from the personalization and subscription process
+O
+The failure rate of the integrated circuit cards (UICCs) are high because the issuers (mobile operators) want to reduce cost for short subscription duration
+O
+End-to-end UMTS key-card may be plugged into the USIM slot for key distribution and management
+O
+The USIM holds an expiration date and, like credit cards, must be replaced
+
+Q
+2
+What is the bit length of the permanent subscriber key in UMTS?
+O
+56
+O
+64
+O
+128
+O
+256
+
+Q
+2
+The end points of the user data encryption in EPS are
+O
+The UICC and the eNB
+O
+The UE and the MME
+O
+The UE and the eNB
+O
+The UICC and the MME
+
+Q
+1
+The end points of signal-message encryption in the EPS access stratum are
+O
+The UICC and the eNB
+O
+The UE and the eNB
+O
+The eNB and the MME
+O
+The UE and the MIME
+
+Q
+3
+The end points of signal-message integrity protection in the EPS non-stratum access are
+O
+The UICC and the eNB
+O
+The UE and the eNB
+O
+The eNB and the MME
+O
+The UE and the MME
+
+Q
+0
+Does LTE/EPS provide end-to-end data security?
+O
+No
+O
+Yes, but only authenticity
+O
+Yes, but only anonymity
+O
+Yes, both confidentiality and authenticity
+
+Q
+3
+Can a 3G USIM work in an LTE UE handset?
+O
+No, because the cryptokeys must be kept in the USIM
+O
+No, because the cryptokeys are not compatible
+O
+Yes, because the cryptokeys are the same in the two systems
+O
+Yes, because the USIM cryptokey output is the same in the two systems
+
+Q
+3
+Where does the key derivation function KDF of EPS reside?
+O
+In the USIM and the AuC
+O
+In the USIM and the UE
+O
+In the UE and the MME
+O
+In the UE and the HSS
+
+Q
+0
+What is lawful interception in mobile communication networks?
+O
+Eavesdropping approved by judicial court
+O
+Eavesdropping performed by or on behalf of the police authorities
+O
+Signal jamming ordered by the police authorities
+O
+Law enforcement command to the mobile operators to turn off the communication encryption in order to enable eavesdropping

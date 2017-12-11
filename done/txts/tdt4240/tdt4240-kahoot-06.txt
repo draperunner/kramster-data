@@ -1,0 +1,11 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 06: Requirements and Quality Attributes
+System requirements can be categorized as: §§ 1 2 3 §§ Architectural tactics §§ Constraints §§ Functional requirements §§ Quality attribute requirements
+A quality attribute scenario is used to... §§ 1 §§ Describe quality assurance §§ Describe quality requirements §§ Describe quality system design §§ Evaluate software architecture
+Which part of a quality attribute scenario is used to specify how the system reacts? §§ 2 §§ Artefact §§ Environment §§ Response §§ Response measure
+Which part of a quality attribute scenario is used to specify the state of the system? §§ 1 §§ Artefact §§ Environment §§ Source of stimulus §§ Stimulus
+Which part of a quality attribute scenario specifies the part of the system being affected? §§ 0 §§ Artefact §§ Environment §§ Response measure §§ Source of stimulus
+Tactics are in a software architecture context... §§ 3 §§ Architectural design process §§ Architectural patterns §§ Design patterns §§ Primitive design techniques
+Which category does the identification of important functionality and infrastructure belong to? §§ 0 §§ Allocation of responsibilities §§ Binding time decisions §§ Choice of technology §§ Data model
+Which category does the selection of data abstractions, operations and properties belong to? §§ 2 §§ Binding time decisions §§ Coordination model §§ Data model §§ Mapping of resources

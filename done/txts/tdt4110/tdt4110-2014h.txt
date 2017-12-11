@@ -1,0 +1,304 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2014 Høst
+MC
+
+Q
+3
+Hvilken fundamental aktivitet innen programvareutviklingsprosessen fokuserer på å endre programvaren for å møte endrede kunde- og markedskrav?
+O
+Programvarespesifikasjon
+O
+Programvareutvikling
+O
+Programvarevalidering
+O
+Programvareevolusjon
+
+Q
+1
+Hva er et analogt signal?
+O
+Et kontinuerlig signal hvor den variable egenskap er gitt av en diskret funksjon, som gir verdier fra et definert og begrenset område.
+O
+Et kontinuerlig signal hvor en variabel egenskap (f.eks. amplitude eller frekvens) representerer informasjonen som overføres.
+O
+Et diskret signal som representeres ved hjelp av nuller og enere.
+O
+En kombinasjon av alternativ a og b.
+
+Q
+1
+Hvilken type løkkestruktur er garantert å utføre handlingen minst en gang?
+O
+pre-test løkke (pretest loop).
+O
+post-test løkke (posttest loop).
+O
+begge typer.
+O
+ingen av typene.
+
+Q
+3
+Omtrent hvor mange ganger raskere er en 1 GHz - prosessor i forhold til en på 2 MHz.
+O
+Halvparten så rask.
+O
+Like rask.
+O
+Dobbelt så rask.
+O
+500 ganger så rask.
+
+Q
+0
+Hva sier Nyquist-regelen?
+O
+at samplingsrate ved lyd må være minst det dobbelte i forhold til høyeste frekvensen.
+O
+at lyd over 20000Hz ikke kan høres av det menneskelige øret.
+O
+at tapsfri komprimering ikke er mulig for lyd.
+O
+at lyddata tapsfritt kan komprimeres med maksimalt en faktor 2*pi.
+
+Q
+1
+Hvilken programvareprosessmodell bør velges for et prosjekt der det skal utvikles et helt nytt system hvor eksisterende komponenter ikke finnes og kunden er usikker på hvordan systemet skal være?
+O
+Vannfallsmodellen.
+O
+Inkrementell utvikling.
+O
+Gjenbruksorientert systemutvikling.
+O
+Havmodellen.
+
+Q
+2
+Hva er hensikten med et paritetsbit i digitale signaler?
+O
+Forteller hvor meldingen skal sendes.
+O
+Gjør meldingene raskere å overføre (komprimering).
+O
+Bidrar til å detektere feil i digitale signaler.
+O
+Krypterer signaler så overføringen av data blir sikrere.
+
+Q
+2
+Kompleksiteten til sortering ved innsetting (insertion sort) er
+O
+Θ(n).
+O
+Θ(n log n).
+O
+Θ(n 2 ).
+O
+Θ(2n).
+
+Q
+2
+En moderne prosessor er typisk bygd opp av mange millioner små...
+O
+Dioder.
+O
+Magneter.
+O
+Transistorer.
+O
+Kondensatorer.
+
+Q
+3
+En byte med minne i datamaskinen kan lagre hvor mye?
+O
+16 bits.
+O
+8 flyttall.
+O
+fire ASCII-tegn.
+O
+en heltallsverdi mellom 0 og 255.
+
+Q
+1
+Hvilken av de følgende er en kjent fordel med vannfallsmodellen?
+O
+Tar hensyn til brukerkrav som endrer seg i løpet av prosjektet.
+O
+Gjør prosessen synlig og enklere å monitorere for prosjektlederen.
+O
+Får tidlige versjoner av systemet raskt ut til kunden.
+O
+Åpner for kontinuerlig tilbakemelding fra brukerne av systemet.
+
+Q
+3
+Morsekode representerer bokstaver som sekvenser av prikk og strek som er
+O
+like lange for alle bokstaver i alfabetet.
+O
+kortere for bokstaver tidlig i alfabetet, lenger for bokstaver sist i alfabetet.
+O
+kortere for vokaler, lenger for konsonanter.
+O
+kortere for bokstaver som forekommer hyppig i vanlig tekst, lenger for sjeldnere bokstaver.
+
+Q
+0
+Hvilken av disse er en korrekt gjengivelse av teoribokas definisjon av en algoritme? "En algoritme er et ordnet sett av..."
+O
+"... entydige, utførbare skritt som definerer en terminerende prosess" (unambiguous, executable steps that defines a terminating process).
+O
+"... entydige, effektive skritt som definerer en utførbar prosess" (unambiguous, efficient steps that defines an executable process).
+O
+"... velformede, effektive skritt som definerer en terminerende prosess" (well-formed, efficient steps that defines a terminating process).
+O
+"...velformede, utførbare skritt som definerer en effektiv prosess" (well-formed, efficient steps that defines an efficient process).
+
+Q
+1
+En datamaskin går i en uendelig løkke som kalles
+O
+Det naturlige kretsløpet.
+O
+Hent-Utfør kretsløpet.
+O
+Det evige kretsløpet.
+O
+Beregnings-kretsløpet.
+
+Q
+0
+Hva er korrekt binær representasjon av 'NTNU' i 8 bits ASCII?
+O
+01001110 01010100 01001110 01010101.
+O
+01100001 01100100 01110011 01100110.
+O
+01101110 01110101 01110100 01001110.
+O
+01100010 01010101 01010010 01010000.
+
+Q
+0
+I hvilket tilfelle er det mest nyttig å bruke gjenbruksorientert systemutvikling?
+O
+Når det finnes tilgjengelig programvare som kan gjøre oppgaver systemet skal utføre.
+O
+Når det skal lages programvare for å håndtere resirkulering av søppel eller lignende systemer.
+O
+Når det skal gjenbrukes ideer fra tidligere prosjekter.
+O
+Når det skal gjenbrukes systemutviklere og systemdesignere fra tidligere prosjekter.
+
+Q
+0
+Hva står forkortelsen ISP for?
+O
+Internet Service Provider.
+O
+Information Security Protocol.
+O
+Internet Security Protocol.
+O
+Information Super Pool.
+
+Q
+3
+Kompleksiteten til binærsøk er
+O
+Θ(n) hvis lista er sortert og Θ(n log n) hvis den er usortert.
+O
+Θ(log n) hvis lista er sortert og Θ(2 log n) hvis lista er usortert.
+O
+Θ(log n) hvis lista er sortert og Θ(n) hvis lista er usortert.
+O
+Θ(log n) hvis lista er sortert. Binærsøk er ubrukelig hvis lista er usortert.
+
+Q
+2
+RAM
+O
+Husker alle verdiene når strømmen kuttes.
+O
+Er alltid inndelt i blokker på 1 kilobyte.
+O
+Betyr Random Access Memory.
+O
+Kan trygt fjernes uten at maskinen slutter å fungere.
+
+Q
+0
+Hva står bokstavene i RGB for?
+O
+Red, Green, Blue.
+O
+Readable Graphics Byte.
+O
+Raster Grayscale Balance.
+O
+Realtime GPU Backlog.
+
+Q
+1
+Hva kalles aktiviteten som har fokus på å identifisere den overordnede strukturen for et system inkludert dets sub-systemer?
+O
+Hoveddesign.
+O
+Arkitekturdesign.
+O
+Interfacedesign.
+O
+Komponentdesign.
+
+Q
+0
+MODEM er en forkortelse for
+O
+MOdulator / DEModulator.
+O
+Massive Online Digital Electric Messaging.
+O
+MOnitored Data EMission.
+O
+Mapping Of Digital Electronic Mail.
+
+Q
+0
+ASCII-kode representerer bokstavene A til Z som sekvenser av 0 og 1 som er
+O
+like lange for disse bokstavene i alfabetet.
+O
+kortere for bokstaver tidlig i alfabetet, lenger for bokstaver sist i alfabetet.
+O
+kortere for vokaler, lenger for konsonanter.
+O
+kortere for bokstaver som forekommer hyppig i vanlig tekst, lenger for sjeldnere bokstaver.
+
+Q
+0
+Et nettverk som knytter sammen datamaskiner og utstyr i et begrenset område som et kontor, bygning eller i en bolig betegnes med forkortelsen:
+O
+LAN.
+O
+MAN.
+O
+PAN.
+O
+WAN.
+
+Q
+0
+VPN (Virtual Private Network) kan gi mottageren inntrykk av at en reisende ansatt sin bærbare PC befinner seg innenfor bedriftens nettverk ved at meldinger fra denne PC'en
+O
+plasseres inni en kryptert datapakke for ekstern oversendelse.
+O
+sendes med en tidsforsinkelse.
+O
+sendes ekstra hurtig, med høy prioritet.
+O
+sendes med en falsk avsenderadresse som inneholder et virus.

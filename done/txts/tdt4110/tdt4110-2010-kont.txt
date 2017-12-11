@@ -1,0 +1,243 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4110 Informasjonsteknologi Grunnkurs
+2010 Kont
+
+Q
+0
+Hvor mange bit trenger du til å kode det norske alfabetet (29 forskjellige bokstaver) ved enkel koding hvor alle symbolene er representert med samme antall bit?
+O
+5 bits
+O
+6 bits
+O
+8 bits
+
+Q
+1
+Kalle har klart å knekke passordet til en database som lagrer alle karakterene på NTNU etter flere forsøk, men ombestemmer seg og ser ikke på innholdet i databasen. Har Kalle gjort noe ulovlig i følge loven?
+O
+Nei
+O
+Ja
+O
+Loven sier ikke noe om dette
+
+Q
+2
+Hvilken type minne har normalt høyest tilgangstid (access time) i en datamaskin?
+O
+Registre
+O
+Cache
+O
+Primærminne
+
+Q
+2
+En ulempe med åpen kildekode (open source) er:
+O
+Du kan ikke endre produktet selv
+O
+Det er store firma står som regel bak utviklingen
+O
+Du har normalt ikke krav på brukerstøtte
+
+Q
+0
+Hva er beskriver en kravspesifikasjon?
+O
+Kravspesifikasjon beskriver HVA systemet skal gjøre
+O
+Kravspesifikasjon beskriver HVORDAN systemet skal lages
+O
+Kravspesifikasjon beskriver koden til et system
+
+Q
+1
+Hva er svart-boks testing?
+O
+Testing som konsentrerer seg om systemets eller modulens indre oppbygning
+O
+Testing som ikke ser på systemets eller modulens indre oppbygning
+O
+Testing som konsentrerer seg om hvordan de ulike delene i et system fungerer sammen
+
+Q
+1
+Hva er kjernen i et operativsystem?
+O
+Den delen som tar i mot input fra brukeren
+O
+Den delen som administrerer maskinressurser
+O
+Det mediet som operativsystemet installeres fra
+
+Q
+0
+Hvorfor krypteres data?
+O
+For at data ikke skal kunne leses av uvedkommende
+O
+For at det skal ta mindre plass
+O
+For at det skal kunne gjøres tilgjengelig for alle på Internett
+
+Q
+2
+En protokoll er:
+O
+Et program som oversetter kildekode til maskinkode slik at det kan kjøres på en datamaskin
+O
+En enhet som gjør beregninger og sammenlikninger i en datamaskin
+O
+Et sett av kommunikasjonsreglerSide 3 av 13
+
+Q
+2
+Er binærsøk alltid raskere enn sekvensielt søk?
+O
+Binærsøk er alltid raskere enn sekvensielt søk uansett
+O
+Binærsøk er alltid raskere enn sekvensielt søk på sorterte datamengder
+O
+Sekvensielt søk kan være raskere enn binærsøk
+
+Q
+1
+Hva gjør man når man designer et system under systemutvikling?
+O
+Beskriver hva systemet skal gjøre
+O
+Beskriver hvordan systemet skal lages
+O
+Beskriver kun hvordan systemet skal se ut
+
+Q
+0
+Hva er hovedoppgaven til en navnetjener?
+O
+Oversetter domenenavn til IP-adresser
+O
+Oversetter IP-adresser til domenenavn
+O
+Oversetter IP-adresser til URL
+
+Q
+1
+I det binære tallsystemet, hva er 010 multiplisert med 101?
+O
+111
+O
+1010
+O
+1111
+
+Q
+0
+Hva er inspeksjon i systemutvikling?
+O
+Inspeksjon innebærer å finne feil eller forsikre seg om at feil ikke finnes uten å kjøre programmet
+O
+Inspeksjon innebærer å undersøke om de som programmerer lager ryddige programmer som er lette å lese
+O
+Inspeksjon innebærer å finne feil i koden ved å kjøre programmet
+
+Q
+0
+Hva er en normal konfigurasjon av en klient-tjener arkitektur?
+O
+Få tjenere, mange klienter
+O
+Mange tjenere, få klienter
+O
+Mange tjenere, mange klienter
+
+Q
+2
+En bit av et program består av ei for-løkke inne i ei for-løkke. Begge løkkene løper igjennom tallverdiene 1:N. Tidsforbruket til denne programbiten vil være proporsjonalt med
+O
+N
+O
+N log N
+O
+N^2
+
+Q
+2
+Gitt ei sortert liste av 272 verdier. Vi søker etter en verdi som ikke finnes i lista. Hvor
+mange sammenligninger må vi i verste fall gjøre ved bruk av binærsøk?
+O
+136
+O
+8
+O
+9
+
+Q
+0
+Hva er en database i følge læreboka?
+O
+En samling strukturerte data
+O
+Et program for å håndtere store datamengder
+O
+Informasjon + metainformasjon
+
+Q
+1
+Hvilken av følgende alternativer blir IKKE ifølge loven ansett som sensitive personopplysninger ved	opprettelse av personregistre ifølge læreboka?
+O
+Religiøs bakgrunn
+O
+Karakterer
+O
+Fagforeningsbakgrunn
+
+Q
+1
+Bruk huffman‐koding for å finne bitmønstrene til symbolene A, B, C, D, E, F og G når du har oppgitt fordeling som vist i Tabell 1 på en melding som består av 100 symboler.
+Tabell 1 Fordeling av antall symboler oversendt i en melding på 100 symboler
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Symbol</th>
+            <th>Antall i melding</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A</td>
+            <td>40</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>E</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>F</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>
+O
+A:1, B:01, C:011, D:001, E:0011, F:0001, G:00011
+O
+A:1, B:011, C:010, D:001, E:0001, F:00001, G:00000
+O
+A:1; B:01, C:010, D:001, E:0010, F0001, G:0010

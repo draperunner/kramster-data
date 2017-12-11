@@ -1,0 +1,11 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TDT4240 Software Architecture
+2015 Kahoot 20: Implementation and Testing
+Term: "The implementation drifts away from the planned architecture to no longer be consistent" §§ 1 §§ Architectural drift §§ Architectural erosion §§ Architectural potential §§ Architectural view
+What technique "Using a reusable set of classes organized around a particular theme" §§ 2 §§ Code templates §§ Embedding the design in the code §§ Frameworks §§ Keeping code and architecture consistent
+How can performance be tested in unit tests? §§ 3 §§ Assigning changes to test teams §§ Injecting faults §§ Test system full-scale with users §§ Using synthetic loads
+What technique "Collection of code where the programmer provides application specific portions" §§ 0 §§ Code templates §§ Embedding the design in the code §§ Frameworks §§ Keeping code and architecture consistent
+Integration tests can test.... §§ 0 1 2 3 §§ Availability §§ Functionability §§ Performance §§ Security
+What technique "Mark documentation as out of date when erosion occurs" §§ 3 §§ Code templates §§ Embedding the design in the code §§ Frameworks §§ Keeping code and architecture consistent
+The architect should be involved in... §§ 0 1 2 3 §§ Test Development §§ Test Interpretation §§ Test Harness Creation §§ Test Planning
+What technique? "Architecture acts as a blueprint for implementation" §§ 2 §§ Keeping code and architecture consistent §§ Framework §§ Embedding the design in the code §§ Code templates

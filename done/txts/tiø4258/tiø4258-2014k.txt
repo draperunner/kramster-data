@@ -1,0 +1,364 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2014 Kont
+MC
+
+Q
+3
+I kompendiet hevdes det at følgende elementer er sentrale komponenter i en forretningsmodell:
+O
+Strategic resources, revenue streams, marketing and accounting.
+O
+Revenue streams, partnership network, core competence and marketing.
+O
+Core competence, strategic resources, revenue streams and partnership network.
+O
+Core strategy, strategic resources, partnership network and customer interface.
+
+Q
+0
+Hvilken av følgende påstander om venturekapitalfond er riktig?
+O
+I løpet av det siste tiåret har den samlede avkastingen for tidligfase venturekapitalfond i Europa og USA vært lav/negativ.
+O
+Venturekapitalfond er som hovedregel statlig eid skal støtte opp om etablering av nye bedrifter med stort vekstpotensial.
+O
+Dette er fond som primært opererer som passive eiere.
+O
+Venturekapitalfond investerer normalt sett i mange bransjer og et stort antall bedrifter for å diversifisere risikoen til fondet.
+
+Q
+3
+En mulighetsanalyse bør inneholde:
+O
+En grundig beskrivelse av mulige teknologiske løsninger.
+O
+En grundig drøfting av strategi og valg av forretningsmodell.
+O
+Visjon, forretningside, målsetninger, strategi, handlingsplan og økonomi.
+O
+En innledende vurdering av tekniske, markedsmessige, organisatoriske og økonomiske forhold knyttet til ideen.
+
+Q
+3
+Såkalte venturekapitalister kan i mange tilfeller bidra med mer enn finanskapital for å utvikle nye teknologibedrifter. Hvilke av elementene nevnt under blir normalt ikke tilbudt av venturekapitalister?
+O
+Tilgang til relevante markedskanaler
+O
+Økt legitimitet og tilgang til et større nettverk
+O
+Bidrar til å rekruttere nøkkelpersonell.
+O
+Bistand i den daglige driften av selskapet.
+
+Q
+2
+Hvilken av følgende påstander om finansiering av teknologibedrifter med vekstpotensial er riktig?
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I Norge er finansiering sjelden et problem siden vi har så gode offentlige virkemidler.
+O
+De private bankene vil normalt sett engasjere seg finansielt i de senere fasene ved utviklingen av en teknologibedrift.
+O
+Venturekapitalfond er den mest vanlige typen investor i nye vekstbedrifter.
+
+Q
+1
+Hvilken av de fire forslagene nedenfor vil kunne hjelpe en bedrift til å fremme radikale innovasjoner?
+O
+At de kun ansetter de aller flinkeste ekspertene innenfor den teknologien de benytter
+O
+At de sørger for at de som skal utvikle ny teknologi i bedriften har muligheter til å kunne konsultere med fagfolk på andre områder så ofte de vil
+O
+At de som skal jobbe med teknologiutvikling i bedriften har tett kontakt med produksjonen
+O
+At de som skal jobbe med teknologiutvikling i bedriften får muligheten til å patentere de ideene de kommer på.
+
+Q
+0
+Alle fire utfordringene nedenfor er viktige, men hvilken av dem regnes ifølge pensum som den grunnleggende struktur-utfordringen i større bedrifter?
+O
+Å få riktig grad av arbeidsdeling og differensiering i bedriften
+O
+Å bestemme balansen mellom horisontal og vertikal struktur
+O
+Å gi riktig lønn for riktig mengde arbeid
+O
+Å sørge for at informasjon og kommunikasjon flyter godt i organisasjonen
+
+Q
+3
+Byråkrati er en sosial «oppfinnelse» fra sent 1800-tall. Hvilket av de fire grunnsetningene nedenfor er IKKE en viktig grunnsetning for byråkratiet?
+O
+Forfremmelser skjer på grunnlag av kompetanse
+O
+Hvert nivå i byråkratiet kontrolleres og ledes av nivået over dem
+O
+Alle byråkrater har klare regler de skal jobbe etter for å sikre likebehandling og upartiskhet
+O
+Byråkrater belønnes etter prestasjon i jobben basert på skriftlige kriterier
+
+Q
+0
+Hvilken av påstandene under er korrekt om forholdet mellom prestasjon (Performance) og motivasjon (Motivation)?
+O
+Høy motivasjon er et nødvendig, men ikke tilstrekkelig element i høy prestasjon
+O
+Høy prestasjon er et nødvendig, men ikke tilstrekkelig element i høy motivasjon
+O
+Høy motivasjon og høy prestasjon er to ulike dimensjoner som ikke har noe med hverandre å gjøre
+O
+Høy motivasjon og høy prestasjon er sammenfallende begreper
+
+Q
+3
+Hackman and Oldman har jobbet med en survey for jobbdiagnose (Job Diagnostic Survey). Hvilken av de fire faktorene nedenfor tilhører IKKE de fem sentrale karakteristikkene i denne surveyen?
+O
+Task significance (Jobbens viktighet)
+O
+Autonomy (arbeiderens mulighet til å bestemme over jobben)
+O
+Skill variety (krever jobben mange ulike sett av ferdigheter)
+O
+Decision level (på hvilket nivå befinner de beslutninger seg som arbeideren må ta)
+
+Q
+0
+Hva kan vi si om stigningen til gjennomsnittskostnadene?
+O
+Stigningen til gjennomsnittskostnadene er positiv når marginalkostnadene er høyere enn gjennomsnittskostnadene og motsatt.
+O
+Stigningen til gjennomsnittskostnadene er negativ når marginalkostnadene er høyere enn gjennomsnittskostnadene og motsatt.
+O
+Stigningen til gjennomsnittskostnadene er positiv når marginalkostnadene er større enn null og motsatt.
+O
+Stigningen til gjennomsnittskostnadene er negativ når marginalkostnadene er større enn null og motsatt.
+
+Q
+2
+En bedrift har totalkostnader lik 15 000 000 ved en mengde på 1 000 og 15 500 000 ved en mengde på 1 100. Hva er da et naturlig anslag på bedriftens marginalkostnader i intervallet mellom 1 000 og 1 100?
+O
+1 000
+O
+3 000
+O
+5 000
+O
+7 000
+
+Q
+3
+Hva er den mest korrekte forklaringen på forskjellen mellom prisen og marginalinntekten?
+O
+Forskjellen er lik prisen for den nestsiste enheten som selges minus prisen for den siste.
+O
+Forskjellen er den deriverte av prisen med hensyn på mengden.
+O
+Forskjellen er elastisiteten ganger mengden.
+O
+Forskjellen er tapet ved å sette ned prisen på alle enhetene for å kunne selge én enhet mer.
+
+Q
+1
+Etterspørselen til en bedrift er gitt av P = 1 000 - 2Q der P er prisen og Q er mengden. For hvilken mengde, Q, er (absoluttverdien av) etterspørselselastisiteten bedriften ser lik 1,5?
+O
+150
+O
+200
+O
+250
+O
+300
+
+Q
+2
+Anta at vi har tre markeder der etterspørselen, dvs. sammenhengen mellom total mengde og pris, er den samme. Det ene er et monopolmarked, det andre er et oligopolmarked og det siste er et frikonkurransemarked. Bedriftene i alle markedene har de samme marginalkostnadene. Hva forventer vi om elastisiteten til total etterspørsel i disse markedene?
+O
+Den er størst, dvs. mest elastisk i frikonkurransemarkedet og minst elastisk i monopolmarkedet.
+O
+Den er størst, dvs. mest elastisk i oligopolmarkedet og minst elastisk i monopolmarkedet.
+O
+Den er størst, dvs. mest elastisk i monopolmarkedet og minst elastisk i frikonkurransemarkedet.
+O
+Den er lik i de tre markedene.
+
+Q
+2
+Et monopol har variable kostnader lik på 4 000Q, der Q er mengden. De faste kostnadene er 5 000 000. Etterspørselen kan skrives som Q = 10 000 - P, der Q er mengden og P er prisen. Hva blir optimal profitt for monopolet?
+O
+2 000 000
+O
+3 000 000
+O
+4 000 000
+O
+5 000 000
+
+Q
+2
+I et duopolmarked tilpasser bedriftene seg i tråd med den såkalte Cournot-modellen. Etterspørselen i markedet kan skrives som P = 100 - 2Q, der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader lik 10 og ingen faste kostnader. Hva blir profitten til hver av bedriftene ved likevekt?
+O
+250
+O
+350
+O
+450
+O
+550
+
+Q
+3
+Hva blir det samfunnsøkonomiske overskuddet knyttet til Cournot-oligopolet i oppgaven over?
+O
+1 200
+O
+1 400
+O
+1 600
+O
+1 800
+
+Q
+2
+Balansepostene for en bedrift er de samme i påfølgende perioder. Alle inntektsposter og kostnadsposter unntatt rentekostnadene er også uforandret mellom periodene. Skattesatsen er den samme. Hva blir effekten på egenkapitalrentabilitet og totalkapitalrentabilitet av at rentekostnadene øker fra periode én til periode to?
+O
+Både totalkapitalrentabilitet og egenkapitalrentabilitet går ned.
+O
+Både totalkapitalrentabilitet og egenkapitalrentabilitet går opp.
+O
+Totalkapitalrentabiliteten er uforandret mens egenkapitalrentabiliteten går ned.
+O
+Totalkapitalrentabiliteten er uforandret mens egenkapitalrentabiliteten går opp.
+
+Q
+1
+Fra periode én til periode to øker verdi av varelager i balansen til en bedrift mens eiendeler for øvrig og gjeldsposter er uforandret. Hva blir effekten på likviditetsgrad 1 (current ratio) og likviditetsgrad 2 (acid test ratio) av økningen i varelager?
+O
+Begge likviditetsgradene er uforandret.
+O
+Likviditetsgrad 1 øker mens likviditetsgrad 2 er uforandret.
+O
+Likviditetsgrad 1 synker mens likviditetsgrad 2 er uforandret.
+O
+Likviditetsgrad 1 synker mens likviditetsgrad 2 øker.
+
+Q
+2
+Et investeringsprosjekt innebærer en investering nå på 100 000 000. Om ett år er for­ventet positiv kontantstrøm 40 000 000, om to år er forventet positiv kontantstrøm på 50 000 000 og, til slutt, om tre år forventes en positiv kontantstrøm på 60 000 000. Dersom avkastningskravet er 8 %, hva blir forventet nettonåverdi for prosjektet?
+O
+11 382 419
+O
+17 520 661
+O
+27 533 913
+O
+45 398 255
+
+Q
+1
+Et investeringsprosjekt vil kunne gi positiv kontantstrøm i to år. Det er imidlertid stor usikkerhet knyttet til mulige kontantstrømmer. Bedriften regner med at det er 30 % sannsynlighet for at det går dårlig første år. Da blir kontantstrømmen 0 og prosjektet avsluttes. Dersom det ikke går dårlig første året, er forventet kontantstrøm om ett år 20 000 000 og prosjektet videreføres inn i det andre året. I så fall regner de med at det er like sannsynlig at det vil gi 0 som at det vil gi 30 000 000 to år fra nå. Hva er for­ventet nåverdi av kontantstrømmen når avkastningskravet er 10 % pr år?
+O
+9 173 553
+O
+21 404 959
+O
+22 272 727
+O
+25 123 967
+
+Q
+3
+Et selskap bruker et fast avkastningskrav i vurdering av alle investeringsprosjekter selv om risikoprofilen til mulige prosjekter er svært ulik. Hva er en korrekt vurdering av en slik praksis?
+O
+Så lenge gjennomsnittet av risikoen til prosjektene som gjennomføres reflekterer en risikojustert alternativkostnad til kapital lik det gitte avkastningskravet, vil denne praksisen maksimere verdien for eierne.
+O
+At forventet avkastning på investering i prosjektene selskapet gjennomfører er større eller lik den avkastningen eierne kan få ved å investere selv med tilsvarende risiko.
+O
+Så lenge avkastningskravet er lik selskapets WACC, dvs. kapitalkostnaden til totalkapitalen etter skatt, vil denne praksisen maksimere verdien for eierne.
+O
+Praksisen vil medføre en tendens til at lønnsomme lavrisikoprosjekter ikke gjennomføres og til at ulønnsomme høyrisikoprosjekter gjennomføres.
+
+Q
+0
+Hva kjennetegner en risikoavers investor?
+O
+En risikoavers investor er villig til å ofre noe forventet avkastning for å redusere risiko.
+O
+En risikoavers investor vil alltid prøve å minimere risikoen.
+O
+En risikoavers investor er villig til å ofre noe forventet avkastning for å få mer risiko.
+O
+En risikoavers investor vil alltid prøve å maksimere risikoen.
+
+Q
+0
+Hva kalles risikoen som reflekteres i begrepet beta som er en del av Capital Asset Pricing Model, dvs. kapitalverdimodellen?
+O
+Markedsrisiko.
+O
+Diversifiserbar risiko.
+O
+Unik risiko.
+O
+Konkursrisiko.
+
+Q
+1
+Forventet avkastning til aksjen til et selskap er 12 %. Markedsrisikopremien er 6 % og risikofri rente er 3 %. Anta at Capital Asset Prising Model, dvs. kapitalverdimodellen er korrekt. Hva er da beta til selskapets aksjer?
+O
+0,5
+O
+1,5
+O
+2,0
+O
+3,0
+
+Q
+3
+La \(\beta_A\) være beta for selskapets aktiva, la \(\beta_E\) være beta for selskapets egenkapital og la \(\beta_D\) være beta for selskapets gjeld. Markedsverdien av selskapets gjeld er \(D\) og markedsverdien av selskapets egenkapital er \(E\). Hva blir da et korrekt uttrykk for selskapets egenkapitalbeta?
+O
+\(\beta_E = \beta_D + \frac{D}{E}(\beta_A - \beta_D)\)
+O
+\(\beta_E = \beta_A + \frac{E}{D}(\beta_A - \beta_D)\)
+O
+\(\beta_E = \beta_D + \frac{E}{D}(\beta_A - \beta_D)\)
+O
+\(\beta_E = \beta_A + \frac{D}{E}(\beta_A - \beta_D)\)
+
+Q
+1
+Avkastningen til et selskaps egenkapital er 8 %. Avkastningen til selskapets gjeld er 4 %. Gjeldsandelen er 50 %. Selskapsskattesatsen er 25 %. Hva blir avkastningskravet til totalkapitalen etter skatt, dvs. WACC?
+O
+4,0 %
+O
+5,5 %
+O
+6,0 %
+O
+8,0 %
+
+Q
+0
+Anta at Capital Asset Prising Model, dvs. kapitalverdimodellen er korrekt. Som følge av den såkalte finanskrisen var det ekstraordinære avkastninger, med en negativ trend, i en periode for noen år siden. Hva skjer med gjennomsnittlig beta i markedet under slike kriser?
+O
+Den gjennomsnittlige beta i markedet er uforandret og lik 1.
+O
+Den gjennomsnittlige beta i markedet går opp og blir større enn 1.
+O
+Den gjennomsnittlige beta i markedet går ned og blir mindre enn 1, men ikke negativ.
+O
+Den gjennomsnittlige beta i markedet går ned og kan bli negativ.
+
+Q
+1
+Du har følgende estimater knyttet til et mulig investeringsprosjekt en bestemt periode i framtida: Kontantstrøm fra drift av prosjektet er 5 000 000, rentekostnader på investeringsbeløpet er 400 000 og selskapsskattesatsen er 28 %. Du skal bruke avkastningskravet til totalkapitalen etter skatt, dvs. WACC som diskonteringsrente. Hvilken kontantstrøm skal du da diskontere den aktuelle perioden?
+O
+3 312 000
+O
+3 600 000
+O
+3 712 000
+O
+5 000 000
