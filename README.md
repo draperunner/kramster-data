@@ -89,6 +89,8 @@ O
 4
 O
 It's an unsolved problem.
+EXPLANATION
+Of course 2 + 2 = 4. It's basic math.
 ```
 Note that 4 is the correct answer to this question, and that the _index_ of 4 is 3, so the 3 comes on line two.
 
