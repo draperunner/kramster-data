@@ -1,0 +1,355 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+TIØ4258 Teknologiledelse
+2017 Vår
+MC
+
+Q
+3
+Institusjonelle venturekapitalister kan i mange tilfeller bidra med mer enn finanskapital for å utvikle nye teknologibedrifter. Hvilken av fordelene nevnt under blir IKKE tilbudt av venturekapitalister?
+O
+Tilgang til relevante nettverk
+O
+Økt legitimitet for å få på plass strategiske samarbeidspartnere
+O
+Bidrar til å rekruttere nøkkelpersonell.
+O
+En forsikring mot konkurs.
+
+Q
+3
+Hvilken av følgende påstander om nye kunnskapsbedrifter med vekstambisjoner er korrekt?
+O
+Alle kunnskapsbedrifter som lykkes godt kommersielt har en unik ide som kan beskyttes med patenter eller andre formelle beskyttelsesmekanismer.
+O
+En kunnskapsbedrift som skal lykkes kommersielt bør som hovedregel ha med en investor.
+O
+Det beste er å være alene som entreprenør i oppstartsfasen, da har man kontroll på alt og kan senere rekruttere de menneskene man trenger.
+O
+En oppstart av en kunnskapsbedrift som gjøres av et tverrfaglig team lykkes som regel best kommersielt.
+
+Q
+3
+Hvilken av følgende påstander om innovasjon er i henhold til pensum?
+O
+Inkrementelle innovasjoner drives nesten alltid fram av nye eller unge teknologibedrifter
+O
+Det er ofte høy teknologisk usikkerhet i forbindelse med inkrementelle innovasjoner
+O
+Om man kan velge mellom inkrementell og radikal innovasjon så velger man alltid den radikale innovasjonen siden denne gir best konkurransekraft
+O
+Inkrementelle innovasjoner har preg av mer stegvise endringer, ofte drevet av bedrifter som allerede er etablerte markedsaktører
+
+Q
+3
+Hva er normalt sett korrekt rekkefølge på når disse aktørene investerer?
+O
+Entreprenør, venturekapitalfond, kommersielle banker, såkornfond
+O
+Entreprenør, såkornfond, venturekapital fond, private investorer (”informal investors”).
+O
+Børsen, entreprenør, såkornfond, venturekapitalfond.
+O
+Entreprenør, private investorer (”informal investors”), såkornfond, venturekapitalfond
+
+Q
+2
+Hvilken av følgende påstander om finansiering av nye teknologibedrifter med vekstpotensial er korrekt?
+O
+I tidlig fase vil bankene som regel være den viktigste finansieringskilden.
+O
+I de nordiske land er finansiering sjelden et problem for nye teknologibedrifter siden det finnes gode offentlige virkemiddelordninger.
+O
+Bankene vil normalt sett ikke engasjere seg finansielt i de tidligste fasene ved utviklingen av en ny teknologibedrift.
+O
+En teknologibedrift må alltid ha med institusjonelle venturekapitalfond som eiere for å lykkes kommersielt.
+
+Q
+3
+Hvilken av de følgende argumentene er ifølge læreboken en viktig kritikk mot arbeidsspesialisering:
+O
+Høy arbeidsspesialisering hindrer innføring av maskineri som kan gjøre jobben mer effektivt.
+O
+Høy arbeidsspesialisering fører til høyere kompetansekrav i organisasjoner, hvilket ekskluderer mange fra å delta i arbeidslivet.
+O
+Den individuelle produktiviteten vil reduseres i organisasjoner med høy arbeidsspesialisering.
+O
+Jobber med høy arbeidsspesialisering kan oppleves som kjedelige, ensformige og monotone.
+
+Q
+3
+Hvilken av motivasjonsteoriene som læreboken gjør rede for trekker frem disse seks punktene som sentrale for å oppnå jobbtrivsel: variasjon, læring, Innflytelse, anseelse og positivt selvbilde, sammenheng unngår fremmedgjøring, verdifull jobb nå og i fremtiden.
+O
+Maslows behovshierarki
+O
+Herzebergs tofaktrteori
+O
+Vrooms forventningsteori
+O
+Psykologiske jobbkrav
+
+Q
+1
+Hvilket av de følgende utsagnene om belønninger stemmer ikke overens med det som står læreboken?
+O
+Belønningspakken som en ansatt får består normalt av to deler: lønn (fast og variabel) og andre goder.
+O
+I Norge er velferdsgoder som helsetjenester, pensjon og ferie regulert sentralt, og arbeidsgiver har derfor ikke anledning til å tilby verken mer eller mindre av disse godene.
+O
+Totalpakken som tilbys av lønn og goder kan ha stor innvirkning på hvor fornøyde og motiverte de ansatte er.
+O
+Fordi vi er ulike og motiveres av ulike ting vil individualisering av belønningspakken være en viktig vurdering for mange arbeidsgivere.
+
+Q
+0
+Læreboken lister opp fem momenter som inngår i ferdigheten aktiv lytting, hvilket av de følgende fire er ikke et av disse momentene?
+O
+Illustrasjon (på papir/tavle) av det som diskuteres
+O
+Gjenspeiling av konsekvensene
+O
+Gjenspeiling av følelser
+O
+Oppmuntring til videre utdypning
+
+Q
+2
+En bedrift har marginalkostnadene C som er konstante og altså uavhengige av mengden, Q. Hva blir bedriftens variable kostnader?
+O
+\(C / Q\)
+O
+\(C + Q\)
+O
+\(C \cdot Q\)
+O
+\(Q / C\)
+
+Q
+1
+Gjennomsnittskostnadene til en bedrift er 12, mens marginalkostnadene er 10. Hva vil skje med gjennomsnittskostnadene og totalkostnadene ved en (marginal) økning i mengden?
+O
+Gjennomsnittskostnadene øker, mens totalkostnadene minker.
+O
+Gjennomsnittskostnadene minker, mens totalkostnadene øker.
+O
+Både gjennomsnittskostnadene og totalkostnadene øker.
+O
+Både gjennomsnittskostnadene og totalkostnadene minker.
+
+Q
+1
+Etterspørselen etter produktet til et monopol kan uttrykkes som Q = 1000 - 2P, der Q er etterspurt mengde og P er prisen per enhet. Dersom bedriften produserer 300 enheter, hva er da marginalinntekten?
+O
+0
+O
+200
+O
+600
+O
+800
+
+Q
+0
+Hva kan vi si om sammenhengen mellom etterspørselselastisitet og marginalinntekt?
+O
+Dersom marginalinntekten er positiv, er etterspørselen elastisk.
+O
+Dersom marginalinntekten er negativ, er etterspørselen elastisk.
+O
+Dersom marginalinntekten er null, er etterspørselen elastisk.
+O
+Dersom marginalinntekten er uavhengig av mengde, er etterspørselen uelastisk.
+
+Q
+3
+Anta at et marked fungerer i tråd med modellen for frikonkurranse. Hvilket utsagn vil da normalt være feil?
+O
+Bedriftene opptrer som om at pris er lik marginalinntekt.
+O
+Bedriftene tilpasser mengde slik at marginalkostnadene er lik prisen.
+O
+Bedriftene tilpasser seg slik at marginalinntekt er lik marginalkostnad.
+O
+Bedriftene ser en uelastisk etterspørsel
+
+Q
+1
+Et monopol har marginalkostnader på 2 000. Etterspørselen kan skrives som Q = 10 000 – P, der Q er mengden og P er prisen. Hva blir optimal mengde for monopolet?
+O
+2 000
+O
+4 000
+O
+6 000
+O
+7 000
+
+Q
+2
+I et duopolmarked tilpasser bedriftene seg i tråd med den såkalte Cournot-modellen. Etterspørselen i markedet kan skrives som P = 100 – 2Q, der P er prisen og Q er mengden. Begge bedriftene har marginalkostnader lik 10 og ingen faste kostnader. Hva blir profitten til hver av bedriftene ved likevekt?
+O
+250
+O
+350
+O
+450
+O
+550
+
+Q
+0
+Et monopol har faste marginalkostnader, slik at marginalkostnadene ikke varierer med produsert mengde. Hva kan vi da si om samfunnsøkonomisk lønnsomhet?
+O
+Produsentoverskuddet blir større enn konsumentoverskuddet.
+O
+Samfunnsøkonomisk overskudd blir null.
+O
+Samfunnsøkonomisk overskudd blir lik konsumentoverskuddet.
+O
+Samfunnsøkonomisk overskudd blir lik produsentoverskuddet.
+18) a,
+
+Q
+0
+Hva er den mest korrekte beskrivelsen av regnskapsmessige avskrivninger?
+O
+Avskrivninger reflekterer regnskapsmessige reduksjoner i bokført verdi av aktiva.
+O
+Avskrivninger tilsvarer avdrag betalt på gjeld tatt opp ved investeringer i aktiva.
+O
+Avskrivninger reflekterer tap bedriften har hatt på investeringer i verdipapirer.
+O
+Avskrivninger er primært verditap i forbindelse med at bedriften ikke får solgt de produktene den har produsert.
+
+Q
+3
+En bedrift er finansiert med gjeld og egenkapital. Hvilken effekt vil en reduksjon av rentesatsen på bedriftens lån isolert sett ha?
+O
+Redusert rente bidrar til økt totalkapitalrentabilitet.
+O
+Redusert rente bidrar til redusert totalkapitalrentabilitet.
+O
+Redusert rente bidrar til redusert egenkapitalrentabilitet.
+O
+Redusert rente bidrar til økt egenkapitalrentabilitet.
+
+Q
+0
+Hva er nåverdien av å få 1 000 000 om fem år når avkastningskravet er 10 % pr år?
+O
+620 921
+O
+735 030
+O
+793 832
+O
+909 091
+
+Q
+2
+Et verdipapir gir kontantstrømmen 1 000 om én periode, \(1000(1+g)\) om to perioder, \(1000(1+g)^2\) om 3 perioder og så videre slik at kontantstrømmen endres med faktoren \(1+g\) for
+hver periode gjennom et uendelig antall perioder. Diskonteringsrenten er 8 %. Dersom verdien av verdipapiret nå er 25 000, hva er da den implisitte veksten, \(g\)?
+O
+0 %
+O
+2 %
+O
+4 %
+O
+6 %
+
+Q
+0
+I forbindelse med vurdering av et investeringsprosjekt regner selskapet med at i periode 2 vil kontantstrømmen være -2 000 000 med sannsynlighet 40 %, 0 med sannsynlighet 25 % og
+3 000 000 med sannsynlighet 35 %. Hva er nåverdien av forventet kontantstrøm i denne perioden dersom avkastningskravet er 15 %?
+O
+189 036
+O
+217 391
+O
+250 000
+O
+1 398 866
+
+Q
+1
+En investering på 5 000 000 nå forventes å gi en positiv kontantstrøm på 6 050 000 om to perioder og ellers ingen kontantstrømmer. Hva er da investeringens internrente?
+O
+8 %
+O
+10 %
+O
+21 %
+O
+25 %
+
+Q
+1
+En rasjonell person som opptrer med risikoaversjon i forhold til alle finansielle beslutninger, vurderer noen mulige veddemål. Hva er da et korrekt utsagn?
+O
+Personen vil kunne betale 4 000 kroner for å få 1 000 kroner for hver prikk en perfekt terning viser etter ett kast.
+O
+Personen vil kunne betale 4 000 kroner for å få 8 000 kroner dersom det blir hjemmeseier i en bestemt fotballkamp og ingenting dersom det blir uavgjort eller borteseier.
+O
+Personen vil kunne betale 4 000 kroner for å få 2 000 eller 6 000 kroner med lik sannsynlighet.
+O
+Personen vil ikke akseptere noen av veddemålene i svaralternativ a, b eller c.
+
+Q
+2
+Hva kjennetegner en veldiversifisert portefølje?
+O
+Det er lite systematisk risiko i porteføljen.
+O
+Det er lite markedsrisiko i porteføljen.
+O
+Det er lite ikke-systematisk risiko i porteføljen.
+O
+Det er lite ikke-diversifiserbar risiko i porteføljen.
+
+Q
+3
+Et verdipapir har en beta på 2. Hva er en naturlig forklaring på hva det innebærer?
+O
+Verdipapirets risiko, målt ved standardavviket, er dobbelt så stor som markedets risiko.
+O
+Forventet avkastning for verdipapiret er to ganger forventet markedsavkastning.
+O
+Forventet avkastning for verdipapiret er to ganger risikofri rente.
+O
+Svingninger i verdipapirets avkastning tenderer til å være det doble av svingninger i markedets avkastning, slik at med en markedsavkastning på 1 % i løpet av for eksempel en uke, er forventet avkastning 2 % for verdipapiret.
+
+Q
+2
+Markedsverdien av gjeld og egenkapital for et selskap er like. Forventet avkastning for selskapets aktiva før skatt er 10 %. Forventet avkastning for gjeld før skatt er 4 %. Hva er da forventet avkastning for selskapets egenkapital før skatt?
+O
+4 %
+O
+10 %
+O
+16 %
+O
+22 %
+
+Q
+2
+Kapitalverdimodellen, eller Capital Asset Pricing Model (CAPM), gir en sammenheng mellom størrelsen kalt beta, forventet avkastning på en investering, risikofri avkastning og forventet avkastning i markedet. Anta at beta for en aksje er 1,5. Forventet markedsavkastning er 8 % og risikofri rente er 2 %. Hva blir da forventet avkastning for aksjen i følge CAPM?
+O
+2,0 %
+O
+8,0 %
+O
+11,0 %
+O
+14,0 %
+
+Q
+1
+I løpet av de siste årene har selskapsskattesatsen i Norge blitt redusert. Når vi betrakter denne utviklingen isolert fra andre endringer i perioden, hva er det ut fra teori diskutert i pensum naturlig å tro at denne skattereduksjonen kan ha bidratt til?
+O
+At bedriftene nå har høyere gjeldsandel enn de ellers ville hatt.
+O
+At bedriftene nå har lavere gjeldsandel enn de ellers ville hatt.
+O
+At bedriftene nå har etablert flere datterselskaper i utlandet.
+O
+At bedriftene nå har større andel av gjelden i utenlandsk valuta.
