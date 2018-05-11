@@ -141,7 +141,7 @@ Etterspørselen etter produktet til et monopol kan uttrykkes som \(Q = 1000 - 0,
 O
 \( MR = 1000 - 0,2P \)
 O
-\( MR = 10 000 - 20P \)
+\( MR = 10 000 - 20Q \)
 O
 \( MR = 1000 - 0,2Q \)
 O
