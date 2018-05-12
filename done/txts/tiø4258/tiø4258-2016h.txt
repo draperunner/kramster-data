@@ -152,13 +152,13 @@ Q
 Anta at etterspørselselastisiteten defineres slik at den blir et ikke-negativt tall for normal etterspørsel. Etterspørselen etter produktet til et monopol kan uttrykkes som \(Q = 1000 - 0,1P\) der \(Q\) er etterspurt
 mengde og \(P\) er prisen per enhet. Dersom bedriften produserer 500 enheter, hva er da etterspørselselastisiteten?
 O
-a 0,0
+0,0
 O
 0,5
 O
 1,0
 O
-d 1,5
+1,5
 
 Q
 0
@@ -279,9 +279,9 @@ med sannsynlighet 40 %. Hva er nåverdien av forventet kontantstrøm i denne pe
 O
 510 684
 O
-b 571 966
+571 966
 O
-c 666 667
+666 667
 O
 d 762 622
 
