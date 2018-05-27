@@ -6,9 +6,10 @@ MC
 Q
 2
 Nedenfor er fire eksempler på strategiske fordeler. Alle er korrekte, men en av dem kan ikke sies å være basert på innovasjon som strategi. Hvilken?
+O
 Starbucks ble en suksesshistorie fordi de endret konkurransegrunnlaget fra lavest mulig pris for kaffen, til best mulig kvalitet.
 O
-GM innførte på 90-tallet plattformtenking rundt sine bilmodeller, der man forenklet antallet komponenter og brukte samme komponent i mange ulike modeller. Bilene ble dermed mer like hverandre, bortsett fra i et lite antall deler som særpreget de ulke bilmodellene. Dette førte til store besparelser i deleproduksjon og innkjøp.
+GM innførte på 90-tallet plattformtenking rundt sine bilmodeller, der man forenklet antallet komponenter og brukte samme komponent i mange ulike modeller. Bilene ble dermed mer like hverandre, bortsett fra i et lite antall deler som særpreget de ulike bilmodellene. Dette førte til store besparelser i deleproduksjon og innkjøp.
 O
 Mange norske bedrifter har tjent store penger på å flytte produksjon til land der lønningene er lavere.
 O
