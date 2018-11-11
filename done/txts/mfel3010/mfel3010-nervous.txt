@@ -1,0 +1,112 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL3010 Medicine for Students of Natural Sciences and Technology
+Nervous System
+MC
+
+Q
+3
+What is correct about excitation contraction coupling?
+O
+The action potential causes inflow of Na+ intracellularly, which binds to tubulin
+O
+The action potential causes inflow of Na+ intracellularly, which binds to troponin
+O
+The action potential causes intracellular release of Ca++,which binds to tubulin
+O
+The action potential causes intracellular release of Ca++, which binds to troponin.
+
+Q
+1
+What is the function of the sodium-potassium pump?
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by utilizing the membrane potential
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP
+O
+Transporting of sodium and potassium from high to low concentration by facilitated diffusion.
+O
+Equalize extracellular and intracellular concentration of Sodium and Potassium.
+
+Q
+1
+What is the result of the process which is the function of the sodium-potassium pump?
+O
+Utilizing the concentration gradient of sodium and potassium for synthesis of ATP.
+O
+The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential
+O
+As the concentration differences of potassium and sodium across the cell membrane are removed (equalized), the differences in protein anions will create a membrane potential.
+O
+As the intracellular concentrations of sodium and potassium becomes equal, the membrane potential is determined by the concentration of calcium.
+
+Q
+1
+Where is the regulatory centre for respiration situated in the nervous system?
+O
+The sympathetic ganglia
+O
+The brain stem
+O
+The cerebellum
+O
+The basal ganglia
+
+Q
+2
+Where in the central nervous system is pulse and blood pressure controlled?
+O
+The cerebral cortex
+O
+The cerebellum
+O
+The brainstem
+O
+The spinal cord
+
+Q
+2
+What is the function of myelin sheaths around nerve axons?
+O
+Nutrition
+O
+Mechanical support
+O
+Increasing signal conduction
+O
+Protection against infection
+
+Q
+2
+What are synapses?
+O
+Synapses are support cells which works as the maintenance and immune cells of the nervous system
+O
+Synapses are specialized nerve cells, whose primary function is transmission of the fast signal activity throughout the nervous system
+O
+Synapses are places of contact between a nerve cell and another cell (nerve cells, muscle cells or glandular cells).
+O
+Synapses are extensions of support cells that establish intimate contact with nerve cell axons to facilitate impulse conduction.
+
+Q
+2
+What is correct about an action potential?
+O
+An action potential is triggered by an increase in calcium in the extracellular fluid
+O
+An action potential is triggered by an increase in calcium in the cytoplasm
+O
+An action potential is triggered by a partial depolarisation of the cell membrane.
+O
+An action potential is triggered by a patrial hyperpolarisation f the cell membrane
+
+Q
+1
+In the situation called “fight or flight response” one part of the peripheral nervous system is activated even before action starts. Which?
+O
+The parasympathetic system
+O
+The sympathetic system
+O
+The somatic motor neurons
+O
+The somatic sensory neurons
