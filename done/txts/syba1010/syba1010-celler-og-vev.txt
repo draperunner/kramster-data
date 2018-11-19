@@ -1,0 +1,124 @@
+Storbyuniversitetet (OsloMet)
+SYBA1010 Anatomi, fysiologi og biokjemi
+Celler og vev
+MC
+
+Q
+2
+Hva er et gen oppskriften på?
+O
+Et karbohydrat
+O
+Et fettstoff
+O
+Et protein
+O
+En nukleinsyre
+
+Q
+1
+Hva gjør mitokondriene i en celle?
+O
+Danner proteiner
+O
+Danner ATP
+O
+Bryter ned avfallsstoffer
+O
+Danner melkesyre
+
+Q
+3
+På hvilken måte beveger oksygen og karbondioksid seg mellom blod og celler?
+O
+Ved aktiv transport (pumping)
+O
+Ved osmose
+O
+Ved eksocytose
+O
+Ved diffusjon
+
+Q
+1
+Hvordan vandrer vann ved osmose gjennom en semipermeabel (halvt gjennomtrengelig) membran?
+O
+Fra stedet med høyest konsentrasjon av oppløste stoffer
+O
+Til stedet med høyest konsentrasjon av oppløste stoffer
+O
+Til stedet med lavest konsentrasjon av oppløste stoffer
+O
+Fra stedet med lavest konsentrasjon av vann
+
+Q
+2
+Hvordan opprettholder natrium-kaliumpumpen membranpotensialet (ionekonsentrasjonsforskjeller mellom utsiden og innsiden av cellen)?
+O
+Ved osmose
+O
+Ved diffusjon
+O
+Ved aktiv transport (pumping)
+O
+Ved eksocytose
+
+Q
+0
+Hvor dannes proteiner i en celle?
+O
+På ribosomene
+O
+I lysosomene
+O
+I mitokondriene
+O
+På cellemembranen
+
+Q
+1
+Hvor foregår energiomsetningen i en celle?
+O
+I cellekjernen
+O
+I mitokondriene
+O
+I cellemembranen
+O
+I lysosomene
+
+Q
+2
+Hvilket utsagn er riktig?
+O
+Røde blodceller har evne til fagocytose
+O
+Fagocytose er et eksempel på eksocytose
+O
+Endocytose innebærer at materiale fra ekstracellulærvæsken fraktes inn i cellen
+O
+Ved eksocytose transporteres molekyler fra utsiden til innsiden av en celle
+
+Q
+3
+Hvilket utsagn er riktig?
+O
+Fettvev gir mekanisk styrke og sammenbinding
+O
+Løst bindevev gir friksjonsfri bevegelse i synovialledd
+O
+Bruskvev forsterker slimhinnene
+O
+Fast bindevev finnes særlig i sener og leddbånd
+
+Q
+1
+Hvilken funksjon har lysosomer i en celle?
+O
+De er transportproteiner i cellemembraner
+O
+De bryter ned avfallsstoffer i cellen
+O
+De produserer energi i form av ATP
+O
+De produserer fettsyrer

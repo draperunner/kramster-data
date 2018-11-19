@@ -1,0 +1,74 @@
+Storbyuniversitetet (OsloMet)
+SYBA1010 Anatomi, fysiologi og biokjemi
+Sirkulasjonssystemet
+MC
+
+1)	Hjerteveggen består av 3 lag: epikard, myokard og endokard. Hvilke(n) påstand(er) er riktig(e)?
+A.	Epikard er en del av perikardet
+B.	Myokard er selve hjertemuskelen
+C.	Endokard kler innsiden av hjertet og henger fast i innsiden av tilkoplende blodårer
+D.	Alle ovennevnte er riktige
+Riktig svar: D
+
+2)	Hjertet består av fire kammer: to atrier (forkammer) og to ventrikler (hjertekammer). I hvilken rekkefølge passerer blodet disse kamrene (H = høyre, V = venstre)?
+A.	H.ventrikkel  -> v.ventrikkel -> v.atrium->  h.atrium
+B.	V.ventrikkel -> h.atrium -> h.ventrikkel -> v.atrium
+C.	H.atrium -> h.ventrikkel -> v.atrium -> v.ventrikkel
+D.	V.atrium -> v.ventrikkel -> h.ventrikkel -> h.atrium
+Riktig svar: C
+
+3)	I hjertet finner vi spesialiserte celler vi kaller pacemakerceller eller celler med pacemakerfunksjon. Hva er karakteristisk for disse cellene?
+A.	De gir høy puls
+B.	De gir lav puls
+C.	De depolariseres spontant og gir hjertet en egenrytme mht. kontraksjon
+D.	De depolariserer ikke, og hemmer derfor hjertet å slå unormalt ved høy belastning
+Riktig svar: C
+
+4)	Hvor starter aksjonspotensialet og utbredelsen av det elektriske signalet i hjertet vanligvis?
+A.	Purkinjefibrene
+B.	HIS-bunten
+C.	Sinusknuten
+D.	AV-knuten
+Riktig svar: C
+
+5)	Pacemakercellene i de ulike stedene i hjertet har ulik depolariseringsfrekvens. Dersom pacemakercellene i sinusknuten blir ødelagt overtar pacemakercellene i AV-knuten reguleringen av hjertekontraksjonen. Hva skjer mht. hvilepulsen?
+A.	Pulsen blir uendret
+B.	Pulsen øker
+C.	Pulsen avtar
+D.	Pulsen blir ustabil
+Riktig svar: C
+
+6)	Et EKG består normalt av en P-takk, et QRS-kompleks og en T-takk. Hva uttrykker P-takken?
+A.	Depolarisering (kontraksjon) av ventriklene
+B.	Depolarisering (kontraksjon) av atriene
+C.	Repolarisering (hvilefasen) av atriene
+D.	Repolarisering av ventriklene
+Riktig svar: B
+
+7)	Hvilken ligning beskriver riktig sammenheng mellom hjertets minuttvolum (MV), blodtrykk (BT) og motstanden i karsystemet (TPM)?
+A.	MV = TPM x BT
+B.	MV = TPM / BT
+C.	BT = MV / TPM
+D.	BT = MV x TPM
+Riktig svar: D
+
+8)	Hvilken hovedoppgave har bindevevsplaten (anulus fibrosus) i hjertet?
+A.	Å sikre en rask spredning av aksjonspotensialet gjennom hjertet
+B.	Å hindre bakteriell spredning i hjertet
+C.	Å fungere som elektrisk isolator
+D.	Å fungere som forankringspunkt for perikard
+Riktig svar: C
+
+9)	Hvis menneskehjertet hadde vært helt upåvirket av hormoner og nerver ville det slå med en frekvens på ca:
+A.	70 slag i minuttet
+B.	45 slag i minuttet
+C.	220 slag i minuttet
+D.	100 slag i minuttet
+Riktig svar: D
+
+10)	Hvor får hjertets muskulatur sin blodtilførsel fra?
+A.	Venstre ventrikkel
+B.	Aorta
+C.	Koronararteriene
+D.	Venstre atrium
+Riktig svar: C

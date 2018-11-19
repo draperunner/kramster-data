@@ -1,0 +1,88 @@
+Storbyuniversitetet (OsloMet)
+SYBA1010 Anatomi, fysiologi og biokjemi
+Hud og temperatur
+MC
+
+1)	Hvilken påstand er riktig?
+A. Svettekjertlene stimuleres av det parasympatiske nervesystemet
+B. Svetting er viktig for kroppens evne til å regulere temperatur
+C. Svette bidrar til hudens infeksjonsforsvar ved å øke pH på huden
+D. Svette består bare av vann
+Riktig svar: B
+
+2)	Hvilken mekanisme kan øke varmetapet fra kroppen?
+A. Reduksjon av blodstrømmen til huden
+B. Reduksjon av blodstrømmen til temperaturreguleringssenteret
+C. Økning av blodstrømmen til temperaturreguleringssenteret
+D. Økning av blodstrømmen til huden
+Riktig svar: D
+
+3)	Hvilket utsagn om epidermis er riktig?
+A. Epidermis består av enlaget plateepitel
+B. Epidermis inneholder talgkjertler
+C. Epidermis mangler blodårer
+D. Epidermis ligger mellom dermis og subcutis
+Riktig svar: C
+
+4)	Hvilket utsagn om dermis er riktig?
+A. Dermis består av plateepitel
+B. I dermis er det både svettekjertler og talgkjertler
+C. Dermis er det øverste laget av huden
+D. I dermis produseres det melatonin
+Riktig svar: B
+
+5)	Hvilket utsagn om svettekjertler er riktig?
+A. Svettekjertlene stimuleres av det parasympatiske nervesystemet
+B. Svetting er viktig for kroppens evne til å regulere temperatur
+C. Svette bidrar til hudens infeksjonsforsvar ved å øke pH på huden
+D. Svette består av rent vann
+Riktig svar: B
+
+6)	Hvilken mekanisme kan begrense varmetap fra kroppen?
+A. Økning av blodstrømmen til huden
+B. Økning av blodstrømmen til temperaturreguleringssenteret
+C. Reduksjon av blodstrømmen til temperaturreguleringssenteret
+D. Reduksjon av blodstrømmen til huden
+Riktig svar: D
+
+7)	Hvilket utsagn om kjertler er riktig?
+A. Eksokrine kjertler skiller ut hormoner til blodbanen
+B. Endokrine kjertler skiller ut slim eller et annet stoff til en epiteloverflate
+C. Svettekjertler er eksokrine kjertler
+D. Talgkjertler er endokrine kjertler
+Riktig svar: C
+
+8)	Hvilket utsagn om epitel er riktig?
+A. Tarmslimhinnen består av flerlaget plateepitel
+B. Endotel er det samme som flerlaget plateepitel
+C. Epidermis består av enlaget sylinderepitel
+D. Epidermis består av flerlaget plateepitel
+Riktig svar: D
+
+9)	Hvilket utsagn om temperaturregulering ved feber er riktig?
+A. Ved stigende feber er blodstrømmen i huden nedsatt
+B. Ved stigende feber øker blodstrømmen i huden
+C. Den forhåndsinnstilte temperaturen i hypotalamus senkes når feberen stiger
+D. Det er typisk å få skjelvinger når feberen synker
+Riktig svar: A
+
+10)	Hvilket utsagn om talgkjertler er riktig?
+A. Talg skilles bare ut via hårsekkene i hodebunnen
+B. Talg senker hudens vannavstøtende egenskaper
+C. Talg bidrar til hudens infeksjonsforsvar
+D. Kjønnshormoner har ingen påvirkning på talgkjertlene
+Riktig svar: C
+
+11)	Hvilket utsagn om temperaturregulering ved feber er riktig?
+A. Ved begynnelsen av en feberepisode blir huden blek på grunn av nedsatt blodstrøm i huden
+B. Ved feberstigning øker blodstrømmen i huden
+C. Den forhåndsinnstilte temperaturen i hypothalamus senkes ved feber
+D. Det er typisk å få skjelvinger når feberen synker
+Riktig svar: A
+
+12)	Hvilket hudlag består av flerlaget plateepitel?
+A. Epidermis
+B. Dermis
+C. Subcutis
+D. Endotel
+Riktig svar: A

@@ -1,0 +1,184 @@
+Storbyuniversitetet (OsloMet)
+SYBA1010 Anatomi, fysiologi og biokjemi
+Blod og immun
+MC
+
+Q
+1
+Hvilken av disse funksjonene har nøytrofile granulocytter?
+O
+De skiller ut histamin
+O
+De fagocytterer bakterier
+O
+De produserer antistoffer
+O
+De fungerer som hukommelsesceller
+
+Q
+0
+Hvilket utsagn om albumin er riktig?
+O
+Albumin har betydning for det osmotiske trykket i blodet
+O
+Albumin har en viktig funksjon i koagulasjonsmekanismen
+O
+Albumin er viktig for reabsorpsjon av urin i distale tubuli
+O
+Albumin er et antistoff i blodbanen
+
+Q
+0
+Hvilket utsagn om blodet er riktig?
+O
+Blodet består av plasma og blodceller
+O
+Hemoglobinet finnes i leukocyttene
+O
+Erytrocytter er det samme som hvite blodceller
+O
+Trombocyttenes funksjon er å transportere oksygen
+
+Q
+2
+Hvilke blodceller fagocytterer kroppsfremmed materiale ved en betennelse?
+O
+Mastceller og plasmaceller
+O
+B- og T-lymfocytter
+O
+Makrofager og nøytrofile granulocytter
+O
+Trombocytter og erytrocytter
+
+Q
+1
+Hvilken av disse celletypene skiller ut histamin?
+O
+Nøytrofile granulocytter
+O
+Mastceller
+O
+Makrofager
+O
+Eosinofile granulocytter
+
+Q
+1
+Hvilket utsagn om lymfocytter er riktig?
+O
+Lymfocytter tilhører det ytre immunforsvaret (barriereforsvaret)
+O
+B-lymfocytter produserer antistoffer
+O
+T-lymfocytter produserer antigener
+O
+Lymfocytter er ikke involvert i immuniseringen som oppstår som resultat av vaksinering
+
+Q
+0
+Hva er funksjonen til erytrocytter?
+O
+Erytrocytter transporterer O2 til kroppens vev, og returnerer CO2 til lungene
+O
+Erytrocytter er en del av infeksjonsforsvaret
+O
+Erytrocytter transporterer albumin
+O
+Erytrocytter bidrar til blodplatedannelse
+
+Q
+2
+Hvilket utsagn om hemostasen er riktig?
+O
+Når blodplatepluggen er dannet, er hemostaseprosessen fullstendig
+O
+Fibrin lages av blodplater
+O
+Hemostasen innebærer først åresammentrekning (karkontraksjon), så dannelse av blodplateplugg og til slutt koagulasjon av blodet
+O
+Dannelse av blodplateplugg kalles fibrinolyse
+
+Q
+2
+Hvilket utsagn om fibrinolysen er riktig?
+O
+Fibrinolyse betyr dannelse av fibrin
+O
+Fibrinolyse medfører dannelse av blodpropp (koagel)
+O
+Fibrinolyse betyr oppløsning av fibrin slik at blodproppen (koagelet) går i oppløsning
+O
+Fibrinolysen aktiveres av hormonet erytropoietin
+
+Q
+1
+Hvilket utsagn om reguleringen av produksjonen av erytrocytter er riktig?
+O
+Leveren produserer erytropoietin
+O
+Erytropoietin stimulerer dannelsen av erytrocytter i beinmargen
+O
+Lav CO2 verdi gir økt utskillelse av erytropoietin
+O
+Nyrene har ingen betydning når det gjelder reguleringen av erytrocyttproduksjonen
+
+Q
+1
+Hvilken funksjon har antistoffer?
+O
+Antistoffer øker produksjonen av antigener i kroppen
+O
+Antistoffer binder seg til antigen og derved kan uskadeliggjøre antigenene
+O
+Antistoffer har samme funksjon som antigener
+O
+Antistoffer hindrer B-lymfocyttene i å produsere plasmaceller
+
+Q
+1
+Hvordan transporteres mesteparten av oksygenet i blodet?
+O
+Løst i plasma
+O
+Bundet til hemoglobin i erytrocytter
+O
+Festet til trombocytter
+O
+I leukocytter
+
+Q
+3
+Hva er samlebetegnelsen på hvite blodceller?
+O
+Lymfocytter
+O
+Monocytter
+O
+Fagocytter
+O
+Leukocytter
+
+Q
+2
+Hva er effekten av hukommelsesceller?
+O
+Unngå smitte
+O
+Hindre betennelse
+O
+Rask nedkjemping av infeksjon
+O
+Gi rask feberstigning
+
+Q
+3
+Hvilket utsagn om makrofager er riktig?
+O
+Umodne makrofager kalles granulocytter
+O
+Hovedoppgaven til makrofager er å løse opp blodplateplugger
+O
+Makrofager fagocytterer mikroorganismer og ødelagt vev ved hjelp av eksocytose
+O
+Makrofager kan fagocyttere mikroorganismer og «spise» ødelagte vevsstrukturer
