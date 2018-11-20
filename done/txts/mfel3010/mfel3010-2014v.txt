@@ -1,0 +1,486 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL3010 Medicine for Students of Natural Sciences and Technology
+2014 Spring
+MC
+
+Q
+C
+In a case-control study of the association between an exposure and a disease;
+O
+the controls should not be exposed
+O
+10% of the controls should be exposed
+O
+the controls should represent the distribution of the exposure in the population that the cases come from
+O
+the controls should be matched to the cases so that the exposure is similar between cases and controls
+
+Q
+A
+How can confounding change the effect estimate (e.g. a relative risk) of a cohort study? The effect estimate
+O
+can become either too large or too small
+O
+can only become too large
+O
+will not change
+O
+will not change if the study is large enough
+
+Q
+B
+The kidney produces urine to get rid of waste products. What is the mechanism best describing how the "pre-urine" is produced in the glomerulus?
+O
+Proteins in the urine give a high osmotic pressure gradient that "drags" fluid Into the urinary space
+O
+High hydrostatic pressure in the blood "push" fluid into the urinary space
+O
+The high concentration of albumin, which is negatively charged, "push" waste product with a negative charge into the urinary space.
+O
+Waste products in the blood are actively transported from the blood into the urinary space with active pumps at the glomerulus basal membrane.
+
+Q
+C
+The method called restriction fragment length polymorphism (RFLP) is used to:
+O
+Increase the amount of DNA found in a small sample
+O
+Increase the amount of DNA found in a degraded samples
+O
+Break up the DNA-strand into smaller pieces to compare DNA from different sources
+O
+To sequence the DNA on a base to base manner
+
+Q
+A
+Each of our cells is like a tiny factory where thousands of chemical reactions take place every day in separate and specialized organelles, of which the ribosomes are one type. - What is the major function of this particular organelle?
+O
+Protein synthesis
+O
+Protein modification
+O
+Protein collection
+O
+Protein package
+
+Q
+A
+A recent study of different measures of left ventricular function gave the following results for mean values in the (healthy) study group: Mean ejection fraction 59%, mean systolic shortening of the left ventricle: 17 mm, mean systolic tissue
+velocity: 9.1 cm/s and mean systolic strain rate (shortening velocity per length unit) – 1.1 s-1To compare the usefulness of the different measures, we look at the reproducibility of the results, doing repeated measurements. Which measure of repeatability would be
+best here for comparison of the accuracy of the different measures?
+O
+Limits of agreement
+O
+Correlation
+O
+Mean error
+O
+kappa coefficient
+
+Q
+B
+The meshwork that forms the fabric of a blood clot is:
+O
+chymotrypsin.
+O
+fibrin.
+O
+thrombin.
+O
+collagen.
+
+Q
+A
+Antihistamine treatment reduces:
+O
+blood vessel dilation.
+O
+phagocytosis of antigens.
+O
+MHC presentation by macrophages.
+O
+the secondary immune response.
+
+Q
+B
+What is the origin of the signal in clinical magnetic resonance imaging?
+O
+Iron ions.
+O
+Hydrogen nuclei (protons).
+O
+Water molecules.
+O
+Injected magnetic particles.
+
+Q
+A
+What do we mean by T1-relaxation in MRI?
+O
+The regrowth of longitudinal magnetization towards the thermal equilibrium value.
+O
+The loss in phase coherence after application of an rf-pulse.
+O
+The loss in transverse magnetization.
+O
+The loss of longitudinal magnetization when applying an rf-pulse.
+
+Q
+B
+Which hardware component in an MR system enables spatial encoding of the signal?
+O
+The main superconducting magnet.
+O
+The radiofrequency antennas/coils.
+O
+The gradient coils.
+O
+The computer.
+
+Q
+C
+The most important single factor for regulation of the ventilation is:
+O
+Low oxygen saturation of the blood
+O
+Low pH in the blood
+O
+High CO2 content of the blood
+O
+Low oxygen content in the alveolar air
+
+Q
+C
+Kidney transplantation is over all the best treatment of serious terminal renal failure, although not without side effects.. Which of the following statements are NOT correct?
+O
+Transplantation is cheaper than dialysis in the long term
+O
+Transplantation gives better quality of life than dialysis
+O
+Transplantation gives more problems with hypertension, as the patients must use many medicines that may increase blood pressure
+O
+Transplantation gives better survival
+
+Q
+B
+It is possible to open the bile ducts down to the intestine and remove stones from the duct with an endoscope. To open the bile duct one uses:
+O
+A thin knife through the endoscope
+O
+A thin metal tread with electrical current through the scope
+O
+An inflatable balloon through the scope
+O
+Injection of a medicine through the scope
+
+Q
+C
+One of these factors is of central importance in the development of all cancer tumours.
+O
+Changed cellular metabolism
+O
+Changed cellular glucose uptake
+O
+Accumulation of mutations
+O
+Accumulation of waste products
+
+Q
+B
+Compared to cohort studies, what is a major limitation of the case-control design in the study of a causal relation between a factor (= exposure) and a disease (= outcome)?
+O
+A case-control study is more expensive and takes longer time
+O
+There may be bias (= systematic error) in the measured presence or absence of the suspected factor (exposure)
+O
+There may be bias (= systematic error) in the measured presence or absence of the resulting outcome (disease)
+O
+It is difficult to identify (ascertain/skaffe) appropriate controls
+
+Q
+B
+The Polymerase chain reaction (PCR) is a method that:
+O
+Uses restriction enzymes to split the DNA into smaller pieces
+O
+Amplifies small amounts of DNA into several thousand copies
+O
+Separates DNA fragments based on size
+O
+Visualise DNA fragments in a gel by a fluorescence dye
+
+Q
+A
+The cell (division) cycle is the series of events in a cell between one cell division and the next, leading to its division and replication. The cycle consists of several distinct phases, where one of the phases is called S (synthesis) phase. - What is the most important event that happens in this phase of the cell cycle?
+O
+DNA replication
+O
+Cytokinesis
+O
+Mitosis
+O
+DNA repair
+
+Q
+B
+What is the function of the sodium-potassium pump?
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by utilizing the membrane potential
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP
+O
+Transporting of sodium and potassium from high to low concentration by facilitated diffusion.
+O
+Equalize extracellular and intracellular concentration of Sodium and Potassium.
+
+Q
+B
+And what is the result of this process?
+O
+Utilizing the concentration gradient of sodium and potassium for synthesis of ATP.
+O
+The concentration gradient of potassium lead to a diffusion of potassium that is not f followed by anionic diffusion, and this builds up a membrane potential
+O
+As the concentration differences of potassium and sodium across the cell membrane are removed (equalized), the differences in protein anions will create a membrane potential.
+O
+As the intracellular concentrations of sodium and potassium becomes equal, the membrane potential is determined by the concentration of calcium.
+
+Q
+D
+As muscle relaxes, the relaxation itself is an energy demanding process, meaning that a contracted muscle will not relax if the cell is depleted of energy. What is the energy demanding process in the cell responsible for relaxation?
+O
+The active elongation of the cell, as the actin – myosin cross bridges turns the other way, pushing action and myosin from each other.
+O
+The uncoupling of actin-myosin cross bridges
+O
+The restoration of the normal resting membrane potential.
+O
+The active removal of calcium from the cytoplasm
+
+Q
+B
+Where is the regulatory centre for respiration situated in the nervous system?
+O
+The sympathetic ganglia
+O
+The brain stem
+O
+The cerebellum
+O
+The basal ganglia
+
+Q
+D
+Which of these factors are important for the resolution in an ultrasound image?
+O
+Only the wavelength
+O
+Only the frequency
+O
+Only the probe aperture size
+O
+All of the others
+
+Q
+C
+What are the main biological effects of diagnostic ultrasound?
+O
+Chemical, due to ionization
+O
+Chemical, due to free radical formation
+O
+Thermal (i.e. tissue heating)
+O
+Cellular, due to mechanical cell disruption
+
+Q
+B
+Diagnostic ultrasound used in the heart has a frequency around 2 MHz. What approximate wavelength does this frequency correspond to?
+O
+0.17 mm
+O
+0.77 mm
+O
+7.7 mm
+O
+17 mm
+
+Q
+D
+What is the reason Technetium can be used for imaging of so many different organs?
+O
+Because technetium is so reactive, it will react with molecules in most cells when injected
+O
+Because Technetium emits so many different wavelengths, depending on the tissue composition, making it possible to select the wavelengths from different tissues with adjustment of the gamma camera
+O
+Because technetium has different isotopes with affinity for different tissues
+O
+Because technetium is so reactive, it can be bound to many different chemical compounds that have affinity for different tissues
+
+Q
+A
+The aortic valve may be calcified and narrow due to disease. What happens to the blood dynamics through that valve during systole? (Remember: Velocity: meters/sec, Flow: litres/min)
+O
+The blood velocity increases
+O
+The blood velocity decreases
+O
+The blood flow increases
+O
+The blood flow decreases
+
+Q
+D
+And what imaging modality would be most useful in showing this effect?
+O
+Pet scan
+O
+CT
+O
+Ultrasound M-mode
+O
+Ultrasound Doppler
+
+Q
+C
+The ejection fraction is used a measure of ventricular function. An endurance athlete has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 5.5 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?
+O
+66%
+O
+59%
+O
+52%
+O
+48%
+
+Q
+B
+We do a heart catheterization at rest (cardiac output is the same as in 29), and measure a hemoglobin of 16.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 82 kg. What is his oxygen uptake during the procedure?
+O
+3,5 ml/kg/min
+O
+4,6 ml/kg/min
+O
+10,8 ml/kg/min
+O
+15,5 ml/kg/min
+
+Q
+C
+A certain clinical study shows treatment 1 to be better to reduce the mortality (number of deaths) than treatment 2 for a certain disease with a p value (significance) of 20%. What does this mean?
+O
+The probability of dying of the disease with treatment 1 is 80% lower than with treatment
+O
+The numbers needed to treat the disease, in order to reduce the number of deaths by one, is 80% higher with treatment 1 instead of treatment 2.
+O
+The difference may be real, with a probability of 80%
+O
+The difference may be real, with a probability of 20%
+
+Q
+C
+The study power was calculated, and was found to be only 60% for the actual patient number and the desired significance level of 5%. What does that mean?
+O
+That only 60% of the patients would profit from treatment 1 over treatment 2
+O
+That 60% of the patients would survive with treatment 1, as opposed to only 40% with treatment 2
+O
+That there was only 60% probability of achieving a p value of 5%, even if the difference was real
+O
+That there was only 40% probability that the difference was real
+
+Q
+C
+Mean incidence of a virus epidemic in Trondheim in in a certain week was 10%. On the average 3.3% of the people were ill each day. What was the average duration of the disease?
+O
+One day
+O
+Two days
+O
+Three days
+O
+Four days
+
+Q
+B
+Ejection fraction measured by ultrasound has a high variability. Limits of agreement are ± 10% points. A patient who has had a small infarct had an ejection fraction of 53% (near normal) when he left the hospital. Two months later, he was admitted because of dyspnea, but had no new infarction. During the second stay, a new echocardiography was made, and they now found an EF of 41%. The diagnosis of worsening heart failure (HF) was made, and medical treatment for heart failure was started. The conclusion that the patient had worsening heart failure was:
+O
+Correct because the EF was below 45%
+O
+Correct because the EF had dropped by 12% points
+O
+Incorrect because a change of 12% points is not a significant change with this method
+O
+Incorrect because an EF of 41% is not compatible with heart failure.
+
+Q
+A
+The blood pressure is usually measured by inflating a cuff around the upper arm, and then reducing the pressure gradually. Which of the statements below are correct in relation to this procedure?
+O
+When the systolic pressure equals the pressure in the cuff, the artery will just start to open.
+O
+When the systolic pressure equals the cuff pressure, the artery is open during the whole heart cycle
+O
+When the diastolic pressure equals the pressure in the cuff, the artery will just start to open.
+O
+When the cuff pressure is zero, the blood flow in the artery starts.
+
+Q
+B
+Hypertension is a risk factor for stroke and heart infarction. What’s the limit between high normal blood pressure (prehypertension) and manifest hypertension (stage 1)?
+O
+120/80
+O
+140/90
+O
+160/100
+O
+180/110
+
+Q
+A
+What is the sensitivity of a certain diagnostic test?
+O
+The probability of having a positive test if you are ill
+O
+The probability of having a negative test if you are healthy
+O
+The probability of being ill if you have a positive test
+O
+The probability of being healthy if you have a negative test
+
+Q
+A
+Anaerobic respiration is a process where glucose is metabolised to lactic acid, producing a small amount of ATP. Where in the cell does this process take place?
+O
+The cytoplasm
+O
+Smooth endoplasmatic reticulum
+O
+The Golgi apparatus
+O
+The mitochondria
+
+Q
+C
+7 – 9l water per day enters the digestive system from food, drink and from local secretion. Only 1 – 2 dl is excreted in the feces. Where is the main part absorbed?
+O
+The Esophagus
+O
+The stomach
+O
+The small intestine
+O
+The large intestine
+
+Q
+C
+A marathon runner wants to increase his oxygen uptake by increasing his hemoglobin as much as possible. How can he achieve this in an efficient manner?
+O
+Only by taking iron injections s
+O
+Only by taking vitamin B12
+O
+Only by erythropoietin injections
+O
+All of the others
