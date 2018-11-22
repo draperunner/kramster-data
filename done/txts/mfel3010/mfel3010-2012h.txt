@@ -1,0 +1,488 @@
+Norges Teknisk-Naturvitenskaplige Universitet (NTNU)
+MFEL3010 Medicine for Students of Natural Sciences and Technology
+2012 Fall
+MC
+
+Q
+C
+The lungs have a state and size of equilibrium where there is a balance between elastic forces pulling the thorax wall outwards and the lungs inwards. Thus, we don’t need to use respiratory muscle activity to maintain this state. The different volumes of the lungs can be described by dynamic and static lung volumes. What is the name of the total gas volume we have in this equilibrium state?
+O
+Recidual volume (RV)
+O
+Expiratory reserve volume (ERV)
+O
+Functional recidual kapacity (FRC)
+O
+Inspiratory reserve volume (IRV)
+
+Q
+B
+What is the function of the sodium-potassium pump?
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by utilizing the membrane potential
+O
+Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP
+O
+Transporting of sodium and potassium from high to low concentration by facilitated diffusion.
+O
+Equalize extracellular and intracellular concentration of Sodium and Potassium.
+
+Q
+B
+And what is the result of this process?
+O
+Utilizing the concentration gradient of sodium and potassium for synthesis of ATP.
+O
+The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential
+O
+As the concentration differences of potassium and sodium across the cell membrane are removed (equalized), the differences in protein anions will create a membrane potential.
+O
+As the intracellular concentrations of sodium and potassium becomes equal, the membrane potential is determined by the concentration of calcium.
+
+Q
+B
+The kidney produces urine to get rid of waste products. What is the mechanism best describing how the "pre-urine" is produced in the glomerulus?
+O
+Proteins in the urine give a high osmotic pressure gradient that "drags" fluid into the urinary space
+O
+High hydrostatic pressure in the blood "push" fluid into the urinary space
+O
+The high concentration of albumin, which is negatively charged, "push" waste product with a negative charge into the urinary space.
+O
+Waste products in the blood are actively transported from the blood into the urinary space with active pumps at the glomerulus basal membrane.
+
+Q
+D
+And how much pre urine is produced in all nephrons of both kidneys during 24 hours?
+O
+Ca 1,6 litres
+O
+Ca 3 litres
+O
+Ca 20 litres
+O
+Ca 180 litres
+
+Q
+C
+What is the effect of antidiuretic hormone?
+O
+It stimulates active transport of water from the pre urine
+O
+It stimulates the active transport of sodium, and thus water follows passively
+O
+It increases the permeability of water in the collecting ducts
+O
+It inhibits emptying of the urinary bladder
+
+Q
+C
+The method called restriction fragment length polymorphism (RFLP) is used to:
+O
+Increase the amount of DNA found in a small sample
+O
+Increase the amount of DNA found in a degraded samples
+O
+Break up the DNA-strand into smaller pieces to compare DNA from different sources
+O
+To sequence the DNA on a base to base manner
+
+Q
+D
+Which characteristics of the hippocampus can be studied with MRI?
+O
+3D shape
+O
+memory-related activation
+O
+blood flow
+O
+all of the above
+
+Q
+C
+The structural and functional organization of the human body can be described on several different levels. Cells are the basic unit of life, yet cells can differ fundamentally when it comes to form, protein and organelle content, and function. How can such differences between to cell types be explained?
+O
+The two cell types have different DNA sequences in their genes
+O
+The two cell types use different genetic codes
+O
+The two cell types have different gene expression
+O
+The two cell types use different alternative splicing after transcription
+
+Q
+C
+What happens to the frequency of a disease if a new treatment prevents people from dying, but has no curative (= healing) effect?
+O
+The prevalence of the disease will decrease (= go down)
+O
+The incidence of the disease will increase (= go up)
+O
+The prevalence of the disease will increase
+O
+The incidence of the disease will decrease
+
+Q
+A
+Hypertension (high blood pressure) is an important risk factor for cardiovascular diseases like heart attack, stroke, etc. Which of the following is the most important cause of hypertension?
+O
+Obesity (overweight, body mass index >30)
+O
+Diabetes
+O
+Smoking
+O
+Hypercholesterolemia (high cholesterol level in the blood)
+
+Q
+C
+The blood pressure is usually measured by inflating a cuff around the upper arm, and then reducing the pressure gradually. Which of the statements below are correct in relation to this procedure?
+O
+When the cuff pressure falls below the systolic artery pressure, the artery is open during the whole heart cycle
+O
+When the cuff pressure falls below the diastolic artery pressure, the artery will just start to open.
+O
+When the cuff pressure falls below the diastolic artery pressure, the artery is open during the whole heart cycle
+O
+When the cuff pressure is zero, the blood flow in the artery starts.
+
+Q
+B
+
+And what is the limit between high normal blood pressure (prehypertension) and manifest hypertension (stage 1)?
+O
+120/80
+O
+140/90
+O
+160/100
+O
+180/110
+
+Q
+C
+The ejection fraction is used a measure of ventricular function. However, this has some limitations. Endurance training increases left ventricular volume and reduces heart rate. A certain (male) cross country skier has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 4.8 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?
+O
+78%
+O
+58%
+O
+46%
+O
+32%
+
+Q
+D
+During exercise, he has the ability to increase the ejection fraction to 85%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?
+O
+7 l/min
+O
+16 l/min
+O
+32 l/min
+O
+39 l/min
+
+Q
+B
+Maximum oxygen uptake (VO2max) is a measure of aerobic fitness. During maximal exercise, the oxygen extraction (= arteriovenous O2 difference) may be as high as 90% (i.e. arterial oxygen saturation of 100%, venous saturation of 10%). One gram of hemoglobin binds 1.4 ml O2. Given a body weight of 85 kg and hemoglobin of 15.4 g/dl, what is then his VO2max?
+O
+99 ml/kg/min
+O
+89 ml/kg/min
+O
+79 ml/kg/min
+O
+70 ml/kg/min
+
+Q
+D
+Endurance training increases the maximal oxygen uptake. What is the factor that is increased by training, and thus responsible for increased fitness?
+O
+The Hemoglobin
+O
+The Arterial oxygen saturation (meaning more efficient oxygenation by the lungs)
+O
+The maximal heart rate
+O
+The maximal stroke volume
+
+Q
+B
+The partial pressure of oxygen in the air decreases with altitude. If the partial pressure is reduced by 50%, how much will this reduce the oxygen saturation of blood?
+O
+Nothing
+O
+Moderately reduced, but substantially less than 50%
+O
+Ca 50%
+O
+Substantially more than 50%
+
+Q
+C
+A certain clinical study shows treatment 1 to be better to reduce the mortality (number of deaths) than treatment 2 for a certain disease with a p value (significance) of 10%. What does this mean?
+O
+The probability of dying of the disease with treatment 1 is 10% lower than with treatment 2
+O
+The number needed to treat the disease with treatment 1 instead of treatment 2, in order to reduce the number of deaths by one patient, is 10
+O
+The difference may be real, with a probability of 90%
+O
+The difference may be real, but only with a probability of 10%
+
+Q
+C
+The result were a little disappointing, as we like the significance level of a clinical study to be below 5% for the result to be useful. So the study power was calculated, and was found to be only 70% for the patient number and desired significance level of 5%. What does that mean?
+O
+That only 70% of the patients would profit from treatment 1 over treatment 2
+O
+That 70% of the patients would survive with treatment 1, as opposed to only 30% with treatment 2
+O
+That there was only 70% probability of achieving a p value of 5%, even if the difference was real
+O
+That there was only 30% probability that the difference was real
+
+Q
+C
+A recent study of different measures of left ventricular function gave the following results for mean values in the (healthy) study group: Mean ejection fraction 59%, mean systolic shortening of the left ventricle: 17 mm, mean systolic tissue velocity: 9.1 cm/s and mean systolic strain rate (shortening velocity per length unit) – 1.1 s-1
+To compare the usefulness of the different measures, we look at the reproducibility of the results, doing repeated measurements. Which measure of repeatability would be best here for comparison of the accuracy of the different measures?
+O
+Limits of agreement
+O
+Correlation
+O
+Mean error
+O
+kappa coefficient
+
+Q
+C
+Ultrasound Doppler can measure blood velocity. We are interested in measuring the blood velocity at a certain depth. This is done by pulsed Doppler. How is the depth selectivity achieved?
+O
+By varying the frequency in the transmitted signal
+O
+By varying the total energy in the transmitted signal
+O
+By selecting the reflected signal at a certain time after the pulse is sent out (time gating)
+O
+By selecting a certain frequency in the reflected signal (frequency gating)
+
+Q
+D
+Which of these factors are important for the resolution in an ultrasound image?
+O
+The wavelength
+O
+The frequency
+O
+The probe aperture size
+O
+All of the others
+
+Q
+C
+What are the main biological effects of diagnostic ultrasound?
+O
+Chemical, due to ionization
+O
+Chemical, due to free radical formation
+O
+Thermal (i.e. tissue heating)
+O
+Cellular, due to mechanical cell disruption
+
+Q
+C
+What is the principle of PET (positron emission tomography) scan?
+O
+Gamma rays are emitted directly by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.
+O
+Positrons are emitted by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.
+O
+Positrons are emitted by a radioisotope injected into the body, travels only a micro distance before being annihilated by collision with an electron. This produces two gamma photons in opposite directions that are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.
+O
+Positive alpha particles are emitted directly by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.
+
+Q
+D
+A researcher has performed a radioimmunoassay. The setup includes standards, a negative control, a positive control and 50 samples from an experiment. Upon evaluating the results, she finds that the negative control is higher than the predefined limit. What is the best conclusion she can draw?
+O
+The setup is reliable if the positive control is OK
+O
+The setup is OK if the sample results seem reasonable
+O
+The negative control should be repeated before the conclusion is drawn
+O
+The entire setup should be discarded and repeated
+
+Q
+C
+What is an oncogene?
+O
+A gene that codes for enzymes that repair damaged DNA
+O
+A gene that regulates cell growth and death
+O
+A mutated growth regulator gene
+O
+A gene giving the cancer cells ability to break down connective tissue to facilitate metastasis.
+
+Q
+D
+You happen to be admitted to the cardiology department for chest pain and palpitations (a noticeably rapid, strong, or irregular heartbeat due to agitation, exertion, or illness) and is being examined by Dr. Asbjørn Heart, a consultant in cardiology. Upon completion of the examination, he uses an Electronic health record system to prepare a clinical note. You suffer from atrial fibrillation. You are put on a anticoagulant (a substance having the effect of retarding or inhibiting the coagulation of the blood), discharged from the hospital the next day, and scheduled for a follow- up with Dr. Heart within three weeks.
+Five days later, you develop a nose bleeding (that might be related to the use of the anticoagulant). You rush to visit your primary care physician (fastlege). He queries his primary care EHR-system, but cannot find any discharge letter from the hospital, and is not aware that you are using an anticoagulant. He seeks to find out by making a phone call to Dr. Heart.
+Which of the following clinical purposes of Electronic health record (EHR) systems applies to the situation of your primary care physician?
+O
+EHR systems shall facilitate the clinical care of individual patients by making information available to others with access to the record system who are involved in the care of the same patients.
+O
+EHR systems shall facilitate the clinical care of individual patients by providing information for inclusion in other documents (e.g. laboratory requests referrals and medical reports).
+O
+EHR systems shall facilitate the clinical care of individual patients by providing information to patients about their health and health care.
+O
+EHR systems shall facilitate the clinical care of individual patients by storing information received from other parties or organizations (e.g. laboratory results and letters from specialists).
+
+Q
+C
+Which hardware component in an MR system enables spatial encoding of the signal?
+O
+The main superconducting magnet.
+O
+The radiofrequency antennas/coils.
+O
+The gradient coils.
+O
+The computer.
+
+Q
+B
+The stomach epithelium secretes hydrochloric acid into the lumen, making the contents very acidic. What is the function of this low pH?
+O
+It stimulates the secretion of gastrin, in order to facilitate digestion by increasing the secretions in the duodenum.
+O
+It activates and optimizes the Pepsin action of digesting proteins in the stomach
+O
+It acts by emulsifying fat in the watery solution
+O
+It is necessary to neutralize the bicarbonate that is secreted in the duodenum by the pancreas
+
+Q
+C
+7 – 9l water per day enters the digestive system from food, drink and from local secretion. Only 1 – 2 dl is excreted in the feces. Where is the main part absorbed?
+O
+The Esophagus
+O
+The stomach
+O
+The small intestine
+O
+The large intestine
+
+Q
+B
+In diabetes glucose is found in the urine as a sign of elevated blood sugar. What is the mechanism for this?
+O
+Glucose is normally not filtrated in the urine, only in elevated blood sugar.
+O
+In elevated blood sugar, the renal capacity for reabsorption is exceeded by the urine concentration of glucose
+O
+In elevated blood sugar the excess amount of sugar is actively secreted in the urine
+O
+In elevated blood sugar the epithelium becomes permeable for glucose
+
+Q
+A
+The previous question: "In diabetes glucose is found in the urine as a sign of elevated blood sugar. What is the mechanism for this?". What will happen if there are large amounts of glucose in the urine?
+O
+The amount of urine (water) will increase due to the osmotic effect of the glucose
+O
+The amount of urine will decrease, as the active reabsorption of glucose going at maximal capacity will reabsorb a larger volume of water through osmosis
+O
+The amount of urine (water) will decrease as the tubuli are filled with glucose replacing the water
+O
+The amount of urine is unchanged.
+
+Q
+A
+A blood vessel has a narrowing in a short segment. What will always happen to the blood dynamics in this narrow segment? (Velocity: meters/sec, Flow: litres/min)
+O
+The blood velocity increases
+O
+The blood velocity decreases
+O
+The blood flow increases
+O
+The blood flow decreases
+
+Q
+C
+A child has been wounded by steel fragments from a cluster bomb. Which of these imaging methods should definitely not be used to locate the fragments in the body for safety reasons?
+O
+Ultrasound
+O
+X-ray
+O
+MRI
+O
+Nuclear imaging
+
+Q
+B
+Previous question: "A child has been wounded by steel fragments from a cluster bomb. Which of these imaging methods should definitely not be used to locate the fragments in the body for safety reasons?". Which method would be best from a diagnostic point of view?
+O
+Ultrasound
+O
+X-ray
+O
+MRI
+O
+Nuclear imaging
+
+Q
+A
+Hyperventilation may happen as a result of pain or stress. What happens to the pH in the blood?
+O
+Increases
+O
+Unchanged
+O
+Decreases
+O
+There will be increased oscillations between inspiration and expiration
+
+Q
+C
+Anemia is a state of reduced hemoglobin content of the blood. What dietary requirement is essential for normal hemoglobin?
+O
+Calcium
+O
+Magnesium
+O
+Iron
+O
+Iodine
+
+Q
+D
+The cut off limits between anemia and normal hemoglobin are usually set at 12 g/dl for women and 13 g/dl for men. The measurement of hemoglobin is variable, and has limits of agreement around 1.2 g/dl. A man sees his doctor for a routine checkup, and the doctor finds a hemoglobin of 13.5. He checks his records and at the last check up visit, the hemoglobin was 14.2. The doctor prescribes iron medication due to the drop in the value, in order to prevent development of anemia. This decision is:
+O
+Correct, as the drop in hemoglobin obviously shows iron deficiency or iron loss
+O
+Correct anyway, everybody should take iron supplements, as the normal food in any case contains too little iron.
+O
+Incorrect, because the value does not fulfill the definition of anemia
+O
+Incorrect, because the drop in hemoglobin is not significant.
+
+Q
+D
+A marathon runner wants to increase his oxygen uptake by increasing his hemoglobin as much as possible, without using illegal methods. How can he achieve this?
+O
+By taking iron supplies as pills
+O
+By taking iron injections
+O
+By taking vitamin B12
+O
+None of the others
